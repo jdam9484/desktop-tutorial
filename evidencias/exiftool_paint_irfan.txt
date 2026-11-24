@@ -1,0 +1,53 @@
+======== muestras/minimo_paint.png
+ExifTool 13.64
+System minimo_paint.png
+System muestras
+System 537 bytes
+System 2026:11:24 12:28:36-05:00
+System 2026:11:24 12:28:39-05:00
+System 2026:11:24 12:27:51-05:00
+System -rw-rw-rw-
+File PNG
+File png
+File image/png
+PNG 10
+PNG 10
+PNG 8
+PNG RGB with Alpha
+PNG Deflate/Inflate
+PNG Adaptive
+PNG Noninterlaced
+PNG Perceptual
+PNG 2.2
+PNG-pHYs 4724
+PNG-pHYs 4724
+PNG-pHYs meters
+XMP-rdf uuid:faf5bdd5-ba3d-11da-ad31-d33d75182f1b
+XMP-tiff Horizontal (normal)
+Composite 10x10
+Composite 0.000100
+======== muestras/minimo_irfan.jpg
+ExifTool 13.64
+System minimo_irfan.jpg
+System muestras
+System 288 bytes
+System 2026:11:24 12:28:05-05:00
+System 2026:11:24 12:28:49-05:00
+System 2026:11:24 12:28:05-05:00
+System -rw-rw-rw-
+File JPEG
+File jpg
+File image/jpeg
+File 10
+File 10
+File Baseline DCT, Huffman coding
+File 8
+File 3
+File YCbCr4:2:0 (2 2)
+JFIF 1.01
+JFIF None
+JFIF 1
+JFIF 1
+Composite 10x10
+Composite 0.000100
+    2 image files read

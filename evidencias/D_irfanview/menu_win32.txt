@@ -1,0 +1,265 @@
+File
+  Open...  [O]
+  Reopen  [Shift+R]
+  Open Recent files
+    Clear Recent files
+  Open Recent saved files
+    Clear Recent files
+  Open with external editor
+    Editor 1  [Shift+1]
+    Editor 2  [Shift+2]
+    Editor 3  [Shift+3]
+    IrfanView  [Ctrl+N]
+  Open as
+    HEX file...
+    ASCII file...
+    RAW file...
+  Thumbnails  [T]
+  Slideshow...  [W]
+  Start slideshow with current file list  [Ctrl+W]
+  Batch Conversion/Rename...  [B]
+  Search files...  [Ctrl+F]
+  Rename File...  [F2]
+  Move File...  [F7]
+  Copy File...  [F8]
+  Delete File  [Del]
+  Save (original folder)  [Ctrl+S]
+  Save as...  [S]
+  Compare images...
+  Save Selection as...  [Ctrl+Shift+B]
+  Print...  [Ctrl+P]
+  Select Scan/TWAIN Source...
+  Acquire/Batch scanning...  [Ctrl+Shift+A]
+  Copy Shop...
+  Exit  [Esc]
+Edit
+  Favorite menus
+    Clear Favorite menus
+  Undo  [Ctrl+Z]
+  Redo  [Ctrl+J]
+  Show Paint dialog  [F12]
+  Create custom selection...  [Shift+C]
+  Create maximized selection (ratio:)
+    1 : 1
+    3 : 2
+    4 : 3
+    16 : 9
+    16 : 10
+    21 : 9 (2.370:1)
+    2 : 3
+    3 : 4
+    9 : 16
+    10 : 16
+    Current custom selection
+  Restore last selection
+  Maximize and center selection
+  Use inverted selection (for effects in Image menu)
+  Set selection shape and grid
+    Rectangle selection (default)
+    Round selection
+    Freehand selection
+    No grid
+    Golden Ratio grid
+    Thirds grid
+    Fourths grid
+  Show fixed grid
+  Insert text...  [Ctrl+T]
+  Insert overlay/watermark color/image...
+  Cut - selection  [Ctrl+X]
+  Cut - area outside of the selection
+  Remove/Insert Strip (uses selection)
+    Remove horizontal strip (sel. height)
+    Remove vertical strip (sel. width)
+    Insert horizontal strip (sel. height)
+    Insert vertical strip (sel. width)
+  Crop selection (Cut out)  [Ctrl+Y]
+  Auto-crop borders  [Ctrl+Shift+Y]
+  Auto-crop borders - Show selection
+  Crop visible image area (if scrollbars visible)
+  Capture visible window area (incl. zoom)
+  Copy  [Ctrl+C]
+  Paste  [Ctrl+V]
+  Paste Special (add on side)
+    to Right
+    to Left
+    to Bottom
+    to Top
+    Change paste counter
+  Delete (Clear display)  [D]
+  Clear Clipboard
+Image
+  Information...  [I]
+  Create New (empty) image...  [Shift+N]
+  Merge images (Simple Panorama image)...
+  Rotate Left (counter-clockwise)  [L]
+  Rotate Right (clockwise)  [R]
+  Custom/Fine rotation...  [Ctrl+U]
+  Vertical Flip  [V]
+  Horizontal Flip  [H]
+  Resize/Resample...  [Ctrl+R]
+  Change canvas size...  [Shift+V]
+  Add Shadow, Shapes, Rounded corners...
+  Add Hexagon/Star/Heart...
+  Add border/frame...  [Ctrl+D]
+  Increase Color Depth...
+  Decrease Color Depth...
+  Convert to Grayscale  [Ctrl+G]
+  Show channel
+    Red
+    Green
+    Blue
+    Alpha
+  Negative (invert image)
+    All channels  [Ctrl+Shift+N]
+    Red channel
+    Green channel
+    Blue channel
+  Color corrections...  [Shift+G]
+  Edit or Set alpha/transparency color...
+  Histogram...  [Shift+H]
+  Replace Color...
+  Create Tiled images...
+  Auto-adjust colors  [Shift+U]
+  Sharpen  [Shift+S]
+  Red eye reduction (selection)  [Shift+Y]
+  Effects
+    Effects browser...  [Ctrl+E]
+    3D Button
+    Blur
+    Emboss
+    Oil Paint
+    Edge Detection
+    Median Filter
+    Explosion
+    Pixelize
+    Sepia
+    Rain Drops
+    Stained Glass effect...
+    Skew/Shear image effect...
+    Tilt-Shift effect...
+    Insert Speech Bubbles/Balloons...
+    AltaLux effect... (PlugIn)
+    Filter Sandbox... (PlugIn)
+    Film Simulation effect... (PlugIn)
+    Filter Factory... (PlugIn)  [K]
+  Adobe 8BF PlugIns
+    Filter dialog...  [Ctrl+K]
+    Perspective Transformations
+    SmartCurve
+    Wire Worm
+    Harry's Filters
+    PopArt
+  Swap Colors
+    RGB -> RBG
+    RGB -> BGR
+    RGB -> BRG
+    RGB -> GRB
+    RGB -> GBR
+  Palette
+    Edit palette...
+    Export palette...
+    Import palette...
+Options
+  Properties/Settings...  [P]
+  Change language...
+  Set file associations...
+  Start Multimedia Player (PlugIn)
+  Stop/Resume Animation  [G]
+  Extract all frames...
+  Export image tiles (split image)...
+  Multipage images
+    Create Multipage TIF...
+    Create Multipage PDF... (PlugIn)
+    Edit Multipage TIF...  [Ctrl+Q]
+    Edit Multipage PDF... (PlugIn)
+    Append current image to TIF...
+    Append current image to PDF... (PlugIn)
+    Print all pages...
+    Extract all pages...
+  Send file by EMail... (PlugIn)  [Shift+M]
+  JPG Lossless Rotation... (PlugIn)  [Shift+J]
+  JPG Lossless Crop... (PlugIn)  [Ctrl+Shift+J]
+  Change JPG EXIF date/time (taken)... (PlugIn)
+  Create new JPG EXIF data... (PlugIn)
+  Capture/Screenshot...  [C]
+  Hotfolder (watch folder)...
+  Start OCR... (PlugIn)  [F9]
+  Sort file list
+    by Name
+    by Name (natural/logic order)
+    by Date
+    by EXIF Date (date taken, slower)
+    by Size
+    by Extension (file type)
+    No sort
+    Descending
+  Set as Wallpaper
+    Centered  [Ctrl+Shift+C]
+    Fill  [Ctrl+Shift+F]
+    Tiled  [Ctrl+Shift+T]
+    Stretched  [Ctrl+Shift+S]
+    Stretched (proportional)  [Ctrl+Shift+X]
+    Span (over all screens)
+    Previous wallpaper  [Ctrl+Shift+P]
+    Same image on all monitors
+  Minimize  [M]
+  Always on Top
+View
+  Show/hide status bar  [Alt+Shift+S]
+  Show/hide toolbar  [Alt+Shift+T]
+  Show/hide menu bar  [Alt+Shift+M]
+  Show/hide caption  [Alt+Shift+C]
+  Show Toolbar options/skins...
+  Display options (window mode)
+    Fit window to image (1:1, recommended)  [Shift+O]
+    Fit images to window  [Shift+W]
+    Fit only big images to window
+    Fit images to window width
+    Fit images to window height
+    Fit small image side to window
+    Fit images to desktop  [F]
+    Fit only big images to desktop  [Shift+F]
+    Fit images to desktop width
+    Fit images to desktop height
+    Fit small image side to desktop
+    Do not fit anything
+    Use Resample for fitting (better quality)
+    Use Resample for zooming
+    Apply sharpen after Resample
+    Center (smaller) images in window
+  Full screen  [Enter]
+  Show Fullscreen options...
+  Next File in Folder/List  [Space]
+  Previous File in Folder/List  [Backspace]
+  First File in Folder/List  [Ctrl+Home]
+  Last File in Folder/List  [Ctrl+End]
+  Random File in Folder/List  [Ctrl+M]
+  Refresh  [F5 or U]
+  Start/Stop automatic viewing  [Shift+A]
+  Zoom In  [+]
+  Zoom Out  [-]
+  Lock Zoom  [Shift+L]
+  Lock Scroll position  [Ctrl+Shift+K]
+  Original size  [Ctrl+H]
+  Show HEX view  [F3]
+  Multipage images
+    Next page  [Ctrl+PgDown]
+    Previous page  [Ctrl+PgUp]
+    First page  [Shift+Home]
+    Last page  [Shift+End]
+    Open page number...
+    Show page thumbnails...  [F10]
+    Auto-show page thumbnails
+    Start animation...
+    Stop animation
+Help
+  IrfanView Help  [F1]
+  Frequently Asked Questions
+  Keyboard Shortcuts
+  Installed PlugIns...
+  Thanks...
+  Credits...
+  Registration...
+  Check homepage for updates...
+  Usage Info...
+  About IrfanView...  [A]

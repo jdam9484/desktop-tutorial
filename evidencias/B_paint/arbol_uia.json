@@ -1,0 +1,3250 @@
+[
+ {
+  "nivel": 0,
+  "tipo": "Window",
+  "nombre": "Sin título - Paint",
+  "id": "",
+  "clase": "MSPaintApp",
+  "atajo": "",
+  "rect": [
+   187,
+   136,
+   1723,
+   1096
+  ]
+ },
+ {
+  "nivel": 1,
+  "tipo": "Pane",
+  "nombre": "",
+  "id": "",
+  "clase": "Microsoft.UI.Content.DesktopChildSiteBridge",
+  "atajo": "",
+  "rect": [
+   196,
+   174,
+   1714,
+   1087
+  ]
+ },
+ {
+  "nivel": 2,
+  "tipo": "Pane",
+  "nombre": "",
+  "id": "",
+  "clase": "InputSiteWindowClass",
+  "atajo": "",
+  "rect": [
+   196,
+   174,
+   1714,
+   1087
+  ]
+ },
+ {
+  "nivel": 3,
+  "tipo": "Custom",
+  "nombre": "",
+  "id": "",
+  "clase": "",
+  "atajo": "",
+  "rect": [
+   196,
+   174,
+   1714,
+   1087
+  ]
+ },
+ {
+  "nivel": 4,
+  "tipo": "MenuBar",
+  "nombre": "",
+  "id": "",
+  "clase": "",
+  "atajo": "",
+  "rect": [
+   196,
+   174,
+   430,
+   224
+  ]
+ },
+ {
+  "nivel": 5,
+  "tipo": "MenuItem",
+  "nombre": "Archivo",
+  "id": "",
+  "clase": "Microsoft.UI.Xaml.Controls.MenuBarItem",
+  "atajo": "Alt, F",
+  "rect": [
+   201,
+   179,
+   285,
+   219
+  ]
+ },
+ {
+  "nivel": 6,
+  "tipo": "Button",
+  "nombre": "Archivo",
+  "id": "ContentButton",
+  "clase": "Button",
+  "atajo": "",
+  "rect": [
+   201,
+   179,
+   285,
+   219
+  ]
+ },
+ {
+  "nivel": 7,
+  "tipo": "Text",
+  "nombre": "Archivo",
+  "id": "",
+  "clase": "TextBlock",
+  "atajo": "",
+  "rect": [
+   213,
+   187,
+   272,
+   211
+  ]
+ },
+ {
+  "nivel": 5,
+  "tipo": "MenuItem",
+  "nombre": "Editar",
+  "id": "",
+  "clase": "Microsoft.UI.Xaml.Controls.MenuBarItem",
+  "atajo": "Alt, E, D",
+  "rect": [
+   295,
+   179,
+   365,
+   219
+  ]
+ },
+ {
+  "nivel": 6,
+  "tipo": "Button",
+  "nombre": "Editar",
+  "id": "ContentButton",
+  "clase": "Button",
+  "atajo": "",
+  "rect": [
+   295,
+   179,
+   365,
+   219
+  ]
+ },
+ {
+  "nivel": 7,
+  "tipo": "Text",
+  "nombre": "Editar",
+  "id": "",
+  "clase": "TextBlock",
+  "atajo": "",
+  "rect": [
+   308,
+   187,
+   353,
+   211
+  ]
+ },
+ {
+  "nivel": 5,
+  "tipo": "MenuItem",
+  "nombre": "Ver",
+  "id": "",
+  "clase": "Microsoft.UI.Xaml.Controls.MenuBarItem",
+  "atajo": "Alt, V",
+  "rect": [
+   375,
+   179,
+   425,
+   219
+  ]
+ },
+ {
+  "nivel": 6,
+  "tipo": "Button",
+  "nombre": "Ver",
+  "id": "ContentButton",
+  "clase": "Button",
+  "atajo": "",
+  "rect": [
+   375,
+   179,
+   425,
+   219
+  ]
+ },
+ {
+  "nivel": 7,
+  "tipo": "Text",
+  "nombre": "Ver",
+  "id": "",
+  "clase": "TextBlock",
+  "atajo": "",
+  "rect": [
+   387,
+   187,
+   412,
+   211
+  ]
+ },
+ {
+  "nivel": 4,
+  "tipo": "Button",
+  "nombre": "Guardar",
+  "id": "",
+  "clase": "AppBarButton",
+  "atajo": "Ctrl+S",
+  "rect": [
+   441,
+   179,
+   481,
+   219
+  ]
+ },
+ {
+  "nivel": 5,
+  "tipo": "Text",
+  "nombre": "",
+  "id": "",
+  "clase": "TextBlock",
+  "atajo": "",
+  "rect": [
+   450,
+   188,
+   473,
+   208
+  ]
+ },
+ {
+  "nivel": 4,
+  "tipo": "Button",
+  "nombre": "Compartir",
+  "id": "",
+  "clase": "AppBarButton",
+  "atajo": "Alt, D",
+  "rect": [
+   497,
+   179,
+   537,
+   219
+  ]
+ },
+ {
+  "nivel": 5,
+  "tipo": "Text",
+  "nombre": "",
+  "id": "",
+  "clase": "TextBlock",
+  "atajo": "",
+  "rect": [
+   506,
+   188,
+   529,
+   208
+  ]
+ },
+ {
+  "nivel": 4,
+  "tipo": "Button",
+  "nombre": "Deshacer",
+  "id": "",
+  "clase": "AppBarButton",
+  "atajo": "Ctrl+Z",
+  "rect": [
+   553,
+   179,
+   593,
+   219
+  ]
+ },
+ {
+  "nivel": 5,
+  "tipo": "Text",
+  "nombre": "",
+  "id": "",
+  "clase": "TextBlock",
+  "atajo": "",
+  "rect": [
+   562,
+   188,
+   584,
+   208
+  ]
+ },
+ {
+  "nivel": 4,
+  "tipo": "Button",
+  "nombre": "Rehacer",
+  "id": "",
+  "clase": "AppBarButton",
+  "atajo": "Ctrl+Y",
+  "rect": [
+   603,
+   179,
+   643,
+   219
+  ]
+ },
+ {
+  "nivel": 5,
+  "tipo": "Text",
+  "nombre": "",
+  "id": "",
+  "clase": "TextBlock",
+  "atajo": "",
+  "rect": [
+   612,
+   188,
+   634,
+   208
+  ]
+ },
+ {
+  "nivel": 4,
+  "tipo": "Button",
+  "nombre": "Novedades",
+  "id": "",
+  "clase": "AppBarButton",
+  "atajo": "",
+  "rect": [
+   1584,
+   179,
+   1624,
+   219
+  ]
+ },
+ {
+  "nivel": 5,
+  "tipo": "Text",
+  "nombre": "",
+  "id": "",
+  "clase": "TextBlock",
+  "atajo": "",
+  "rect": [
+   1593,
+   188,
+   1616,
+   208
+  ]
+ },
+ {
+  "nivel": 4,
+  "tipo": "Button",
+  "nombre": "Iniciar sesión",
+  "id": "",
+  "clase": "AppBarButton",
+  "atajo": "Alt, S, I",
+  "rect": [
+   1629,
+   179,
+   1669,
+   219
+  ]
+ },
+ {
+  "nivel": 5,
+  "tipo": "Text",
+  "nombre": "Persona",
+  "id": "",
+  "clase": "Microsoft.UI.Xaml.Controls.PersonPicture",
+  "atajo": "",
+  "rect": [
+   1634,
+   184,
+   1664,
+   214
+  ]
+ },
+ {
+  "nivel": 6,
+  "tipo": "Text",
+  "nombre": "",
+  "id": "InitialsTextBlock",
+  "clase": "TextBlock",
+  "atajo": "",
+  "rect": [
+   1643,
+   193,
+   1656,
+   205
+  ]
+ },
+ {
+  "nivel": 4,
+  "tipo": "Button",
+  "nombre": "Abrir configuración",
+  "id": "SettingsButton",
+  "clase": "AppBarButton",
+  "atajo": "Alt, Y",
+  "rect": [
+   1669,
+   179,
+   1709,
+   219
+  ]
+ },
+ {
+  "nivel": 5,
+  "tipo": "Text",
+  "nombre": "",
+  "id": "",
+  "clase": "TextBlock",
+  "atajo": "",
+  "rect": [
+   1678,
+   188,
+   1701,
+   208
+  ]
+ },
+ {
+  "nivel": 4,
+  "tipo": "Group",
+  "nombre": "",
+  "id": "",
+  "clase": "LandmarkTarget",
+  "atajo": "",
+  "rect": [
+   196,
+   225,
+   1714,
+   362
+  ]
+ },
+ {
+  "nivel": 5,
+  "tipo": "Pane",
+  "nombre": "",
+  "id": "ScrollViewer",
+  "clase": "ScrollViewer",
+  "atajo": "",
+  "rect": [
+   196,
+   225,
+   1682,
+   361
+  ]
+ },
+ {
+  "nivel": 6,
+  "tipo": "Group",
+  "nombre": "Selección",
+  "id": "",
+  "clase": "NamedContainerAutomationPeer",
+  "atajo": "",
+  "rect": [
+   196,
+   230,
+   291,
+   356
+  ]
+ },
+ {
+  "nivel": 7,
+  "tipo": "RadioButton",
+  "nombre": "Seleccionar",
+  "id": "",
+  "clase": "Microsoft.UI.Xaml.Controls.SplitButton",
+  "atajo": "Alt, S, E",
+  "rect": [
+   218,
+   247,
+   268,
+   314
+  ]
+ },
+ {
+  "nivel": 8,
+  "tipo": "Button",
+  "nombre": "",
+  "id": "PrimaryButton",
+  "clase": "Button",
+  "atajo": "",
+  "rect": [
+   219,
+   248,
+   267,
+   291
+  ]
+ },
+ {
+  "nivel": 9,
+  "tipo": "Image",
+  "nombre": "",
+  "id": "",
+  "clase": "Image",
+  "atajo": "",
+  "rect": [
+   228,
+   255,
+   258,
+   285
+  ]
+ },
+ {
+  "nivel": 8,
+  "tipo": "Button",
+  "nombre": "Más opciones",
+  "id": "SecondaryButton",
+  "clase": "Button",
+  "atajo": "",
+  "rect": [
+   219,
+   293,
+   267,
+   313
+  ]
+ },
+ {
+  "nivel": 7,
+  "tipo": "Text",
+  "nombre": "Selección",
+  "id": "",
+  "clase": "TextBlock",
+  "atajo": "",
+  "rect": [
+   211,
+   331,
+   275,
+   351
+  ]
+ },
+ {
+  "nivel": 6,
+  "tipo": "Group",
+  "nombre": "Imagen",
+  "id": "",
+  "clase": "NamedContainerAutomationPeer",
+  "atajo": "",
+  "rect": [
+   291,
+   230,
+   489,
+   356
+  ]
+ },
+ {
+  "nivel": 7,
+  "tipo": "Button",
+  "nombre": "Recortar",
+  "id": "CropButton",
+  "clase": "Button",
+  "atajo": "Alt, I, C",
+  "rect": [
+   306,
+   236,
+   346,
+   276
+  ]
+ },
+ {
+  "nivel": 8,
+  "tipo": "Text",
+  "nombre": "",
+  "id": "",
+  "clase": "TextBlock",
+  "atajo": "",
+  "rect": [
+   316,
+   246,
+   336,
+   266
+  ]
+ },
+ {
+  "nivel": 7,
+  "tipo": "Button",
+  "nombre": "Quitar fondo",
+  "id": "",
+  "clase": "Button",
+  "atajo": "Alt, I, B",
+  "rect": [
+   306,
+   286,
+   346,
+   326
+  ]
+ },
+ {
+  "nivel": 8,
+  "tipo": "Image",
+  "nombre": "",
+  "id": "",
+  "clase": "Image",
+  "atajo": "",
+  "rect": [
+   311,
+   291,
+   341,
+   321
+  ]
+ },
+ {
+  "nivel": 7,
+  "tipo": "Button",
+  "nombre": "Girar",
+  "id": "RotateDropdown",
+  "clase": "Microsoft.UI.Xaml.Controls.DropDownButton",
+  "atajo": "Alt, I, O",
+  "rect": [
+   356,
+   236,
+   423,
+   276
+  ]
+ },
+ {
+  "nivel": 8,
+  "tipo": "Image",
+  "nombre": "",
+  "id": "",
+  "clase": "Image",
+  "atajo": "",
+  "rect": [
+   367,
+   246,
+   387,
+   266
+  ]
+ },
+ {
+  "nivel": 7,
+  "tipo": "Button",
+  "nombre": "Voltear",
+  "id": "Flip",
+  "clase": "Microsoft.UI.Xaml.Controls.DropDownButton",
+  "atajo": "Alt, I, F",
+  "rect": [
+   356,
+   286,
+   423,
+   326
+  ]
+ },
+ {
+  "nivel": 8,
+  "tipo": "Image",
+  "nombre": "",
+  "id": "",
+  "clase": "Image",
+  "atajo": "",
+  "rect": [
+   367,
+   296,
+   387,
+   316
+  ]
+ },
+ {
+  "nivel": 7,
+  "tipo": "Button",
+  "nombre": "Cambiar de tamaño y sesgar",
+  "id": "",
+  "clase": "Button",
+  "atajo": "Alt, I, E",
+  "rect": [
+   433,
+   261,
+   473,
+   301
+  ]
+ },
+ {
+  "nivel": 8,
+  "tipo": "Image",
+  "nombre": "",
+  "id": "",
+  "clase": "Image",
+  "atajo": "",
+  "rect": [
+   438,
+   266,
+   468,
+   296
+  ]
+ },
+ {
+  "nivel": 7,
+  "tipo": "Text",
+  "nombre": "Imagen",
+  "id": "Label",
+  "clase": "TextBlock",
+  "atajo": "",
+  "rect": [
+   364,
+   331,
+   415,
+   351
+  ]
+ },
+ {
+  "nivel": 6,
+  "tipo": "Group",
+  "nombre": "Herramientas",
+  "id": "",
+  "clase": "NamedContainerAutomationPeer",
+  "atajo": "",
+  "rect": [
+   489,
+   230,
+   660,
+   356
+  ]
+ },
+ {
+  "nivel": 7,
+  "tipo": "Button",
+  "nombre": "Lápiz",
+  "id": "PencilTool",
+  "clase": "ToggleButton",
+  "atajo": "Alt, T, P",
+  "rect": [
+   504,
+   236,
+   544,
+   276
+  ]
+ },
+ {
+  "nivel": 8,
+  "tipo": "Image",
+  "nombre": "",
+  "id": "",
+  "clase": "Image",
+  "atajo": "",
+  "rect": [
+   514,
+   246,
+   534,
+   266
+  ]
+ },
+ {
+  "nivel": 7,
+  "tipo": "Button",
+  "nombre": "Relleno",
+  "id": "",
+  "clase": "ToggleButton",
+  "atajo": "Alt, T, F",
+  "rect": [
+   554,
+   236,
+   594,
+   276
+  ]
+ },
+ {
+  "nivel": 8,
+  "tipo": "Image",
+  "nombre": "",
+  "id": "",
+  "clase": "Image",
+  "atajo": "",
+  "rect": [
+   564,
+   246,
+   584,
+   266
+  ]
+ },
+ {
+  "nivel": 7,
+  "tipo": "Button",
+  "nombre": "Texto",
+  "id": "",
+  "clase": "ToggleButton",
+  "atajo": "Alt, T, X",
+  "rect": [
+   604,
+   236,
+   644,
+   276
+  ]
+ },
+ {
+  "nivel": 8,
+  "tipo": "Image",
+  "nombre": "",
+  "id": "",
+  "clase": "Image",
+  "atajo": "",
+  "rect": [
+   614,
+   246,
+   634,
+   266
+  ]
+ },
+ {
+  "nivel": 7,
+  "tipo": "Button",
+  "nombre": "Borrador",
+  "id": "EraserTool",
+  "clase": "ToggleButton",
+  "atajo": "Alt, T, E",
+  "rect": [
+   504,
+   286,
+   544,
+   326
+  ]
+ },
+ {
+  "nivel": 8,
+  "tipo": "Image",
+  "nombre": "",
+  "id": "",
+  "clase": "Image",
+  "atajo": "",
+  "rect": [
+   514,
+   296,
+   534,
+   316
+  ]
+ },
+ {
+  "nivel": 7,
+  "tipo": "Button",
+  "nombre": "Selector de colores",
+  "id": "",
+  "clase": "ToggleButton",
+  "atajo": "Alt, T, C",
+  "rect": [
+   554,
+   286,
+   594,
+   326
+  ]
+ },
+ {
+  "nivel": 8,
+  "tipo": "Image",
+  "nombre": "",
+  "id": "",
+  "clase": "Image",
+  "atajo": "",
+  "rect": [
+   564,
+   296,
+   584,
+   316
+  ]
+ },
+ {
+  "nivel": 7,
+  "tipo": "Button",
+  "nombre": "Lupa",
+  "id": "",
+  "clase": "ToggleButton",
+  "atajo": "Alt, T, M",
+  "rect": [
+   604,
+   286,
+   644,
+   326
+  ]
+ },
+ {
+  "nivel": 8,
+  "tipo": "Image",
+  "nombre": "",
+  "id": "",
+  "clase": "Image",
+  "atajo": "",
+  "rect": [
+   614,
+   296,
+   634,
+   316
+  ]
+ },
+ {
+  "nivel": 7,
+  "tipo": "Text",
+  "nombre": "Herramientas",
+  "id": "Label",
+  "clase": "TextBlock",
+  "atajo": "",
+  "rect": [
+   528,
+   331,
+   619,
+   351
+  ]
+ },
+ {
+  "nivel": 6,
+  "tipo": "Group",
+  "nombre": "Pinceles",
+  "id": "",
+  "clase": "NamedContainerAutomationPeer",
+  "atajo": "",
+  "rect": [
+   660,
+   230,
+   746,
+   356
+  ]
+ },
+ {
+  "nivel": 7,
+  "tipo": "RadioButton",
+  "nombre": "Pinceles",
+  "id": "BrushesSplitButton",
+  "clase": "Microsoft.UI.Xaml.Controls.SplitButton",
+  "atajo": "Alt, B",
+  "rect": [
+   678,
+   247,
+   728,
+   314
+  ]
+ },
+ {
+  "nivel": 8,
+  "tipo": "Button",
+  "nombre": "",
+  "id": "PrimaryButton",
+  "clase": "Button",
+  "atajo": "",
+  "rect": [
+   679,
+   248,
+   726,
+   291
+  ]
+ },
+ {
+  "nivel": 9,
+  "tipo": "Image",
+  "nombre": "",
+  "id": "",
+  "clase": "Image",
+  "atajo": "",
+  "rect": [
+   688,
+   255,
+   718,
+   285
+  ]
+ },
+ {
+  "nivel": 8,
+  "tipo": "Button",
+  "nombre": "Más opciones",
+  "id": "SecondaryButton",
+  "clase": "Button",
+  "atajo": "",
+  "rect": [
+   679,
+   293,
+   726,
+   313
+  ]
+ },
+ {
+  "nivel": 7,
+  "tipo": "Text",
+  "nombre": "Pinceles",
+  "id": "",
+  "clase": "TextBlock",
+  "atajo": "",
+  "rect": [
+   675,
+   331,
+   730,
+   351
+  ]
+ },
+ {
+  "nivel": 6,
+  "tipo": "Group",
+  "nombre": "Formas",
+  "id": "",
+  "clase": "NamedContainerAutomationPeer",
+  "atajo": "",
+  "rect": [
+   746,
+   230,
+   1052,
+   356
+  ]
+ },
+ {
+  "nivel": 7,
+  "tipo": "List",
+  "nombre": "",
+  "id": "",
+  "clase": "GridView",
+  "atajo": "",
+  "rect": [
+   756,
+   231,
+   918,
+   331
+  ]
+ },
+ {
+  "nivel": 8,
+  "tipo": "ListItem",
+  "nombre": "Línea",
+  "id": "",
+  "clase": "GridViewItem",
+  "atajo": "",
+  "rect": [
+   762,
+   237,
+   790,
+   265
+  ]
+ },
+ {
+  "nivel": 9,
+  "tipo": "Button",
+  "nombre": "Línea",
+  "id": "",
+  "clase": "ToggleButton",
+  "atajo": "",
+  "rect": [
+   763,
+   238,
+   788,
+   263
+  ]
+ },
+ {
+  "nivel": 10,
+  "tipo": "Image",
+  "nombre": "",
+  "id": "",
+  "clase": "Image",
+  "atajo": "",
+  "rect": [
+   763,
+   238,
+   786,
+   260
+  ]
+ },
+ {
+  "nivel": 8,
+  "tipo": "ListItem",
+  "nombre": "Curva",
+  "id": "",
+  "clase": "GridViewItem",
+  "atajo": "",
+  "rect": [
+   790,
+   237,
+   818,
+   265
+  ]
+ },
+ {
+  "nivel": 9,
+  "tipo": "Button",
+  "nombre": "Curva",
+  "id": "",
+  "clase": "ToggleButton",
+  "atajo": "",
+  "rect": [
+   791,
+   238,
+   816,
+   263
+  ]
+ },
+ {
+  "nivel": 10,
+  "tipo": "Image",
+  "nombre": "",
+  "id": "",
+  "clase": "Image",
+  "atajo": "",
+  "rect": [
+   791,
+   238,
+   814,
+   260
+  ]
+ },
+ {
+  "nivel": 8,
+  "tipo": "ListItem",
+  "nombre": "Elipse",
+  "id": "",
+  "clase": "GridViewItem",
+  "atajo": "",
+  "rect": [
+   818,
+   237,
+   846,
+   265
+  ]
+ },
+ {
+  "nivel": 9,
+  "tipo": "Button",
+  "nombre": "Elipse",
+  "id": "",
+  "clase": "ToggleButton",
+  "atajo": "",
+  "rect": [
+   819,
+   238,
+   844,
+   263
+  ]
+ },
+ {
+  "nivel": 10,
+  "tipo": "Image",
+  "nombre": "",
+  "id": "",
+  "clase": "Image",
+  "atajo": "",
+  "rect": [
+   819,
+   238,
+   842,
+   260
+  ]
+ },
+ {
+  "nivel": 8,
+  "tipo": "ListItem",
+  "nombre": "Rectángulo",
+  "id": "",
+  "clase": "GridViewItem",
+  "atajo": "",
+  "rect": [
+   846,
+   237,
+   874,
+   265
+  ]
+ },
+ {
+  "nivel": 9,
+  "tipo": "Button",
+  "nombre": "Rectángulo",
+  "id": "",
+  "clase": "ToggleButton",
+  "atajo": "",
+  "rect": [
+   847,
+   238,
+   872,
+   263
+  ]
+ },
+ {
+  "nivel": 10,
+  "tipo": "Image",
+  "nombre": "",
+  "id": "",
+  "clase": "Image",
+  "atajo": "",
+  "rect": [
+   847,
+   238,
+   870,
+   260
+  ]
+ },
+ {
+  "nivel": 8,
+  "tipo": "ListItem",
+  "nombre": "Rectángulo redondeado",
+  "id": "",
+  "clase": "GridViewItem",
+  "atajo": "",
+  "rect": [
+   874,
+   237,
+   902,
+   265
+  ]
+ },
+ {
+  "nivel": 9,
+  "tipo": "Button",
+  "nombre": "Rectángulo redondeado",
+  "id": "",
+  "clase": "ToggleButton",
+  "atajo": "",
+  "rect": [
+   875,
+   238,
+   900,
+   263
+  ]
+ },
+ {
+  "nivel": 10,
+  "tipo": "Image",
+  "nombre": "",
+  "id": "",
+  "clase": "Image",
+  "atajo": "",
+  "rect": [
+   875,
+   238,
+   898,
+   260
+  ]
+ },
+ {
+  "nivel": 8,
+  "tipo": "ListItem",
+  "nombre": "Polígono",
+  "id": "",
+  "clase": "GridViewItem",
+  "atajo": "",
+  "rect": [
+   762,
+   265,
+   790,
+   293
+  ]
+ },
+ {
+  "nivel": 9,
+  "tipo": "Button",
+  "nombre": "Polígono",
+  "id": "",
+  "clase": "ToggleButton",
+  "atajo": "",
+  "rect": [
+   763,
+   266,
+   788,
+   290
+  ]
+ },
+ {
+  "nivel": 10,
+  "tipo": "Image",
+  "nombre": "",
+  "id": "",
+  "clase": "Image",
+  "atajo": "",
+  "rect": [
+   763,
+   266,
+   786,
+   289
+  ]
+ },
+ {
+  "nivel": 8,
+  "tipo": "ListItem",
+  "nombre": "Triángulo",
+  "id": "",
+  "clase": "GridViewItem",
+  "atajo": "",
+  "rect": [
+   790,
+   265,
+   818,
+   293
+  ]
+ },
+ {
+  "nivel": 9,
+  "tipo": "Button",
+  "nombre": "Triángulo",
+  "id": "",
+  "clase": "ToggleButton",
+  "atajo": "",
+  "rect": [
+   791,
+   266,
+   816,
+   290
+  ]
+ },
+ {
+  "nivel": 10,
+  "tipo": "Image",
+  "nombre": "",
+  "id": "",
+  "clase": "Image",
+  "atajo": "",
+  "rect": [
+   791,
+   266,
+   814,
+   289
+  ]
+ },
+ {
+  "nivel": 8,
+  "tipo": "ListItem",
+  "nombre": "Triángulo rectángulo",
+  "id": "",
+  "clase": "GridViewItem",
+  "atajo": "",
+  "rect": [
+   818,
+   265,
+   846,
+   293
+  ]
+ },
+ {
+  "nivel": 9,
+  "tipo": "Button",
+  "nombre": "Triángulo rectángulo",
+  "id": "",
+  "clase": "ToggleButton",
+  "atajo": "",
+  "rect": [
+   819,
+   266,
+   844,
+   290
+  ]
+ },
+ {
+  "nivel": 10,
+  "tipo": "Image",
+  "nombre": "",
+  "id": "",
+  "clase": "Image",
+  "atajo": "",
+  "rect": [
+   819,
+   266,
+   842,
+   289
+  ]
+ },
+ {
+  "nivel": 8,
+  "tipo": "ListItem",
+  "nombre": "Diamante",
+  "id": "",
+  "clase": "GridViewItem",
+  "atajo": "",
+  "rect": [
+   846,
+   265,
+   874,
+   293
+  ]
+ },
+ {
+  "nivel": 9,
+  "tipo": "Button",
+  "nombre": "Diamante",
+  "id": "",
+  "clase": "ToggleButton",
+  "atajo": "",
+  "rect": [
+   847,
+   266,
+   872,
+   290
+  ]
+ },
+ {
+  "nivel": 10,
+  "tipo": "Image",
+  "nombre": "",
+  "id": "",
+  "clase": "Image",
+  "atajo": "",
+  "rect": [
+   847,
+   266,
+   870,
+   289
+  ]
+ },
+ {
+  "nivel": 8,
+  "tipo": "ListItem",
+  "nombre": "Pentágono",
+  "id": "",
+  "clase": "GridViewItem",
+  "atajo": "",
+  "rect": [
+   874,
+   265,
+   902,
+   293
+  ]
+ },
+ {
+  "nivel": 9,
+  "tipo": "Button",
+  "nombre": "Pentágono",
+  "id": "",
+  "clase": "ToggleButton",
+  "atajo": "",
+  "rect": [
+   875,
+   266,
+   900,
+   290
+  ]
+ },
+ {
+  "nivel": 10,
+  "tipo": "Image",
+  "nombre": "",
+  "id": "",
+  "clase": "Image",
+  "atajo": "",
+  "rect": [
+   875,
+   266,
+   898,
+   289
+  ]
+ },
+ {
+  "nivel": 8,
+  "tipo": "ListItem",
+  "nombre": "Hexágono",
+  "id": "",
+  "clase": "GridViewItem",
+  "atajo": "",
+  "rect": [
+   762,
+   293,
+   790,
+   321
+  ]
+ },
+ {
+  "nivel": 9,
+  "tipo": "Button",
+  "nombre": "Hexágono",
+  "id": "",
+  "clase": "ToggleButton",
+  "atajo": "",
+  "rect": [
+   763,
+   294,
+   788,
+   319
+  ]
+ },
+ {
+  "nivel": 10,
+  "tipo": "Image",
+  "nombre": "",
+  "id": "",
+  "clase": "Image",
+  "atajo": "",
+  "rect": [
+   763,
+   294,
+   786,
+   317
+  ]
+ },
+ {
+  "nivel": 8,
+  "tipo": "ListItem",
+  "nombre": "Flecha derecha",
+  "id": "",
+  "clase": "GridViewItem",
+  "atajo": "",
+  "rect": [
+   790,
+   293,
+   818,
+   321
+  ]
+ },
+ {
+  "nivel": 9,
+  "tipo": "Button",
+  "nombre": "Flecha derecha",
+  "id": "",
+  "clase": "ToggleButton",
+  "atajo": "",
+  "rect": [
+   791,
+   294,
+   816,
+   319
+  ]
+ },
+ {
+  "nivel": 10,
+  "tipo": "Image",
+  "nombre": "",
+  "id": "",
+  "clase": "Image",
+  "atajo": "",
+  "rect": [
+   791,
+   294,
+   814,
+   317
+  ]
+ },
+ {
+  "nivel": 8,
+  "tipo": "ListItem",
+  "nombre": "Flecha izquierda",
+  "id": "",
+  "clase": "GridViewItem",
+  "atajo": "",
+  "rect": [
+   818,
+   293,
+   846,
+   321
+  ]
+ },
+ {
+  "nivel": 9,
+  "tipo": "Button",
+  "nombre": "Flecha izquierda",
+  "id": "",
+  "clase": "ToggleButton",
+  "atajo": "",
+  "rect": [
+   819,
+   294,
+   844,
+   319
+  ]
+ },
+ {
+  "nivel": 10,
+  "tipo": "Image",
+  "nombre": "",
+  "id": "",
+  "clase": "Image",
+  "atajo": "",
+  "rect": [
+   819,
+   294,
+   842,
+   317
+  ]
+ },
+ {
+  "nivel": 8,
+  "tipo": "ListItem",
+  "nombre": "Flecha arriba",
+  "id": "",
+  "clase": "GridViewItem",
+  "atajo": "",
+  "rect": [
+   846,
+   293,
+   874,
+   321
+  ]
+ },
+ {
+  "nivel": 9,
+  "tipo": "Button",
+  "nombre": "Flecha arriba",
+  "id": "",
+  "clase": "ToggleButton",
+  "atajo": "",
+  "rect": [
+   847,
+   294,
+   872,
+   319
+  ]
+ },
+ {
+  "nivel": 10,
+  "tipo": "Image",
+  "nombre": "",
+  "id": "",
+  "clase": "Image",
+  "atajo": "",
+  "rect": [
+   847,
+   294,
+   870,
+   317
+  ]
+ },
+ {
+  "nivel": 8,
+  "tipo": "ListItem",
+  "nombre": "Flecha abajo",
+  "id": "",
+  "clase": "GridViewItem",
+  "atajo": "",
+  "rect": [
+   874,
+   293,
+   902,
+   321
+  ]
+ },
+ {
+  "nivel": 9,
+  "tipo": "Button",
+  "nombre": "Flecha abajo",
+  "id": "",
+  "clase": "ToggleButton",
+  "atajo": "",
+  "rect": [
+   875,
+   294,
+   900,
+   319
+  ]
+ },
+ {
+  "nivel": 10,
+  "tipo": "Image",
+  "nombre": "",
+  "id": "",
+  "clase": "Image",
+  "atajo": "",
+  "rect": [
+   875,
+   294,
+   898,
+   317
+  ]
+ },
+ {
+  "nivel": 8,
+  "tipo": "ListItem",
+  "nombre": "Estrella de cuatro puntos",
+  "id": "",
+  "clase": "GridViewItem",
+  "atajo": "",
+  "rect": [
+   762,
+   321,
+   790,
+   330
+  ]
+ },
+ {
+  "nivel": 9,
+  "tipo": "Button",
+  "nombre": "Estrella de cuatro puntos",
+  "id": "",
+  "clase": "ToggleButton",
+  "atajo": "",
+  "rect": [
+   763,
+   322,
+   788,
+   329
+  ]
+ },
+ {
+  "nivel": 10,
+  "tipo": "Image",
+  "nombre": "",
+  "id": "",
+  "clase": "Image",
+  "atajo": "",
+  "rect": [
+   763,
+   322,
+   786,
+   329
+  ]
+ },
+ {
+  "nivel": 8,
+  "tipo": "ListItem",
+  "nombre": "Estrella de cinco puntos",
+  "id": "",
+  "clase": "GridViewItem",
+  "atajo": "",
+  "rect": [
+   790,
+   321,
+   818,
+   330
+  ]
+ },
+ {
+  "nivel": 9,
+  "tipo": "Button",
+  "nombre": "Estrella de cinco puntos",
+  "id": "",
+  "clase": "ToggleButton",
+  "atajo": "",
+  "rect": [
+   791,
+   322,
+   816,
+   329
+  ]
+ },
+ {
+  "nivel": 10,
+  "tipo": "Image",
+  "nombre": "",
+  "id": "",
+  "clase": "Image",
+  "atajo": "",
+  "rect": [
+   791,
+   322,
+   814,
+   329
+  ]
+ },
+ {
+  "nivel": 8,
+  "tipo": "ListItem",
+  "nombre": "Estrella de seis puntas",
+  "id": "",
+  "clase": "GridViewItem",
+  "atajo": "",
+  "rect": [
+   818,
+   321,
+   846,
+   330
+  ]
+ },
+ {
+  "nivel": 9,
+  "tipo": "Button",
+  "nombre": "Estrella de seis puntas",
+  "id": "",
+  "clase": "ToggleButton",
+  "atajo": "",
+  "rect": [
+   819,
+   322,
+   844,
+   329
+  ]
+ },
+ {
+  "nivel": 10,
+  "tipo": "Image",
+  "nombre": "",
+  "id": "",
+  "clase": "Image",
+  "atajo": "",
+  "rect": [
+   819,
+   322,
+   842,
+   329
+  ]
+ },
+ {
+  "nivel": 8,
+  "tipo": "ListItem",
+  "nombre": "Llamada rectangular redondeada",
+  "id": "",
+  "clase": "GridViewItem",
+  "atajo": "",
+  "rect": [
+   846,
+   321,
+   874,
+   330
+  ]
+ },
+ {
+  "nivel": 9,
+  "tipo": "Button",
+  "nombre": "Llamada rectangular redondeada",
+  "id": "",
+  "clase": "ToggleButton",
+  "atajo": "",
+  "rect": [
+   847,
+   322,
+   872,
+   329
+  ]
+ },
+ {
+  "nivel": 10,
+  "tipo": "Image",
+  "nombre": "",
+  "id": "",
+  "clase": "Image",
+  "atajo": "",
+  "rect": [
+   847,
+   322,
+   870,
+   329
+  ]
+ },
+ {
+  "nivel": 8,
+  "tipo": "ListItem",
+  "nombre": "Llamada de óvalo",
+  "id": "",
+  "clase": "GridViewItem",
+  "atajo": "",
+  "rect": [
+   874,
+   321,
+   902,
+   330
+  ]
+ },
+ {
+  "nivel": 9,
+  "tipo": "Button",
+  "nombre": "Llamada de óvalo",
+  "id": "",
+  "clase": "ToggleButton",
+  "atajo": "",
+  "rect": [
+   875,
+   322,
+   900,
+   329
+  ]
+ },
+ {
+  "nivel": 10,
+  "tipo": "Image",
+  "nombre": "",
+  "id": "",
+  "clase": "Image",
+  "atajo": "",
+  "rect": [
+   875,
+   322,
+   898,
+   329
+  ]
+ },
+ {
+  "nivel": 8,
+  "tipo": "ListItem",
+  "nombre": "Llamada de nube",
+  "id": "",
+  "clase": "GridViewItem",
+  "atajo": "",
+  "rect": [
+   0,
+   0,
+   0,
+   0
+  ]
+ },
+ {
+  "nivel": 9,
+  "tipo": "Button",
+  "nombre": "Llamada de nube",
+  "id": "",
+  "clase": "ToggleButton",
+  "atajo": "",
+  "rect": [
+   0,
+   0,
+   0,
+   0
+  ]
+ },
+ {
+  "nivel": 10,
+  "tipo": "Image",
+  "nombre": "",
+  "id": "",
+  "clase": "Image",
+  "atajo": "",
+  "rect": [
+   0,
+   0,
+   0,
+   0
+  ]
+ },
+ {
+  "nivel": 8,
+  "tipo": "ListItem",
+  "nombre": "Corazón",
+  "id": "",
+  "clase": "GridViewItem",
+  "atajo": "",
+  "rect": [
+   0,
+   0,
+   0,
+   0
+  ]
+ },
+ {
+  "nivel": 9,
+  "tipo": "Button",
+  "nombre": "Corazón",
+  "id": "",
+  "clase": "ToggleButton",
+  "atajo": "",
+  "rect": [
+   0,
+   0,
+   0,
+   0
+  ]
+ },
+ {
+  "nivel": 10,
+  "tipo": "Image",
+  "nombre": "",
+  "id": "",
+  "clase": "Image",
+  "atajo": "",
+  "rect": [
+   0,
+   0,
+   0,
+   0
+  ]
+ },
+ {
+  "nivel": 8,
+  "tipo": "ListItem",
+  "nombre": "Rayo",
+  "id": "",
+  "clase": "GridViewItem",
+  "atajo": "",
+  "rect": [
+   0,
+   0,
+   0,
+   0
+  ]
+ },
+ {
+  "nivel": 9,
+  "tipo": "Button",
+  "nombre": "Rayo",
+  "id": "",
+  "clase": "ToggleButton",
+  "atajo": "",
+  "rect": [
+   0,
+   0,
+   0,
+   0
+  ]
+ },
+ {
+  "nivel": 10,
+  "tipo": "Image",
+  "nombre": "",
+  "id": "",
+  "clase": "Image",
+  "atajo": "",
+  "rect": [
+   0,
+   0,
+   0,
+   0
+  ]
+ },
+ {
+  "nivel": 7,
+  "tipo": "Button",
+  "nombre": "Contorno de forma",
+  "id": "",
+  "clase": "Microsoft.UI.Xaml.Controls.DropDownButton",
+  "atajo": "Alt, S, O",
+  "rect": [
+   923,
+   236,
+   990,
+   276
+  ]
+ },
+ {
+  "nivel": 7,
+  "tipo": "Button",
+  "nombre": "Relleno de forma",
+  "id": "",
+  "clase": "Microsoft.UI.Xaml.Controls.DropDownButton",
+  "atajo": "Alt, S, F",
+  "rect": [
+   923,
+   286,
+   990,
+   326
+  ]
+ },
+ {
+  "nivel": 7,
+  "tipo": "Button",
+  "nombre": "Tamaño",
+  "id": "",
+  "clase": "Microsoft.UI.Xaml.Controls.DropDownButton",
+  "atajo": "Alt, S, Z",
+  "rect": [
+   990,
+   251,
+   1036,
+   312
+  ]
+ },
+ {
+  "nivel": 8,
+  "tipo": "Image",
+  "nombre": "",
+  "id": "",
+  "clase": "Image",
+  "atajo": "",
+  "rect": [
+   998,
+   259,
+   1028,
+   289
+  ]
+ },
+ {
+  "nivel": 8,
+  "tipo": "Text",
+  "nombre": "",
+  "id": "",
+  "clase": "TextBlock",
+  "atajo": "",
+  "rect": [
+   993,
+   299,
+   1033,
+   309
+  ]
+ },
+ {
+  "nivel": 7,
+  "tipo": "Text",
+  "nombre": "Formas",
+  "id": "Label",
+  "clase": "TextBlock",
+  "atajo": "",
+  "rect": [
+   874,
+   331,
+   924,
+   351
+  ]
+ },
+ {
+  "nivel": 6,
+  "tipo": "Group",
+  "nombre": "Colores",
+  "id": "",
+  "clase": "NamedContainerAutomationPeer",
+  "atajo": "",
+  "rect": [
+   1064,
+   234,
+   1476,
+   351
+  ]
+ },
+ {
+  "nivel": 7,
+  "tipo": "RadioButton",
+  "nombre": "Color 1: Negro",
+  "id": "",
+  "clase": "RadioButton",
+  "atajo": "Alt, 1",
+  "rect": [
+   1064,
+   234,
+   1109,
+   279
+  ]
+ },
+ {
+  "nivel": 7,
+  "tipo": "RadioButton",
+  "nombre": "Color 2: Blanco",
+  "id": "",
+  "clase": "RadioButton",
+  "atajo": "Alt, 2",
+  "rect": [
+   1064,
+   282,
+   1109,
+   327
+  ]
+ },
+ {
+  "nivel": 7,
+  "tipo": "List",
+  "nombre": "",
+  "id": "",
+  "clase": "GridView",
+  "atajo": "",
+  "rect": [
+   1117,
+   235,
+   1417,
+   326
+  ]
+ },
+ {
+  "nivel": 8,
+  "tipo": "ListItem",
+  "nombre": "Negro",
+  "id": "",
+  "clase": "GridViewItem",
+  "atajo": "",
+  "rect": [
+   1117,
+   235,
+   1147,
+   265
+  ]
+ },
+ {
+  "nivel": 8,
+  "tipo": "ListItem",
+  "nombre": "Gris",
+  "id": "",
+  "clase": "GridViewItem",
+  "atajo": "",
+  "rect": [
+   1147,
+   235,
+   1177,
+   265
+  ]
+ },
+ {
+  "nivel": 8,
+  "tipo": "ListItem",
+  "nombre": "Rojo oscuro",
+  "id": "",
+  "clase": "GridViewItem",
+  "atajo": "",
+  "rect": [
+   1177,
+   235,
+   1207,
+   265
+  ]
+ },
+ {
+  "nivel": 8,
+  "tipo": "ListItem",
+  "nombre": "Rojo",
+  "id": "",
+  "clase": "GridViewItem",
+  "atajo": "",
+  "rect": [
+   1207,
+   235,
+   1237,
+   265
+  ]
+ },
+ {
+  "nivel": 8,
+  "tipo": "ListItem",
+  "nombre": "Naranja",
+  "id": "",
+  "clase": "GridViewItem",
+  "atajo": "",
+  "rect": [
+   1237,
+   235,
+   1267,
+   265
+  ]
+ },
+ {
+  "nivel": 8,
+  "tipo": "ListItem",
+  "nombre": "Amarillo",
+  "id": "",
+  "clase": "GridViewItem",
+  "atajo": "",
+  "rect": [
+   1267,
+   235,
+   1297,
+   265
+  ]
+ },
+ {
+  "nivel": 8,
+  "tipo": "ListItem",
+  "nombre": "Verde",
+  "id": "",
+  "clase": "GridViewItem",
+  "atajo": "",
+  "rect": [
+   1297,
+   235,
+   1327,
+   265
+  ]
+ },
+ {
+  "nivel": 8,
+  "tipo": "ListItem",
+  "nombre": "Turquesa",
+  "id": "",
+  "clase": "GridViewItem",
+  "atajo": "",
+  "rect": [
+   1327,
+   235,
+   1357,
+   265
+  ]
+ },
+ {
+  "nivel": 8,
+  "tipo": "ListItem",
+  "nombre": "Añil",
+  "id": "",
+  "clase": "GridViewItem",
+  "atajo": "",
+  "rect": [
+   1357,
+   235,
+   1387,
+   265
+  ]
+ },
+ {
+  "nivel": 8,
+  "tipo": "ListItem",
+  "nombre": "Púrpura",
+  "id": "",
+  "clase": "GridViewItem",
+  "atajo": "",
+  "rect": [
+   1387,
+   235,
+   1417,
+   265
+  ]
+ },
+ {
+  "nivel": 8,
+  "tipo": "ListItem",
+  "nombre": "Blanco",
+  "id": "",
+  "clase": "GridViewItem",
+  "atajo": "",
+  "rect": [
+   1117,
+   265,
+   1147,
+   295
+  ]
+ },
+ {
+  "nivel": 8,
+  "tipo": "ListItem",
+  "nombre": "Gris claro",
+  "id": "",
+  "clase": "GridViewItem",
+  "atajo": "",
+  "rect": [
+   1147,
+   265,
+   1177,
+   295
+  ]
+ },
+ {
+  "nivel": 8,
+  "tipo": "ListItem",
+  "nombre": "Marrón",
+  "id": "",
+  "clase": "GridViewItem",
+  "atajo": "",
+  "rect": [
+   1177,
+   265,
+   1207,
+   295
+  ]
+ },
+ {
+  "nivel": 8,
+  "tipo": "ListItem",
+  "nombre": "Rosa",
+  "id": "",
+  "clase": "GridViewItem",
+  "atajo": "",
+  "rect": [
+   1207,
+   265,
+   1237,
+   295
+  ]
+ },
+ {
+  "nivel": 8,
+  "tipo": "ListItem",
+  "nombre": "Dorado",
+  "id": "",
+  "clase": "GridViewItem",
+  "atajo": "",
+  "rect": [
+   1237,
+   265,
+   1267,
+   295
+  ]
+ },
+ {
+  "nivel": 8,
+  "tipo": "ListItem",
+  "nombre": "Amarillo claro",
+  "id": "",
+  "clase": "GridViewItem",
+  "atajo": "",
+  "rect": [
+   1267,
+   265,
+   1297,
+   295
+  ]
+ },
+ {
+  "nivel": 8,
+  "tipo": "ListItem",
+  "nombre": "Lima",
+  "id": "",
+  "clase": "GridViewItem",
+  "atajo": "",
+  "rect": [
+   1297,
+   265,
+   1327,
+   295
+  ]
+ },
+ {
+  "nivel": 8,
+  "tipo": "ListItem",
+  "nombre": "Turquesa claro",
+  "id": "",
+  "clase": "GridViewItem",
+  "atajo": "",
+  "rect": [
+   1327,
+   265,
+   1357,
+   295
+  ]
+ },
+ {
+  "nivel": 8,
+  "tipo": "ListItem",
+  "nombre": "Gris azulado",
+  "id": "",
+  "clase": "GridViewItem",
+  "atajo": "",
+  "rect": [
+   1357,
+   265,
+   1387,
+   295
+  ]
+ },
+ {
+  "nivel": 8,
+  "tipo": "ListItem",
+  "nombre": "Lavanda",
+  "id": "",
+  "clase": "GridViewItem",
+  "atajo": "",
+  "rect": [
+   1387,
+   265,
+   1417,
+   295
+  ]
+ },
+ {
+  "nivel": 8,
+  "tipo": "ListItem",
+  "nombre": "Vacío",
+  "id": "",
+  "clase": "GridViewItem",
+  "atajo": "",
+  "rect": [
+   1117,
+   295,
+   1147,
+   325
+  ]
+ },
+ {
+  "nivel": 8,
+  "tipo": "ListItem",
+  "nombre": "Vacío",
+  "id": "",
+  "clase": "GridViewItem",
+  "atajo": "",
+  "rect": [
+   1147,
+   295,
+   1177,
+   325
+  ]
+ },
+ {
+  "nivel": 8,
+  "tipo": "ListItem",
+  "nombre": "Vacío",
+  "id": "",
+  "clase": "GridViewItem",
+  "atajo": "",
+  "rect": [
+   1177,
+   295,
+   1207,
+   325
+  ]
+ },
+ {
+  "nivel": 8,
+  "tipo": "ListItem",
+  "nombre": "Vacío",
+  "id": "",
+  "clase": "GridViewItem",
+  "atajo": "",
+  "rect": [
+   1207,
+   295,
+   1237,
+   325
+  ]
+ },
+ {
+  "nivel": 8,
+  "tipo": "ListItem",
+  "nombre": "Vacío",
+  "id": "",
+  "clase": "GridViewItem",
+  "atajo": "",
+  "rect": [
+   1237,
+   295,
+   1267,
+   325
+  ]
+ },
+ {
+  "nivel": 8,
+  "tipo": "ListItem",
+  "nombre": "Vacío",
+  "id": "",
+  "clase": "GridViewItem",
+  "atajo": "",
+  "rect": [
+   1267,
+   295,
+   1297,
+   325
+  ]
+ },
+ {
+  "nivel": 8,
+  "tipo": "ListItem",
+  "nombre": "Vacío",
+  "id": "",
+  "clase": "GridViewItem",
+  "atajo": "",
+  "rect": [
+   1297,
+   295,
+   1327,
+   325
+  ]
+ },
+ {
+  "nivel": 8,
+  "tipo": "ListItem",
+  "nombre": "Vacío",
+  "id": "",
+  "clase": "GridViewItem",
+  "atajo": "",
+  "rect": [
+   1327,
+   295,
+   1357,
+   325
+  ]
+ },
+ {
+  "nivel": 8,
+  "tipo": "ListItem",
+  "nombre": "Vacío",
+  "id": "",
+  "clase": "GridViewItem",
+  "atajo": "",
+  "rect": [
+   1357,
+   295,
+   1387,
+   325
+  ]
+ },
+ {
+  "nivel": 8,
+  "tipo": "ListItem",
+  "nombre": "Vacío",
+  "id": "",
+  "clase": "GridViewItem",
+  "atajo": "",
+  "rect": [
+   1387,
+   295,
+   1417,
+   325
+  ]
+ },
+ {
+  "nivel": 7,
+  "tipo": "Button",
+  "nombre": "Editar colores",
+  "id": "",
+  "clase": "Button",
+  "atajo": "Alt, E, C",
+  "rect": [
+   1427,
+   256,
+   1477,
+   306
+  ]
+ },
+ {
+  "nivel": 8,
+  "tipo": "Image",
+  "nombre": "",
+  "id": "",
+  "clase": "Image",
+  "atajo": "",
+  "rect": [
+   1435,
+   264,
+   1470,
+   299
+  ]
+ },
+ {
+  "nivel": 7,
+  "tipo": "Text",
+  "nombre": "Colores",
+  "id": "Label",
+  "clase": "TextBlock",
+  "atajo": "",
+  "rect": [
+   1246,
+   331,
+   1298,
+   351
+  ]
+ },
+ {
+  "nivel": 6,
+  "tipo": "Group",
+  "nombre": "Copilot",
+  "id": "",
+  "clase": "NamedContainerAutomationPeer",
+  "atajo": "",
+  "rect": [
+   1492,
+   230,
+   1573,
+   356
+  ]
+ },
+ {
+  "nivel": 7,
+  "tipo": "Button",
+  "nombre": "Copilot",
+  "id": "CopilotDropDownButton",
+  "clase": "Microsoft.UI.Xaml.Controls.DropDownButton",
+  "atajo": "Alt, C",
+  "rect": [
+   1512,
+   252,
+   1554,
+   309
+  ]
+ },
+ {
+  "nivel": 8,
+  "tipo": "Image",
+  "nombre": "",
+  "id": "",
+  "clase": "Image",
+  "atajo": "",
+  "rect": [
+   1518,
+   258,
+   1548,
+   288
+  ]
+ },
+ {
+  "nivel": 8,
+  "tipo": "Text",
+  "nombre": "",
+  "id": "",
+  "clase": "TextBlock",
+  "atajo": "",
+  "rect": [
+   1518,
+   293,
+   1548,
+   303
+  ]
+ },
+ {
+  "nivel": 7,
+  "tipo": "Text",
+  "nombre": "Copilot",
+  "id": "",
+  "clase": "TextBlock",
+  "atajo": "",
+  "rect": [
+   1508,
+   331,
+   1558,
+   351
+  ]
+ },
+ {
+  "nivel": 6,
+  "tipo": "Group",
+  "nombre": "Capas",
+  "id": "",
+  "clase": "NamedContainerAutomationPeer",
+  "atajo": "",
+  "rect": [
+   1573,
+   230,
+   1654,
+   356
+  ]
+ },
+ {
+  "nivel": 7,
+  "tipo": "Button",
+  "nombre": "",
+  "id": "",
+  "clase": "ToggleButton",
+  "atajo": "Alt, L",
+  "rect": [
+   1589,
+   256,
+   1639,
+   306
+  ]
+ },
+ {
+  "nivel": 8,
+  "tipo": "Image",
+  "nombre": "",
+  "id": "",
+  "clase": "Image",
+  "atajo": "",
+  "rect": [
+   1599,
+   266,
+   1629,
+   296
+  ]
+ },
+ {
+  "nivel": 7,
+  "tipo": "Text",
+  "nombre": "Capas",
+  "id": "",
+  "clase": "TextBlock",
+  "atajo": "",
+  "rect": [
+   1594,
+   331,
+   1635,
+   351
+  ]
+ },
+ {
+  "nivel": 5,
+  "tipo": "Button",
+  "nombre": "Opciones de barra de herramientas",
+  "id": "OptionsButton",
+  "clase": "Button",
+  "atajo": "Alt, R, O",
+  "rect": [
+   1682,
+   329,
+   1709,
+   355
+  ]
+ },
+ {
+  "nivel": 6,
+  "tipo": "Text",
+  "nombre": "",
+  "id": "",
+  "clase": "TextBlock",
+  "atajo": "",
+  "rect": [
+   1688,
+   335,
+   1703,
+   350
+  ]
+ },
+ {
+  "nivel": 4,
+  "tipo": "Pane",
+  "nombre": "",
+  "id": "scrollViewer",
+  "clase": "ScrollViewer",
+  "atajo": "",
+  "rect": [
+   196,
+   362,
+   1714,
+   1040
+  ]
+ },
+ {
+  "nivel": 5,
+  "tipo": "Group",
+  "nombre": "Usando la herramienta Brocha en el lienzo",
+  "id": "image",
+  "clase": "NamedContainerAutomationPeer",
+  "atajo": "",
+  "rect": [
+   378,
+   394,
+   1530,
+   1040
+  ]
+ },
+ {
+  "nivel": 5,
+  "tipo": "ScrollBar",
+  "nombre": "Vertical",
+  "id": "VerticalScrollBar",
+  "clase": "ScrollBar",
+  "atajo": "",
+  "rect": [
+   1699,
+   362,
+   1714,
+   1040
+  ]
+ },
+ {
+  "nivel": 6,
+  "tipo": "Button",
+  "nombre": "Disminución pequeña vertical",
+  "id": "VerticalSmallDecrease",
+  "clase": "RepeatButton",
+  "atajo": "",
+  "rect": [
+   1699,
+   362,
+   1714,
+   377
+  ]
+ },
+ {
+  "nivel": 7,
+  "tipo": "Text",
+  "nombre": "",
+  "id": "",
+  "clase": "TextBlock",
+  "atajo": "",
+  "rect": [
+   1699,
+   367,
+   1714,
+   377
+  ]
+ },
+ {
+  "nivel": 6,
+  "tipo": "Button",
+  "nombre": "Disminución grande vertical",
+  "id": "VerticalLargeDecrease",
+  "clase": "RepeatButton",
+  "atajo": "",
+  "rect": [
+   0,
+   0,
+   0,
+   0
+  ]
+ },
+ {
+  "nivel": 6,
+  "tipo": "Thumb",
+  "nombre": "Miniatura vertical",
+  "id": "VerticalThumb",
+  "clase": "Thumb",
+  "atajo": "",
+  "rect": [
+   1699,
+   377,
+   1714,
+   937
+  ]
+ },
+ {
+  "nivel": 6,
+  "tipo": "Button",
+  "nombre": "Aumento grande vertical",
+  "id": "VerticalLargeIncrease",
+  "clase": "RepeatButton",
+  "atajo": "",
+  "rect": [
+   1699,
+   937,
+   1714,
+   1025
+  ]
+ },
+ {
+  "nivel": 6,
+  "tipo": "Button",
+  "nombre": "Aumento pequeño vertical",
+  "id": "VerticalSmallIncrease",
+  "clase": "RepeatButton",
+  "atajo": "",
+  "rect": [
+   1699,
+   1025,
+   1714,
+   1040
+  ]
+ },
+ {
+  "nivel": 7,
+  "tipo": "Text",
+  "nombre": "",
+  "id": "",
+  "clase": "TextBlock",
+  "atajo": "",
+  "rect": [
+   1699,
+   1025,
+   1714,
+   1035
+  ]
+ },
+ {
+  "nivel": 4,
+  "tipo": "Image",
+  "nombre": "",
+  "id": "",
+  "clase": "Image",
+  "atajo": "",
+  "rect": [
+   226,
+   492,
+   246,
+   512
+  ]
+ },
+ {
+  "nivel": 4,
+  "tipo": "Slider",
+  "nombre": "Tamaño",
+  "id": "",
+  "clase": "Slider",
+  "atajo": "Alt, S, Z",
+  "rect": [
+   216,
+   527,
+   257,
+   909
+  ]
+ },
+ {
+  "nivel": 5,
+  "tipo": "Thumb",
+  "nombre": "",
+  "id": "VerticalThumb",
+  "clase": "Thumb",
+  "atajo": "",
+  "rect": [
+   223,
+   877,
+   251,
+   904
+  ]
+ },
+ {
+  "nivel": 4,
+  "tipo": "Image",
+  "nombre": "",
+  "id": "",
+  "clase": "Image",
+  "atajo": "",
+  "rect": [
+   286,
+   492,
+   306,
+   512
+  ]
+ },
+ {
+  "nivel": 4,
+  "tipo": "Slider",
+  "nombre": "Opacidad",
+  "id": "",
+  "clase": "Slider",
+  "atajo": "Alt, O",
+  "rect": [
+   276,
+   525,
+   317,
+   909
+  ]
+ },
+ {
+  "nivel": 5,
+  "tipo": "Thumb",
+  "nombre": "",
+  "id": "VerticalThumb",
+  "clase": "Thumb",
+  "atajo": "",
+  "rect": [
+   283,
+   525,
+   311,
+   552
+  ]
+ },
+ {
+  "nivel": 4,
+  "tipo": "Image",
+  "nombre": "",
+  "id": "",
+  "clase": "Image",
+  "atajo": "",
+  "rect": [
+   211,
+   1056,
+   226,
+   1071
+  ]
+ },
+ {
+  "nivel": 4,
+  "tipo": "Image",
+  "nombre": "",
+  "id": "",
+  "clase": "Image",
+  "atajo": "",
+  "rect": [
+   376,
+   1056,
+   391,
+   1071
+  ]
+ },
+ {
+  "nivel": 4,
+  "tipo": "Image",
+  "nombre": "",
+  "id": "",
+  "clase": "Image",
+  "atajo": "",
+  "rect": [
+   541,
+   1056,
+   556,
+   1071
+  ]
+ },
+ {
+  "nivel": 4,
+  "tipo": "Text",
+  "nombre": "1152 × 720píxeles",
+  "id": "CanvasSizeTextBlock",
+  "clase": "TextBlock",
+  "atajo": "",
+  "rect": [
+   566,
+   1054,
+   684,
+   1074
+  ]
+ },
+ {
+  "nivel": 4,
+  "tipo": "Button",
+  "nombre": "Ajustar a la ventana",
+  "id": "",
+  "clase": "Button",
+  "atajo": "",
+  "rect": [
+   1274,
+   1048,
+   1321,
+   1080
+  ]
+ },
+ {
+  "nivel": 5,
+  "tipo": "Text",
+  "nombre": "",
+  "id": "",
+  "clase": "TextBlock",
+  "atajo": "",
+  "rect": [
+   1285,
+   1051,
+   1310,
+   1076
+  ]
+ },
+ {
+  "nivel": 4,
+  "tipo": "ComboBox",
+  "nombre": "Zoom",
+  "id": "ZoomValuesComboBox",
+  "clase": "ComboBox",
+  "atajo": "",
+  "rect": [
+   1326,
+   1041,
+   1451,
+   1086
+  ]
+ },
+ {
+  "nivel": 5,
+  "tipo": "Edit",
+  "nombre": "Zoom",
+  "id": "EditableText",
+  "clase": "TextBox",
+  "atajo": "",
+  "rect": [
+   0,
+   0,
+   0,
+   0
+  ]
+ },
+ {
+  "nivel": 6,
+  "tipo": "Edit",
+  "nombre": "Zoom",
+  "id": "",
+  "clase": "",
+  "atajo": "",
+  "rect": [
+   0,
+   0,
+   0,
+   0
+  ]
+ },
+ {
+  "nivel": 6,
+  "tipo": "Pane",
+  "nombre": "",
+  "id": "ContentElement",
+  "clase": "ScrollViewer",
+  "atajo": "",
+  "rect": [
+   0,
+   0,
+   0,
+   0
+  ]
+ },
+ {
+  "nivel": 4,
+  "tipo": "Button",
+  "nombre": "Alejar",
+  "id": "",
+  "clase": "Button",
+  "atajo": "",
+  "rect": [
+   1456,
+   1051,
+   1496,
+   1076
+  ]
+ },
+ {
+  "nivel": 5,
+  "tipo": "Image",
+  "nombre": "",
+  "id": "",
+  "clase": "Image",
+  "atajo": "",
+  "rect": [
+   1467,
+   1054,
+   1485,
+   1071
+  ]
+ },
+ {
+  "nivel": 4,
+  "tipo": "Slider",
+  "nombre": "Zoom",
+  "id": "ZoomSliderControl",
+  "clase": "Slider",
+  "atajo": "",
+  "rect": [
+   1501,
+   1044,
+   1664,
+   1085
+  ]
+ },
+ {
+  "nivel": 5,
+  "tipo": "Thumb",
+  "nombre": "",
+  "id": "HorizontalThumb",
+  "clase": "Thumb",
+  "atajo": "",
+  "rect": [
+   1511,
+   1051,
+   1539,
+   1079
+  ]
+ },
+ {
+  "nivel": 4,
+  "tipo": "Button",
+  "nombre": "Acercar",
+  "id": "",
+  "clase": "Button",
+  "atajo": "",
+  "rect": [
+   1669,
+   1051,
+   1709,
+   1076
+  ]
+ },
+ {
+  "nivel": 5,
+  "tipo": "Image",
+  "nombre": "",
+  "id": "",
+  "clase": "Image",
+  "atajo": "",
+  "rect": [
+   1680,
+   1054,
+   1698,
+   1071
+  ]
+ },
+ {
+  "nivel": 1,
+  "tipo": "TitleBar",
+  "nombre": "",
+  "id": "",
+  "clase": "",
+  "atajo": null,
+  "rect": [
+   216,
+   139,
+   1714,
+   174
+  ]
+ },
+ {
+  "nivel": 2,
+  "tipo": "MenuBar",
+  "nombre": "Sistema",
+  "id": "MenuBar",
+  "clase": "",
+  "atajo": "Alt+Espacio",
+  "rect": [
+   196,
+   145,
+   224,
+   173
+  ]
+ },
+ {
+  "nivel": 3,
+  "tipo": "MenuItem",
+  "nombre": "Sistema",
+  "id": "",
+  "clase": "",
+  "atajo": "Espacio",
+  "rect": [
+   196,
+   145,
+   224,
+   173
+  ]
+ },
+ {
+  "nivel": 2,
+  "tipo": "Button",
+  "nombre": "Minimizar",
+  "id": "",
+  "clase": "",
+  "atajo": null,
+  "rect": [
+   1536,
+   137,
+   1596,
+   174
+  ]
+ },
+ {
+  "nivel": 2,
+  "tipo": "Button",
+  "nombre": "Maximizar",
+  "id": "",
+  "clase": "",
+  "atajo": null,
+  "rect": [
+   1596,
+   137,
+   1655,
+   174
+  ]
+ },
+ {
+  "nivel": 2,
+  "tipo": "Button",
+  "nombre": "Cerrar",
+  "id": "",
+  "clase": "",
+  "atajo": null,
+  "rect": [
+   1655,
+   137,
+   1715,
+   174
+  ]
+ }
+]

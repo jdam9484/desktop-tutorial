@@ -1,0 +1,232 @@
+[Window] "Sin título - Paint" id= clase=MSPaintApp
+  [Pane] "" id= clase=Microsoft.UI.Content.DesktopChildSiteBridge
+    [Pane] "" id= clase=InputSiteWindowClass
+      [Custom] "" id= clase=
+        [MenuBar] "" id= clase=
+          [MenuItem] "Archivo" id= clase=Microsoft.UI.Xaml.Controls.MenuBarItem atajo=Alt, F
+            [Button] "Archivo" id=ContentButton clase=Button
+              [Text] "Archivo" id= clase=TextBlock
+          [MenuItem] "Editar" id= clase=Microsoft.UI.Xaml.Controls.MenuBarItem atajo=Alt, E, D
+            [Button] "Editar" id=ContentButton clase=Button
+              [Text] "Editar" id= clase=TextBlock
+          [MenuItem] "Ver" id= clase=Microsoft.UI.Xaml.Controls.MenuBarItem atajo=Alt, V
+            [Button] "Ver" id=ContentButton clase=Button
+              [Text] "Ver" id= clase=TextBlock
+        [Button] "Guardar" id= clase=AppBarButton atajo=Ctrl+S
+          [Text] "" id= clase=TextBlock
+        [Button] "Compartir" id= clase=AppBarButton atajo=Alt, D
+          [Text] "" id= clase=TextBlock
+        [Button] "Deshacer" id= clase=AppBarButton atajo=Ctrl+Z
+          [Text] "" id= clase=TextBlock
+        [Button] "Rehacer" id= clase=AppBarButton atajo=Ctrl+Y
+          [Text] "" id= clase=TextBlock
+        [Button] "Novedades" id= clase=AppBarButton
+          [Text] "" id= clase=TextBlock
+        [Button] "Iniciar sesión" id= clase=AppBarButton atajo=Alt, S, I
+          [Text] "Persona" id= clase=Microsoft.UI.Xaml.Controls.PersonPicture
+            [Text] "" id=InitialsTextBlock clase=TextBlock
+        [Button] "Abrir configuración" id=SettingsButton clase=AppBarButton atajo=Alt, Y
+          [Text] "" id= clase=TextBlock
+        [Group] "" id= clase=LandmarkTarget
+          [Pane] "" id=ScrollViewer clase=ScrollViewer
+            [Group] "Selección" id= clase=NamedContainerAutomationPeer
+              [RadioButton] "Seleccionar" id= clase=Microsoft.UI.Xaml.Controls.SplitButton atajo=Alt, S, E
+                [Button] "" id=PrimaryButton clase=Button
+                  [Image] "" id= clase=Image
+                [Button] "Más opciones" id=SecondaryButton clase=Button
+              [Text] "Selección" id= clase=TextBlock
+            [Group] "Imagen" id= clase=NamedContainerAutomationPeer
+              [Button] "Recortar" id=CropButton clase=Button atajo=Alt, I, C
+                [Text] "" id= clase=TextBlock
+              [Button] "Quitar fondo" id= clase=Button atajo=Alt, I, B
+                [Image] "" id= clase=Image
+              [Button] "Girar" id=RotateDropdown clase=Microsoft.UI.Xaml.Controls.DropDownButton atajo=Alt, I, O
+                [Image] "" id= clase=Image
+              [Button] "Voltear" id=Flip clase=Microsoft.UI.Xaml.Controls.DropDownButton atajo=Alt, I, F
+                [Image] "" id= clase=Image
+              [Button] "Cambiar de tamaño y sesgar" id= clase=Button atajo=Alt, I, E
+                [Image] "" id= clase=Image
+              [Text] "Imagen" id=Label clase=TextBlock
+            [Group] "Herramientas" id= clase=NamedContainerAutomationPeer
+              [Button] "Lápiz" id=PencilTool clase=ToggleButton atajo=Alt, T, P
+                [Image] "" id= clase=Image
+              [Button] "Relleno" id= clase=ToggleButton atajo=Alt, T, F
+                [Image] "" id= clase=Image
+              [Button] "Texto" id= clase=ToggleButton atajo=Alt, T, X
+                [Image] "" id= clase=Image
+              [Button] "Borrador" id=EraserTool clase=ToggleButton atajo=Alt, T, E
+                [Image] "" id= clase=Image
+              [Button] "Selector de colores" id= clase=ToggleButton atajo=Alt, T, C
+                [Image] "" id= clase=Image
+              [Button] "Lupa" id= clase=ToggleButton atajo=Alt, T, M
+                [Image] "" id= clase=Image
+              [Text] "Herramientas" id=Label clase=TextBlock
+            [Group] "Pinceles" id= clase=NamedContainerAutomationPeer
+              [RadioButton] "Pinceles" id=BrushesSplitButton clase=Microsoft.UI.Xaml.Controls.SplitButton atajo=Alt, B
+                [Button] "" id=PrimaryButton clase=Button
+                  [Image] "" id= clase=Image
+                [Button] "Más opciones" id=SecondaryButton clase=Button
+              [Text] "Pinceles" id= clase=TextBlock
+            [Group] "Formas" id= clase=NamedContainerAutomationPeer
+              [List] "" id= clase=GridView
+                [ListItem] "Línea" id= clase=GridViewItem
+                  [Button] "Línea" id= clase=ToggleButton
+                    [Image] "" id= clase=Image
+                [ListItem] "Curva" id= clase=GridViewItem
+                  [Button] "Curva" id= clase=ToggleButton
+                    [Image] "" id= clase=Image
+                [ListItem] "Elipse" id= clase=GridViewItem
+                  [Button] "Elipse" id= clase=ToggleButton
+                    [Image] "" id= clase=Image
+                [ListItem] "Rectángulo" id= clase=GridViewItem
+                  [Button] "Rectángulo" id= clase=ToggleButton
+                    [Image] "" id= clase=Image
+                [ListItem] "Rectángulo redondeado" id= clase=GridViewItem
+                  [Button] "Rectángulo redondeado" id= clase=ToggleButton
+                    [Image] "" id= clase=Image
+                [ListItem] "Polígono" id= clase=GridViewItem
+                  [Button] "Polígono" id= clase=ToggleButton
+                    [Image] "" id= clase=Image
+                [ListItem] "Triángulo" id= clase=GridViewItem
+                  [Button] "Triángulo" id= clase=ToggleButton
+                    [Image] "" id= clase=Image
+                [ListItem] "Triángulo rectángulo" id= clase=GridViewItem
+                  [Button] "Triángulo rectángulo" id= clase=ToggleButton
+                    [Image] "" id= clase=Image
+                [ListItem] "Diamante" id= clase=GridViewItem
+                  [Button] "Diamante" id= clase=ToggleButton
+                    [Image] "" id= clase=Image
+                [ListItem] "Pentágono" id= clase=GridViewItem
+                  [Button] "Pentágono" id= clase=ToggleButton
+                    [Image] "" id= clase=Image
+                [ListItem] "Hexágono" id= clase=GridViewItem
+                  [Button] "Hexágono" id= clase=ToggleButton
+                    [Image] "" id= clase=Image
+                [ListItem] "Flecha derecha" id= clase=GridViewItem
+                  [Button] "Flecha derecha" id= clase=ToggleButton
+                    [Image] "" id= clase=Image
+                [ListItem] "Flecha izquierda" id= clase=GridViewItem
+                  [Button] "Flecha izquierda" id= clase=ToggleButton
+                    [Image] "" id= clase=Image
+                [ListItem] "Flecha arriba" id= clase=GridViewItem
+                  [Button] "Flecha arriba" id= clase=ToggleButton
+                    [Image] "" id= clase=Image
+                [ListItem] "Flecha abajo" id= clase=GridViewItem
+                  [Button] "Flecha abajo" id= clase=ToggleButton
+                    [Image] "" id= clase=Image
+                [ListItem] "Estrella de cuatro puntos" id= clase=GridViewItem
+                  [Button] "Estrella de cuatro puntos" id= clase=ToggleButton
+                    [Image] "" id= clase=Image
+                [ListItem] "Estrella de cinco puntos" id= clase=GridViewItem
+                  [Button] "Estrella de cinco puntos" id= clase=ToggleButton
+                    [Image] "" id= clase=Image
+                [ListItem] "Estrella de seis puntas" id= clase=GridViewItem
+                  [Button] "Estrella de seis puntas" id= clase=ToggleButton
+                    [Image] "" id= clase=Image
+                [ListItem] "Llamada rectangular redondeada" id= clase=GridViewItem
+                  [Button] "Llamada rectangular redondeada" id= clase=ToggleButton
+                    [Image] "" id= clase=Image
+                [ListItem] "Llamada de óvalo" id= clase=GridViewItem
+                  [Button] "Llamada de óvalo" id= clase=ToggleButton
+                    [Image] "" id= clase=Image
+                [ListItem] "Llamada de nube" id= clase=GridViewItem
+                  [Button] "Llamada de nube" id= clase=ToggleButton
+                    [Image] "" id= clase=Image
+                [ListItem] "Corazón" id= clase=GridViewItem
+                  [Button] "Corazón" id= clase=ToggleButton
+                    [Image] "" id= clase=Image
+                [ListItem] "Rayo" id= clase=GridViewItem
+                  [Button] "Rayo" id= clase=ToggleButton
+                    [Image] "" id= clase=Image
+              [Button] "Contorno de forma" id= clase=Microsoft.UI.Xaml.Controls.DropDownButton atajo=Alt, S, O
+              [Button] "Relleno de forma" id= clase=Microsoft.UI.Xaml.Controls.DropDownButton atajo=Alt, S, F
+              [Button] "Tamaño" id= clase=Microsoft.UI.Xaml.Controls.DropDownButton atajo=Alt, S, Z
+                [Image] "" id= clase=Image
+                [Text] "" id= clase=TextBlock
+              [Text] "Formas" id=Label clase=TextBlock
+            [Group] "Colores" id= clase=NamedContainerAutomationPeer
+              [RadioButton] "Color 1: Negro" id= clase=RadioButton atajo=Alt, 1
+              [RadioButton] "Color 2: Blanco" id= clase=RadioButton atajo=Alt, 2
+              [List] "" id= clase=GridView
+                [ListItem] "Negro" id= clase=GridViewItem
+                [ListItem] "Gris" id= clase=GridViewItem
+                [ListItem] "Rojo oscuro" id= clase=GridViewItem
+                [ListItem] "Rojo" id= clase=GridViewItem
+                [ListItem] "Naranja" id= clase=GridViewItem
+                [ListItem] "Amarillo" id= clase=GridViewItem
+                [ListItem] "Verde" id= clase=GridViewItem
+                [ListItem] "Turquesa" id= clase=GridViewItem
+                [ListItem] "Añil" id= clase=GridViewItem
+                [ListItem] "Púrpura" id= clase=GridViewItem
+                [ListItem] "Blanco" id= clase=GridViewItem
+                [ListItem] "Gris claro" id= clase=GridViewItem
+                [ListItem] "Marrón" id= clase=GridViewItem
+                [ListItem] "Rosa" id= clase=GridViewItem
+                [ListItem] "Dorado" id= clase=GridViewItem
+                [ListItem] "Amarillo claro" id= clase=GridViewItem
+                [ListItem] "Lima" id= clase=GridViewItem
+                [ListItem] "Turquesa claro" id= clase=GridViewItem
+                [ListItem] "Gris azulado" id= clase=GridViewItem
+                [ListItem] "Lavanda" id= clase=GridViewItem
+                [ListItem] "Vacío" id= clase=GridViewItem
+                [ListItem] "Vacío" id= clase=GridViewItem
+                [ListItem] "Vacío" id= clase=GridViewItem
+                [ListItem] "Vacío" id= clase=GridViewItem
+                [ListItem] "Vacío" id= clase=GridViewItem
+                [ListItem] "Vacío" id= clase=GridViewItem
+                [ListItem] "Vacío" id= clase=GridViewItem
+                [ListItem] "Vacío" id= clase=GridViewItem
+                [ListItem] "Vacío" id= clase=GridViewItem
+                [ListItem] "Vacío" id= clase=GridViewItem
+              [Button] "Editar colores" id= clase=Button atajo=Alt, E, C
+                [Image] "" id= clase=Image
+              [Text] "Colores" id=Label clase=TextBlock
+            [Group] "Copilot" id= clase=NamedContainerAutomationPeer
+              [Button] "Copilot" id=CopilotDropDownButton clase=Microsoft.UI.Xaml.Controls.DropDownButton atajo=Alt, C
+                [Image] "" id= clase=Image
+                [Text] "" id= clase=TextBlock
+              [Text] "Copilot" id= clase=TextBlock
+            [Group] "Capas" id= clase=NamedContainerAutomationPeer
+              [Button] "" id= clase=ToggleButton atajo=Alt, L
+                [Image] "" id= clase=Image
+              [Text] "Capas" id= clase=TextBlock
+          [Button] "Opciones de barra de herramientas" id=OptionsButton clase=Button atajo=Alt, R, O
+            [Text] "" id= clase=TextBlock
+        [Pane] "" id=scrollViewer clase=ScrollViewer
+          [Group] "Usando la herramienta Brocha en el lienzo" id=image clase=NamedContainerAutomationPeer
+          [ScrollBar] "Vertical" id=VerticalScrollBar clase=ScrollBar
+            [Button] "Disminución pequeña vertical" id=VerticalSmallDecrease clase=RepeatButton
+              [Text] "" id= clase=TextBlock
+            [Button] "Disminución grande vertical" id=VerticalLargeDecrease clase=RepeatButton
+            [Thumb] "Miniatura vertical" id=VerticalThumb clase=Thumb
+            [Button] "Aumento grande vertical" id=VerticalLargeIncrease clase=RepeatButton
+            [Button] "Aumento pequeño vertical" id=VerticalSmallIncrease clase=RepeatButton
+              [Text] "" id= clase=TextBlock
+        [Image] "" id= clase=Image
+        [Slider] "Tamaño" id= clase=Slider atajo=Alt, S, Z
+          [Thumb] "" id=VerticalThumb clase=Thumb
+        [Image] "" id= clase=Image
+        [Slider] "Opacidad" id= clase=Slider atajo=Alt, O
+          [Thumb] "" id=VerticalThumb clase=Thumb
+        [Image] "" id= clase=Image
+        [Image] "" id= clase=Image
+        [Image] "" id= clase=Image
+        [Text] "1152 × 720píxeles" id=CanvasSizeTextBlock clase=TextBlock
+        [Button] "Ajustar a la ventana" id= clase=Button
+          [Text] "" id= clase=TextBlock
+        [ComboBox] "Zoom" id=ZoomValuesComboBox clase=ComboBox
+          [Edit] "Zoom" id=EditableText clase=TextBox
+            [Edit] "Zoom" id= clase=
+            [Pane] "" id=ContentElement clase=ScrollViewer
+        [Button] "Alejar" id= clase=Button
+          [Image] "" id= clase=Image
+        [Slider] "Zoom" id=ZoomSliderControl clase=Slider
+          [Thumb] "" id=HorizontalThumb clase=Thumb
+        [Button] "Acercar" id= clase=Button
+          [Image] "" id= clase=Image
+  [TitleBar] "" id= clase=
+    [MenuBar] "Sistema" id=MenuBar clase= atajo=Alt+Espacio
+      [MenuItem] "Sistema" id= clase= atajo=Espacio
+    [Button] "Minimizar" id= clase=
+    [Button] "Maximizar" id= clase=
+    [Button] "Cerrar" id= clase=

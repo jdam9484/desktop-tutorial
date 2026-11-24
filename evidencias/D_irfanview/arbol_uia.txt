@@ -1,0 +1,41 @@
+[Window] "IrfanView" id= clase=IrfanView
+  [ToolBar] "" id= clase=ToolbarWindow32
+    [ComboBox] "" id= clase=ComboBox
+      [Edit] "" id=1001 clase=Edit
+      [Button] "Abrir" id=DropDown clase= atajo=Alt+Flecha abajo
+    [Button] "Open" id= clase=
+    [Button] "Slideshow" id= clase=
+    [Button] "Save as" id= clase=
+    [Button] "Print" id= clase=
+    [Button] "Delete file" id= clase=
+    [Button] "Cut selection" id= clase=
+    [Button] "Copy" id= clase=
+    [Button] "Paste" id= clase=
+    [Button] "Undo" id= clase=
+    [Button] "Image information" id= clase=
+    [MenuItem] "" id= clase=
+    [MenuItem] "" id= clase=
+    [Button] "Zoom in" id= clase=
+    [Button] "Zoom out" id= clase=
+    [Button] "Previous file in folder/list" id= clase=
+    [Button] "Next file in folder/list" id= clase=
+    [Button] "Previous page" id= clase=
+    [Button] "Next page" id= clase=
+    [Button] "Properties/Settings" id= clase=
+    [Button] "About IrfanView" id= clase=
+  [Pane] "" id= clase=IrfanViewerClass
+  [StatusBar] "" id=1999 clase=msctls_statusbar32
+    [Text] "No file loaded (use File->Open menu)" id= clase=
+  [TitleBar] "" id= clase=
+    [MenuBar] "Sistema" id=MenuBar clase= atajo=Alt+Espacio
+      [MenuItem] "Sistema" id= clase= atajo=Espacio
+    [Button] "Minimizar" id= clase=
+    [Button] "Maximizar" id= clase=
+    [Button] "Cerrar" id= clase=
+  [MenuBar] "Aplicación" id=MenuBar clase= atajo=Alt
+    [MenuItem] "File" id= clase= atajo=Alt+f
+    [MenuItem] "Edit" id= clase= atajo=Alt+e
+    [MenuItem] "Image" id= clase= atajo=Alt+i
+    [MenuItem] "Options" id= clase= atajo=Alt+o
+    [MenuItem] "View" id= clase= atajo=Alt+v
+    [MenuItem] "Help" id= clase= atajo=Alt+h

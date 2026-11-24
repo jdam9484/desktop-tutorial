@@ -1,0 +1,576 @@
+[
+ {
+  "nivel": 0,
+  "tipo": "Window",
+  "nombre": "IrfanView",
+  "id": "",
+  "clase": "IrfanView",
+  "atajo": "",
+  "rect": [
+   0,
+   0,
+   539,
+   405
+  ]
+ },
+ {
+  "nivel": 1,
+  "tipo": "ToolBar",
+  "nombre": "",
+  "id": "",
+  "clase": "ToolbarWindow32",
+  "atajo": "",
+  "rect": [
+   9,
+   63,
+   530,
+   91
+  ]
+ },
+ {
+  "nivel": 2,
+  "tipo": "ComboBox",
+  "nombre": "",
+  "id": "",
+  "clase": "ComboBox",
+  "atajo": "",
+  "rect": [
+   242,
+   67,
+   284,
+   86
+  ]
+ },
+ {
+  "nivel": 3,
+  "tipo": "Edit",
+  "nombre": "",
+  "id": "1001",
+  "clase": "Edit",
+  "atajo": "",
+  "rect": [
+   245,
+   70,
+   260,
+   83
+  ]
+ },
+ {
+  "nivel": 3,
+  "tipo": "Button",
+  "nombre": "Abrir",
+  "id": "DropDown",
+  "clase": "",
+  "atajo": "Alt+Flecha abajo",
+  "rect": [
+   264,
+   68,
+   283,
+   85
+  ]
+ },
+ {
+  "nivel": 2,
+  "tipo": "Button",
+  "nombre": "Open",
+  "id": "",
+  "clase": "",
+  "atajo": "",
+  "rect": [
+   9,
+   65,
+   32,
+   87
+  ]
+ },
+ {
+  "nivel": 2,
+  "tipo": "Button",
+  "nombre": "Slideshow",
+  "id": "",
+  "clase": "",
+  "atajo": "",
+  "rect": [
+   32,
+   65,
+   55,
+   87
+  ]
+ },
+ {
+  "nivel": 2,
+  "tipo": "Button",
+  "nombre": "Save as",
+  "id": "",
+  "clase": "",
+  "atajo": "",
+  "rect": [
+   55,
+   65,
+   78,
+   87
+  ]
+ },
+ {
+  "nivel": 2,
+  "tipo": "Button",
+  "nombre": "Print",
+  "id": "",
+  "clase": "",
+  "atajo": "",
+  "rect": [
+   78,
+   65,
+   101,
+   87
+  ]
+ },
+ {
+  "nivel": 2,
+  "tipo": "Button",
+  "nombre": "Delete file",
+  "id": "",
+  "clase": "",
+  "atajo": "",
+  "rect": [
+   101,
+   65,
+   124,
+   87
+  ]
+ },
+ {
+  "nivel": 2,
+  "tipo": "Button",
+  "nombre": "Cut selection",
+  "id": "",
+  "clase": "",
+  "atajo": "",
+  "rect": [
+   124,
+   65,
+   147,
+   87
+  ]
+ },
+ {
+  "nivel": 2,
+  "tipo": "Button",
+  "nombre": "Copy",
+  "id": "",
+  "clase": "",
+  "atajo": "",
+  "rect": [
+   147,
+   65,
+   170,
+   87
+  ]
+ },
+ {
+  "nivel": 2,
+  "tipo": "Button",
+  "nombre": "Paste",
+  "id": "",
+  "clase": "",
+  "atajo": "",
+  "rect": [
+   170,
+   65,
+   193,
+   87
+  ]
+ },
+ {
+  "nivel": 2,
+  "tipo": "Button",
+  "nombre": "Undo",
+  "id": "",
+  "clase": "",
+  "atajo": "",
+  "rect": [
+   193,
+   65,
+   216,
+   87
+  ]
+ },
+ {
+  "nivel": 2,
+  "tipo": "Button",
+  "nombre": "Image information",
+  "id": "",
+  "clase": "",
+  "atajo": "",
+  "rect": [
+   216,
+   65,
+   239,
+   87
+  ]
+ },
+ {
+  "nivel": 2,
+  "tipo": "MenuItem",
+  "nombre": "",
+  "id": "",
+  "clase": "",
+  "atajo": "",
+  "rect": [
+   239,
+   65,
+   262,
+   87
+  ]
+ },
+ {
+  "nivel": 2,
+  "tipo": "MenuItem",
+  "nombre": "",
+  "id": "",
+  "clase": "",
+  "atajo": "",
+  "rect": [
+   262,
+   65,
+   285,
+   87
+  ]
+ },
+ {
+  "nivel": 2,
+  "tipo": "Button",
+  "nombre": "Zoom in",
+  "id": "",
+  "clase": "",
+  "atajo": "",
+  "rect": [
+   285,
+   65,
+   308,
+   87
+  ]
+ },
+ {
+  "nivel": 2,
+  "tipo": "Button",
+  "nombre": "Zoom out",
+  "id": "",
+  "clase": "",
+  "atajo": "",
+  "rect": [
+   308,
+   65,
+   331,
+   87
+  ]
+ },
+ {
+  "nivel": 2,
+  "tipo": "Button",
+  "nombre": "Previous file in folder/list",
+  "id": "",
+  "clase": "",
+  "atajo": "",
+  "rect": [
+   331,
+   65,
+   354,
+   87
+  ]
+ },
+ {
+  "nivel": 2,
+  "tipo": "Button",
+  "nombre": "Next file in folder/list",
+  "id": "",
+  "clase": "",
+  "atajo": "",
+  "rect": [
+   354,
+   65,
+   377,
+   87
+  ]
+ },
+ {
+  "nivel": 2,
+  "tipo": "Button",
+  "nombre": "Previous page",
+  "id": "",
+  "clase": "",
+  "atajo": "",
+  "rect": [
+   377,
+   65,
+   400,
+   87
+  ]
+ },
+ {
+  "nivel": 2,
+  "tipo": "Button",
+  "nombre": "Next page",
+  "id": "",
+  "clase": "",
+  "atajo": "",
+  "rect": [
+   400,
+   65,
+   423,
+   87
+  ]
+ },
+ {
+  "nivel": 2,
+  "tipo": "Button",
+  "nombre": "Properties/Settings",
+  "id": "",
+  "clase": "",
+  "atajo": "",
+  "rect": [
+   423,
+   65,
+   446,
+   87
+  ]
+ },
+ {
+  "nivel": 2,
+  "tipo": "Button",
+  "nombre": "About IrfanView",
+  "id": "",
+  "clase": "",
+  "atajo": "",
+  "rect": [
+   446,
+   65,
+   469,
+   87
+  ]
+ },
+ {
+  "nivel": 1,
+  "tipo": "Pane",
+  "nombre": "",
+  "id": "",
+  "clase": "IrfanViewerClass",
+  "atajo": "",
+  "rect": [
+   9,
+   91,
+   530,
+   367
+  ]
+ },
+ {
+  "nivel": 1,
+  "tipo": "StatusBar",
+  "nombre": "",
+  "id": "1999",
+  "clase": "msctls_statusbar32",
+  "atajo": "",
+  "rect": [
+   9,
+   367,
+   530,
+   396
+  ]
+ },
+ {
+  "nivel": 2,
+  "tipo": "Text",
+  "nombre": "No file loaded (use File->Open menu)",
+  "id": "",
+  "clase": "",
+  "atajo": "",
+  "rect": [
+   9,
+   369,
+   510,
+   396
+  ]
+ },
+ {
+  "nivel": 1,
+  "tipo": "TitleBar",
+  "nombre": "",
+  "id": "",
+  "clase": "",
+  "atajo": null,
+  "rect": [
+   29,
+   3,
+   530,
+   38
+  ]
+ },
+ {
+  "nivel": 2,
+  "tipo": "MenuBar",
+  "nombre": "Sistema",
+  "id": "MenuBar",
+  "clase": "",
+  "atajo": "Alt+Espacio",
+  "rect": [
+   9,
+   9,
+   37,
+   37
+  ]
+ },
+ {
+  "nivel": 3,
+  "tipo": "MenuItem",
+  "nombre": "Sistema",
+  "id": "",
+  "clase": "",
+  "atajo": "Espacio",
+  "rect": [
+   9,
+   9,
+   37,
+   37
+  ]
+ },
+ {
+  "nivel": 2,
+  "tipo": "Button",
+  "nombre": "Minimizar",
+  "id": "",
+  "clase": "",
+  "atajo": null,
+  "rect": [
+   352,
+   1,
+   412,
+   38
+  ]
+ },
+ {
+  "nivel": 2,
+  "tipo": "Button",
+  "nombre": "Maximizar",
+  "id": "",
+  "clase": "",
+  "atajo": null,
+  "rect": [
+   412,
+   1,
+   471,
+   38
+  ]
+ },
+ {
+  "nivel": 2,
+  "tipo": "Button",
+  "nombre": "Cerrar",
+  "id": "",
+  "clase": "",
+  "atajo": null,
+  "rect": [
+   471,
+   1,
+   531,
+   38
+  ]
+ },
+ {
+  "nivel": 1,
+  "tipo": "MenuBar",
+  "nombre": "Aplicación",
+  "id": "MenuBar",
+  "clase": "",
+  "atajo": "Alt",
+  "rect": [
+   9,
+   38,
+   530,
+   62
+  ]
+ },
+ {
+  "nivel": 2,
+  "tipo": "MenuItem",
+  "nombre": "File",
+  "id": "",
+  "clase": "",
+  "atajo": "Alt+f",
+  "rect": [
+   9,
+   38,
+   50,
+   62
+  ]
+ },
+ {
+  "nivel": 2,
+  "tipo": "MenuItem",
+  "nombre": "Edit",
+  "id": "",
+  "clase": "",
+  "atajo": "Alt+e",
+  "rect": [
+   50,
+   38,
+   94,
+   62
+  ]
+ },
+ {
+  "nivel": 2,
+  "tipo": "MenuItem",
+  "nombre": "Image",
+  "id": "",
+  "clase": "",
+  "atajo": "Alt+i",
+  "rect": [
+   94,
+   38,
+   154,
+   62
+  ]
+ },
+ {
+  "nivel": 2,
+  "tipo": "MenuItem",
+  "nombre": "Options",
+  "id": "",
+  "clase": "",
+  "atajo": "Alt+o",
+  "rect": [
+   154,
+   38,
+   224,
+   62
+  ]
+ },
+ {
+  "nivel": 2,
+  "tipo": "MenuItem",
+  "nombre": "View",
+  "id": "",
+  "clase": "",
+  "atajo": "Alt+v",
+  "rect": [
+   224,
+   38,
+   274,
+   62
+  ]
+ },
+ {
+  "nivel": 2,
+  "tipo": "MenuItem",
+  "nombre": "Help",
+  "id": "",
+  "clase": "",
+  "atajo": "Alt+h",
+  "rect": [
+   274,
+   38,
+   324,
+   62
+  ]
+ }
+]

@@ -1,0 +1,678 @@
+hora,proceso,operacion,ruta,resultado
+12:29:40.6210227,SumatraPDF.exe,Load Image,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\sumatra\SumatraPDF.exe,SUCCESS
+12:29:40.6210805,SumatraPDF.exe,Load Image,C:\Windows\System32\ntdll.dll,SUCCESS
+12:29:40.6211933,SumatraPDF.exe,CreateFile,C:\Windows\Prefetch\SUMATRAPDF.EXE-CC540B31.pf,SUCCESS
+12:29:40.6225288,SumatraPDF.exe,ReadFile,C:\Windows\Prefetch\SUMATRAPDF.EXE-CC540B31.pf,SUCCESS
+12:29:40.6346849,SumatraPDF.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia,SUCCESS
+12:29:40.6349162,SumatraPDF.exe,Load Image,C:\Windows\System32\kernel32.dll,SUCCESS
+12:29:40.6350190,SumatraPDF.exe,Load Image,C:\Windows\System32\KernelBase.dll,SUCCESS
+12:29:40.6360354,SumatraPDF.exe,CreateFile,C:\Windows\WinSxS\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.26100.9818_none_3e071914e3359bdd,SUCCESS
+12:29:40.6361901,SumatraPDF.exe,Load Image,C:\Windows\System32\user32.dll,SUCCESS
+12:29:40.6362749,SumatraPDF.exe,CreateFile,C:\Windows\WinSxS\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.26100.9818_none_3e071914e3359bdd\comctl32.dll,SUCCESS
+12:29:40.6363659,SumatraPDF.exe,Load Image,C:\Windows\System32\win32u.dll,SUCCESS
+12:29:40.6363873,SumatraPDF.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\sumatra\UxTheme.dll,NAME NOT FOUND
+12:29:40.6363921,SumatraPDF.exe,CreateFile,C:\Windows\WinSxS\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.26100.9818_none_3e071914e3359bdd\comctl32.dll,SUCCESS
+12:29:40.6365038,SumatraPDF.exe,Load Image,C:\Windows\System32\gdi32.dll,SUCCESS
+12:29:40.6365176,SumatraPDF.exe,Load Image,C:\Windows\WinSxS\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.26100.9818_none_3e071914e3359bdd\comctl32.dll,SUCCESS
+12:29:40.6366507,SumatraPDF.exe,Load Image,C:\Windows\System32\gdi32full.dll,SUCCESS
+12:29:40.6366665,SumatraPDF.exe,Load Image,C:\Windows\System32\msvcrt.dll,SUCCESS
+12:29:40.6368038,SumatraPDF.exe,Load Image,C:\Windows\System32\msvcp_win.dll,SUCCESS
+12:29:40.6369287,SumatraPDF.exe,Load Image,C:\Windows\System32\ucrtbase.dll,SUCCESS
+12:29:40.6370269,SumatraPDF.exe,CreateFile,C:\Windows\System32\uxtheme.dll,SUCCESS
+12:29:40.6370993,SumatraPDF.exe,Load Image,C:\Windows\System32\comdlg32.dll,SUCCESS
+12:29:40.6372495,SumatraPDF.exe,Load Image,C:\Windows\System32\combase.dll,SUCCESS
+12:29:40.6372975,SumatraPDF.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\sumatra\WINSPOOL.DRV,NAME NOT FOUND
+12:29:40.6374111,SumatraPDF.exe,Load Image,C:\Windows\System32\rpcrt4.dll,SUCCESS
+12:29:40.6376451,SumatraPDF.exe,Load Image,C:\Windows\System32\SHCore.dll,SUCCESS
+12:29:40.6376995,SumatraPDF.exe,CreateFile,C:\Windows\System32\uxtheme.dll,SUCCESS
+12:29:40.6378755,SumatraPDF.exe,Load Image,C:\Windows\System32\shlwapi.dll,SUCCESS
+12:29:40.6379368,SumatraPDF.exe,Load Image,C:\Windows\System32\uxtheme.dll,SUCCESS
+12:29:40.6380126,SumatraPDF.exe,CreateFile,C:\Windows\System32\winspool.drv,SUCCESS
+12:29:40.6380843,SumatraPDF.exe,Load Image,C:\Windows\System32\shell32.dll,SUCCESS
+12:29:40.6381535,SumatraPDF.exe,CreateFile,C:\Windows\System32\winspool.drv,SUCCESS
+12:29:40.6382998,SumatraPDF.exe,Load Image,C:\Windows\System32\winspool.drv,SUCCESS
+12:29:40.6383331,SumatraPDF.exe,Load Image,C:\Windows\System32\advapi32.dll,SUCCESS
+12:29:40.6385079,SumatraPDF.exe,Load Image,C:\Windows\System32\sechost.dll,SUCCESS
+12:29:40.6386738,SumatraPDF.exe,CreateFile,C:\Windows\System32\cfgmgr32.dll,SUCCESS
+12:29:40.6386912,SumatraPDF.exe,Load Image,C:\Windows\System32\ole32.dll,SUCCESS
+12:29:40.6388177,SumatraPDF.exe,CreateFile,C:\Windows\System32\cfgmgr32.dll,SUCCESS
+12:29:40.6388412,SumatraPDF.exe,Load Image,C:\Windows\System32\oleaut32.dll,SUCCESS
+12:29:40.6390034,SumatraPDF.exe,Load Image,C:\Windows\System32\cfgmgr32.dll,SUCCESS
+12:29:40.6390286,SumatraPDF.exe,Load Image,C:\Windows\System32\crypt32.dll,SUCCESS
+12:29:40.6390735,SumatraPDF.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\sumatra\dwmapi.dll,NAME NOT FOUND
+12:29:40.6393168,SumatraPDF.exe,CreateFile,C:\Windows\System32\dwmapi.dll,SUCCESS
+12:29:40.6394376,SumatraPDF.exe,CreateFile,C:\Windows\System32\dwmapi.dll,SUCCESS
+12:29:40.6395673,SumatraPDF.exe,Load Image,C:\Windows\System32\dwmapi.dll,SUCCESS
+12:29:40.6423113,SumatraPDF.exe,CreateFile,C:\Windows\System32\imm32.dll,SUCCESS
+12:29:40.6425372,SumatraPDF.exe,CreateFile,C:\Windows\System32\imm32.dll,SUCCESS
+12:29:40.6428444,SumatraPDF.exe,Load Image,C:\Windows\System32\imm32.dll,SUCCESS
+12:29:40.6461395,SumatraPDF.exe,CreateFile,C:\Windows\WindowsShell.Manifest,SUCCESS
+12:29:40.6506376,SumatraPDF.exe,Load Image,C:\Windows\System32\normaliz.dll,SUCCESS
+12:29:40.6513659,SumatraPDF.exe,CreateFile,C:\Windows\System32\dbghelp.dll,SUCCESS
+12:29:40.6519660,SumatraPDF.exe,CreateFile,C:\Windows\System32\dbghelp.dll,SUCCESS
+12:29:40.6521559,SumatraPDF.exe,Load Image,C:\Windows\System32\dbghelp.dll,SUCCESS
+12:29:40.6527073,SumatraPDF.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\sumatra\dbgcore.DLL,NAME NOT FOUND
+12:29:40.6532319,SumatraPDF.exe,CreateFile,C:\Windows\System32\dbgcore.dll,SUCCESS
+12:29:40.6538660,SumatraPDF.exe,CreateFile,C:\Windows\System32\dbgcore.dll,SUCCESS
+12:29:40.6541205,SumatraPDF.exe,Load Image,C:\Windows\System32\dbgcore.dll,SUCCESS
+12:29:40.6544272,SumatraPDF.exe,CreateFile,C:\Windows\WinSxS\amd64_microsoft.windows.gdiplus_6595b64144ccf1df_1.1.26100.9974_none_6ef868b23dc24782,SUCCESS
+12:29:40.6545882,SumatraPDF.exe,CreateFile,C:\Windows\WinSxS\amd64_microsoft.windows.gdiplus_6595b64144ccf1df_1.1.26100.9974_none_6ef868b23dc24782\GdiPlus.dll,SUCCESS
+12:29:40.6547161,SumatraPDF.exe,CreateFile,C:\Windows\WinSxS\amd64_microsoft.windows.gdiplus_6595b64144ccf1df_1.1.26100.9974_none_6ef868b23dc24782\GdiPlus.dll,SUCCESS
+12:29:40.6548542,SumatraPDF.exe,Load Image,C:\Windows\WinSxS\amd64_microsoft.windows.gdiplus_6595b64144ccf1df_1.1.26100.9974_none_6ef868b23dc24782\GdiPlus.dll,SUCCESS
+12:29:40.6558281,SumatraPDF.exe,CreateFile,C:\Windows\System32\msimg32.dll,SUCCESS
+12:29:40.6564632,SumatraPDF.exe,CreateFile,C:\Windows\System32\msimg32.dll,SUCCESS
+12:29:40.6566981,SumatraPDF.exe,Load Image,C:\Windows\System32\msimg32.dll,SUCCESS
+12:29:40.6580885,SumatraPDF.exe,CreateFile,C:\Windows\System32\urlmon.dll,SUCCESS
+12:29:40.6583827,SumatraPDF.exe,CreateFile,C:\Windows\System32\urlmon.dll,SUCCESS
+12:29:40.6586038,SumatraPDF.exe,Load Image,C:\Windows\System32\urlmon.dll,SUCCESS
+12:29:40.6588249,SumatraPDF.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\sumatra\iertutil.dll,NAME NOT FOUND
+12:29:40.6602105,SumatraPDF.exe,CreateFile,C:\Windows\System32\windows.storage.dll,SUCCESS
+12:29:40.6602911,SumatraPDF.exe,CreateFile,C:\Windows\System32\iertutil.dll,SUCCESS
+12:29:40.6609194,SumatraPDF.exe,CreateFile,C:\Windows\System32\windows.storage.dll,SUCCESS
+12:29:40.6609864,SumatraPDF.exe,CreateFile,C:\Windows\System32\iertutil.dll,SUCCESS
+12:29:40.6612477,SumatraPDF.exe,Load Image,C:\Windows\System32\windows.storage.dll,SUCCESS
+12:29:40.6613715,SumatraPDF.exe,Load Image,C:\Windows\System32\iertutil.dll,SUCCESS
+12:29:40.6617871,SumatraPDF.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\sumatra\netutils.dll,NAME NOT FOUND
+12:29:40.6618212,SumatraPDF.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\sumatra\srvcli.dll,NAME NOT FOUND
+12:29:40.6631550,SumatraPDF.exe,CreateFile,C:\Windows\System32\netutils.dll,SUCCESS
+12:29:40.6632232,SumatraPDF.exe,CreateFile,C:\Windows\System32\srvcli.dll,SUCCESS
+12:29:40.6638714,SumatraPDF.exe,CreateFile,C:\Windows\System32\netutils.dll,SUCCESS
+12:29:40.6639381,SumatraPDF.exe,CreateFile,C:\Windows\System32\srvcli.dll,SUCCESS
+12:29:40.6643151,SumatraPDF.exe,Load Image,C:\Windows\System32\srvcli.dll,SUCCESS
+12:29:40.6643193,SumatraPDF.exe,Load Image,C:\Windows\System32\netutils.dll,SUCCESS
+12:29:40.6660053,SumatraPDF.exe,CreateFile,C:\Windows\System32\version.dll,SUCCESS
+12:29:40.6662643,SumatraPDF.exe,ReadFile,C:\pagefile.sys,SUCCESS
+12:29:40.6669817,SumatraPDF.exe,CreateFile,C:\Windows\System32\version.dll,SUCCESS
+12:29:40.6672590,SumatraPDF.exe,Load Image,C:\Windows\System32\version.dll,SUCCESS
+12:29:40.6676373,SumatraPDF.exe,CreateFile,C:\Windows\System32\WindowsCodecs.dll,SUCCESS
+12:29:40.6679214,SumatraPDF.exe,CreateFile,C:\Windows\System32\WindowsCodecs.dll,SUCCESS
+12:29:40.6681455,SumatraPDF.exe,Load Image,C:\Windows\System32\WindowsCodecs.dll,SUCCESS
+12:29:40.6687800,SumatraPDF.exe,CreateFile,C:\Windows\System32\wininet.dll,SUCCESS
+12:29:40.6689176,SumatraPDF.exe,CreateFile,C:\Windows\System32\wininet.dll,SUCCESS
+12:29:40.6691251,SumatraPDF.exe,Load Image,C:\Windows\System32\wininet.dll,SUCCESS
+12:29:40.6712250,SumatraPDF.exe,CreateFile,C:\Windows\Globalization\Sorting\SortDefault.nls,SUCCESS
+12:29:40.6719622,SumatraPDF.exe,CreateFile,C:\Users\USUARIO\AppData\Local,SUCCESS
+12:29:40.6722005,SumatraPDF.exe,CreateFile,\Device\NamedPipe\LOCAL\ArsLexis-Logger,NAME NOT FOUND
+12:29:40.6727897,SumatraPDF.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\sumatra\SumatraPDF.exe,SUCCESS
+12:29:40.6730216,SumatraPDF.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\sumatra\libmupdf.dll,SUCCESS
+12:29:40.6732529,SumatraPDF.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\sumatra\SumatraPDF.exe,SUCCESS
+12:29:40.6761017,SumatraPDF.exe,Load Image,C:\Windows\System32\wintrust.dll,SUCCESS
+12:29:40.6766801,SumatraPDF.exe,CreateFile,C:\Windows\System32\msasn1.dll,SUCCESS
+12:29:40.6777768,SumatraPDF.exe,CreateFile,C:\Windows\System32\msasn1.dll,SUCCESS
+12:29:40.6781608,SumatraPDF.exe,Load Image,C:\Windows\System32\msasn1.dll,SUCCESS
+12:29:40.6810092,SumatraPDF.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\sumatra\SumatraPDF.exe,SUCCESS
+12:29:40.6812872,SumatraPDF.exe,Load Image,C:\Windows\System32\imagehlp.dll,SUCCESS
+12:29:40.6817431,SumatraPDF.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\sumatra\SumatraPDF.exe,SUCCESS
+12:29:40.6825746,SumatraPDF.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\sumatra\CRYPTSP.dll,NAME NOT FOUND
+12:29:40.6833259,SumatraPDF.exe,CreateFile,C:\Windows\System32\cryptsp.dll,SUCCESS
+12:29:40.6834952,SumatraPDF.exe,CreateFile,C:\Windows\System32\cryptsp.dll,SUCCESS
+12:29:40.6837017,SumatraPDF.exe,Load Image,C:\Windows\System32\cryptsp.dll,SUCCESS
+12:29:40.6842214,SumatraPDF.exe,CreateFile,C:\Windows\System32\rsaenh.dll,SUCCESS
+12:29:40.6843400,SumatraPDF.exe,CreateFile,C:\Windows\System32\rsaenh.dll,SUCCESS
+12:29:40.6844917,SumatraPDF.exe,Load Image,C:\Windows\System32\rsaenh.dll,SUCCESS
+12:29:40.6851635,SumatraPDF.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\sumatra\CRYPTBASE.dll,NAME NOT FOUND
+12:29:40.6854192,SumatraPDF.exe,CreateFile,C:\Windows\System32\cryptbase.dll,SUCCESS
+12:29:40.6856494,SumatraPDF.exe,CreateFile,C:\Windows\System32\cryptbase.dll,SUCCESS
+12:29:40.6858682,SumatraPDF.exe,Load Image,C:\Windows\System32\cryptbase.dll,SUCCESS
+12:29:40.6861304,SumatraPDF.exe,Load Image,C:\Windows\System32\bcryptprimitives.dll,SUCCESS
+12:29:40.6871887,SumatraPDF.exe,CreateFile,C:\Windows\System32\ci.dll,SUCCESS
+12:29:40.6876284,SumatraPDF.exe,CreateFile,C:\Windows\System32\ci.dll,SUCCESS
+12:29:40.6881257,SumatraPDF.exe,CreateFile,C:\Windows\System32\ci.dll,SUCCESS
+12:29:40.6885808,SumatraPDF.exe,CreateFile,C:\Windows\System32\ci.dll,SUCCESS
+12:29:40.6891083,SumatraPDF.exe,CreateFile,C:\Windows\System32\dnsapi.dll,SUCCESS
+12:29:40.6895378,SumatraPDF.exe,CreateFile,C:\Windows\System32\dnsapi.dll,SUCCESS
+12:29:40.6905210,SumatraPDF.exe,CreateFile,C:\Windows\System32\fveui.dll,SUCCESS
+12:29:40.6915330,SumatraPDF.exe,CreateFile,C:\Windows\System32\fveui.dll,SUCCESS
+12:29:40.6921978,SumatraPDF.exe,CreateFile,C:\Windows\System32\fveui.dll,SUCCESS
+12:29:40.6926184,SumatraPDF.exe,CreateFile,C:\Windows\System32\fveui.dll,SUCCESS
+12:29:40.6932022,SumatraPDF.exe,CreateFile,C:\Windows\System32\wuaueng.dll,SUCCESS
+12:29:40.6935465,SumatraPDF.exe,CreateFile,C:\Windows\System32\wuaueng.dll,SUCCESS
+12:29:40.6939704,SumatraPDF.exe,CreateFile,C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe,SUCCESS
+12:29:40.6942549,SumatraPDF.exe,CreateFile,C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe,SUCCESS
+12:29:40.6948225,SumatraPDF.exe,CreateFile,C:\Windows\System32\ngcrecovery.dll,SUCCESS
+12:29:40.6956050,SumatraPDF.exe,CreateFile,C:\Windows\System32\ngcrecovery.dll,SUCCESS
+12:29:40.6963205,SumatraPDF.exe,CreateFile,C:\Program Files\WindowsApps\Microsoft.LanguageExperiencePackes-MX_26100.132.257.0_neutral__8wekyb3d8bbwe\Windows\System32\es-MX\a3118dd18d40c16d660cc172252712c7\crypt32.dll.mui,SUCCESS
+12:29:40.6968370,SumatraPDF.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\sumatra\bcrypt.dll,NAME NOT FOUND
+12:29:40.6971153,SumatraPDF.exe,CreateFile,C:\Windows\System32\bcrypt.dll,SUCCESS
+12:29:40.6972482,SumatraPDF.exe,CreateFile,C:\Windows\System32\bcrypt.dll,SUCCESS
+12:29:40.6974764,SumatraPDF.exe,Load Image,C:\Windows\System32\bcrypt.dll,SUCCESS
+12:29:40.7005764,SumatraPDF.exe,CreateFile,C:\Program Files,SUCCESS
+12:29:40.7011618,SumatraPDF.exe,CreateFile,C:\Program Files (x86),SUCCESS
+12:29:40.7016627,SumatraPDF.exe,CreateFile,C:\Program Files (x86)\Microsoft\EdgeWebView\Application\158.0.4370.33\EBWebView\x64\EmbeddedBrowserWebView.dll,SUCCESS
+12:29:40.7023883,SumatraPDF.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\sumatra\__sumatra_write_test__.tmp,SUCCESS
+12:29:40.7027483,SumatraPDF.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\sumatra,SUCCESS
+12:29:40.7028297,SumatraPDF.exe,CreateFile,C:\,SUCCESS
+12:29:40.7029921,SumatraPDF.exe,CreateFile,C:\Users,SUCCESS
+12:29:40.7031056,SumatraPDF.exe,CreateFile,C:\Users\USUARIO\Documents,SUCCESS
+12:29:40.7032155,SumatraPDF.exe,CreateFile,C:\Users\USUARIO\Documents\Claude,SUCCESS
+12:29:40.7034020,SumatraPDF.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas,SUCCESS
+12:29:40.7036183,SumatraPDF.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\sumatra,SUCCESS
+12:29:40.7036718,SumatraPDF.exe,CreateFile,C:\,SUCCESS
+12:29:40.7037887,SumatraPDF.exe,CreateFile,C:\Users,SUCCESS
+12:29:40.7039005,SumatraPDF.exe,CreateFile,C:\Users\USUARIO\Documents,SUCCESS
+12:29:40.7040325,SumatraPDF.exe,CreateFile,C:\Users\USUARIO\Documents\Claude,SUCCESS
+12:29:40.7041954,SumatraPDF.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas,SUCCESS
+12:29:40.7044038,SumatraPDF.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas,SUCCESS
+12:29:40.7045187,SumatraPDF.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\sumatra,NAME COLLISION
+12:29:40.7046271,SumatraPDF.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\sumatra\SumatraPDF-settings.txt,SUCCESS
+12:29:40.7046917,SumatraPDF.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\sumatra\SumatraPDF-settings.txt,SUCCESS
+12:29:40.7055035,SumatraPDF.exe,CreateFile,C:\Windows\System32\rpcss.dll,SUCCESS
+12:29:40.7056593,SumatraPDF.exe,CreateFile,C:\Windows\System32\rpcss.dll,SUCCESS
+12:29:40.7061013,SumatraPDF.exe,CreateFile,C:\Windows\System32\kernel.appcore.dll,SUCCESS
+12:29:40.7062866,SumatraPDF.exe,CreateFile,C:\Windows\System32\kernel.appcore.dll,SUCCESS
+12:29:40.7065627,SumatraPDF.exe,Load Image,C:\Windows\System32\kernel.appcore.dll,SUCCESS
+12:29:40.7086268,SumatraPDF.exe,ReadFile,C:\Windows\WinSxS\amd64_microsoft.windows.gdiplus_6595b64144ccf1df_1.1.26100.9974_none_6ef868b23dc24782\GdiPlus.dll,SUCCESS
+12:29:40.7088252,SumatraPDF.exe,CreateFile,C:\WINDOWS\WinSxS\SystemResources\gdiplus.dll.mun,PATH NOT FOUND
+12:29:40.7094918,SumatraPDF.exe,Load Image,C:\Windows\System32\msctf.dll,SUCCESS
+12:29:40.7113086,SumatraPDF.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\sumatra\sumatrapdfrestrict.ini,NAME NOT FOUND
+12:29:40.7114341,SumatraPDF.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\sumatra\sumatrapdfrestrict.ini,NAME NOT FOUND
+12:29:40.7115482,SumatraPDF.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\sumatra\sumatrapdfrestrict.ini,NAME NOT FOUND
+12:29:40.7116624,SumatraPDF.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\sumatra\libmupdf.dll,SUCCESS
+12:29:40.7119771,SumatraPDF.exe,CreateFile,C:\Program Files\explorer.exe,NAME NOT FOUND
+12:29:40.7121224,SumatraPDF.exe,CreateFile,C:\Program Files (x86)\explorer.exe,NAME NOT FOUND
+12:29:40.7128902,SumatraPDF.exe,CreateFile,C:\Windows,SUCCESS
+12:29:40.7131792,SumatraPDF.exe,CreateFile,C:\Windows\explorer.exe,SUCCESS
+12:29:40.7134000,SumatraPDF.exe,CreateFile,C:\Program Files\GPSoftware\Directory Opus\dopus.exe,PATH NOT FOUND
+12:29:40.7135024,SumatraPDF.exe,CreateFile,C:\Program Files (x86)\GPSoftware\Directory Opus\dopus.exe,PATH NOT FOUND
+12:29:40.7136508,SumatraPDF.exe,CreateFile,C:\WINDOWS\GPSoftware\Directory Opus\dopus.exe,PATH NOT FOUND
+12:29:40.7142314,SumatraPDF.exe,CreateFile,C:\Windows\System32,SUCCESS
+12:29:40.7144780,SumatraPDF.exe,CreateFile,C:\WINDOWS\system32\GPSoftware\Directory Opus\dopus.exe,PATH NOT FOUND
+12:29:40.7145912,SumatraPDF.exe,CreateFile,C:\Program Files\totalcmd\TOTALCMD64.EXE,PATH NOT FOUND
+12:29:40.7146709,SumatraPDF.exe,CreateFile,C:\Program Files (x86)\totalcmd\TOTALCMD64.EXE,PATH NOT FOUND
+12:29:40.7147517,SumatraPDF.exe,CreateFile,C:\WINDOWS\totalcmd\TOTALCMD64.EXE,PATH NOT FOUND
+12:29:40.7149841,SumatraPDF.exe,CreateFile,C:\WINDOWS\system32\totalcmd\TOTALCMD64.EXE,PATH NOT FOUND
+12:29:40.7151728,SumatraPDF.exe,CreateFile,C:\Program Files\Double Commander\doublecmd.exe,PATH NOT FOUND
+12:29:40.7152608,SumatraPDF.exe,CreateFile,C:\Program Files (x86)\Double Commander\doublecmd.exe,PATH NOT FOUND
+12:29:40.7153414,SumatraPDF.exe,CreateFile,C:\WINDOWS\Double Commander\doublecmd.exe,PATH NOT FOUND
+12:29:40.7154691,SumatraPDF.exe,CreateFile,C:\WINDOWS\system32\Double Commander\doublecmd.exe,PATH NOT FOUND
+12:29:40.7155601,SumatraPDF.exe,CreateFile,C:\Program Files\Adobe\Acrobat Reader DC\Reader\AcroRd32.exe,PATH NOT FOUND
+12:29:40.7156398,SumatraPDF.exe,CreateFile,C:\Program Files (x86)\Adobe\Acrobat Reader DC\Reader\AcroRd32.exe,PATH NOT FOUND
+12:29:40.7157972,SumatraPDF.exe,CreateFile,C:\WINDOWS\Adobe\Acrobat Reader DC\Reader\AcroRd32.exe,PATH NOT FOUND
+12:29:40.7159135,SumatraPDF.exe,CreateFile,C:\WINDOWS\system32\Adobe\Acrobat Reader DC\Reader\AcroRd32.exe,PATH NOT FOUND
+12:29:40.7159896,SumatraPDF.exe,CreateFile,C:\Program Files\Adobe\Acrobat DC\Acrobat\Acrobat.exe,PATH NOT FOUND
+12:29:40.7160674,SumatraPDF.exe,CreateFile,C:\Program Files (x86)\Adobe\Acrobat DC\Acrobat\Acrobat.exe,PATH NOT FOUND
+12:29:40.7161404,SumatraPDF.exe,CreateFile,C:\WINDOWS\Adobe\Acrobat DC\Acrobat\Acrobat.exe,PATH NOT FOUND
+12:29:40.7163978,SumatraPDF.exe,CreateFile,C:\WINDOWS\system32\Adobe\Acrobat DC\Acrobat\Acrobat.exe,PATH NOT FOUND
+12:29:40.7165704,SumatraPDF.exe,CreateFile,C:\Program Files\Foxit Software\Foxit Reader\FoxitReader.exe,PATH NOT FOUND
+12:29:40.7166495,SumatraPDF.exe,CreateFile,C:\Program Files (x86)\Foxit Software\Foxit Reader\FoxitReader.exe,PATH NOT FOUND
+12:29:40.7167216,SumatraPDF.exe,CreateFile,C:\WINDOWS\Foxit Software\Foxit Reader\FoxitReader.exe,PATH NOT FOUND
+12:29:40.7168520,SumatraPDF.exe,CreateFile,C:\WINDOWS\system32\Foxit Software\Foxit Reader\FoxitReader.exe,PATH NOT FOUND
+12:29:40.7169464,SumatraPDF.exe,CreateFile,C:\Program Files\Foxit Software\Foxit PhantomPDF\FoxitPhantomPDF.exe,PATH NOT FOUND
+12:29:40.7170228,SumatraPDF.exe,CreateFile,C:\Program Files (x86)\Foxit Software\Foxit PhantomPDF\FoxitPhantomPDF.exe,PATH NOT FOUND
+12:29:40.7171008,SumatraPDF.exe,CreateFile,C:\WINDOWS\Foxit Software\Foxit PhantomPDF\FoxitPhantomPDF.exe,PATH NOT FOUND
+12:29:40.7171854,SumatraPDF.exe,CreateFile,C:\WINDOWS\system32\Foxit Software\Foxit PhantomPDF\FoxitPhantomPDF.exe,PATH NOT FOUND
+12:29:40.7172672,SumatraPDF.exe,CreateFile,C:\Program Files\Tracker Software\PDF Editor\PDFXEdit.exe,PATH NOT FOUND
+12:29:40.7173447,SumatraPDF.exe,CreateFile,C:\Program Files (x86)\Tracker Software\PDF Editor\PDFXEdit.exe,PATH NOT FOUND
+12:29:40.7174197,SumatraPDF.exe,CreateFile,C:\WINDOWS\Tracker Software\PDF Editor\PDFXEdit.exe,PATH NOT FOUND
+12:29:40.7175084,SumatraPDF.exe,CreateFile,C:\WINDOWS\system32\Tracker Software\PDF Editor\PDFXEdit.exe,PATH NOT FOUND
+12:29:40.7175778,SumatraPDF.exe,CreateFile,C:\Program Files\Pdf & Djvu Bookmarker\PdfDjvuBookmarker.exe,PATH NOT FOUND
+12:29:40.7176855,SumatraPDF.exe,CreateFile,C:\Program Files (x86)\Pdf & Djvu Bookmarker\PdfDjvuBookmarker.exe,PATH NOT FOUND
+12:29:40.7177937,SumatraPDF.exe,CreateFile,C:\WINDOWS\Pdf & Djvu Bookmarker\PdfDjvuBookmarker.exe,PATH NOT FOUND
+12:29:40.7179086,SumatraPDF.exe,CreateFile,C:\WINDOWS\system32\Pdf & Djvu Bookmarker\PdfDjvuBookmarker.exe,PATH NOT FOUND
+12:29:40.7180840,SumatraPDF.exe,CreateFile,C:\Program Files\xpsrchvw.exe,NAME NOT FOUND
+12:29:40.7182088,SumatraPDF.exe,CreateFile,C:\Program Files (x86)\xpsrchvw.exe,NAME NOT FOUND
+12:29:40.7183284,SumatraPDF.exe,CreateFile,C:\Windows\xpsrchvw.exe,NAME NOT FOUND
+12:29:40.7185084,SumatraPDF.exe,CreateFile,C:\Windows\System32\xpsrchvw.exe,NAME NOT FOUND
+12:29:40.7186210,SumatraPDF.exe,CreateFile,C:\Program Files\hh.exe,NAME NOT FOUND
+12:29:40.7187187,SumatraPDF.exe,CreateFile,C:\Program Files (x86)\hh.exe,NAME NOT FOUND
+12:29:40.7188253,SumatraPDF.exe,CreateFile,C:\Windows\hh.exe,SUCCESS
+12:29:40.7198137,SumatraPDF.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\sumatra\SumatraPDF-settings.txt,SUCCESS
+12:29:40.7198847,SumatraPDF.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\sumatra\SumatraPDF-settings.txt,SUCCESS
+12:29:40.7200748,SumatraPDF.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\sumatra\SumatraPDF-settings.txt,SUCCESS
+12:29:40.7204058,SumatraPDF.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\sumatra\SumatraPDF-settings.txt,SUCCESS
+12:29:40.7295653,SumatraPDF.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\sumatra\libmupdf.dll,SUCCESS
+12:29:40.7297222,SumatraPDF.exe,CreateFile,C:\,SUCCESS
+12:29:40.7298733,SumatraPDF.exe,CreateFile,C:\Users,SUCCESS
+12:29:40.7300022,SumatraPDF.exe,CreateFile,C:\Users\USUARIO\Documents,SUCCESS
+12:29:40.7301134,SumatraPDF.exe,CreateFile,C:\Users\USUARIO\Documents\Claude,SUCCESS
+12:29:40.7302324,SumatraPDF.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas,SUCCESS
+12:29:40.7304280,SumatraPDF.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\sumatra,SUCCESS
+12:29:40.7306298,SumatraPDF.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\sumatra\libmupdf.dll,SUCCESS
+12:29:40.7306937,SumatraPDF.exe,CreateFile,C:\,SUCCESS
+12:29:40.7308039,SumatraPDF.exe,CreateFile,C:\Users,SUCCESS
+12:29:40.7309214,SumatraPDF.exe,CreateFile,C:\Users\USUARIO\Documents,SUCCESS
+12:29:40.7310382,SumatraPDF.exe,CreateFile,C:\Users\USUARIO\Documents\Claude,SUCCESS
+12:29:40.7312604,SumatraPDF.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas,SUCCESS
+12:29:40.7314239,SumatraPDF.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\sumatra,SUCCESS
+12:29:40.7316137,SumatraPDF.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\sumatra\libmupdf.dll,SUCCESS
+12:29:40.7317093,SumatraPDF.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\sumatra\libmupdf.dll,SUCCESS
+12:29:40.7320882,SumatraPDF.exe,Load Image,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\sumatra\libmupdf.dll,SUCCESS
+12:29:40.7323115,SumatraPDF.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\sumatra\libmupdf.dll,SUCCESS
+12:29:40.7355059,SumatraPDF.exe,ReadFile,C:\Windows\System32\gdi32full.dll,SUCCESS
+12:29:40.7399568,SumatraPDF.exe,CreateFile,C:\Windows\Fonts\StaticCache.dat,SUCCESS
+12:29:40.7400281,SumatraPDF.exe,ReadFile,C:\Windows\Fonts\StaticCache.dat,SUCCESS
+12:29:40.7412433,SumatraPDF.exe,CreateFile,C:\Windows\System32\TextShaping.dll,SUCCESS
+12:29:40.7416490,SumatraPDF.exe,CreateFile,C:\Windows\System32\TextShaping.dll,SUCCESS
+12:29:40.7419198,SumatraPDF.exe,Load Image,C:\Windows\System32\TextShaping.dll,SUCCESS
+12:29:40.7519078,SumatraPDF.exe,CreateFile,C:\Windows\System32\TextInputFramework.dll,SUCCESS
+12:29:40.7520908,SumatraPDF.exe,CreateFile,C:\Windows\System32\TextInputFramework.dll,SUCCESS
+12:29:40.7523467,SumatraPDF.exe,Load Image,C:\Windows\System32\TextInputFramework.dll,SUCCESS
+12:29:40.7538289,SumatraPDF.exe,ReadFile,C:\Windows\System32\TextInputFramework.dll,SUCCESS
+12:29:40.7540602,SumatraPDF.exe,CreateFile,C:\Windows\System32\CoreMessaging.dll,SUCCESS
+12:29:40.7542134,SumatraPDF.exe,CreateFile,C:\Windows\System32\CoreMessaging.dll,SUCCESS
+12:29:40.7544522,SumatraPDF.exe,Load Image,C:\Windows\System32\CoreMessaging.dll,SUCCESS
+12:29:40.7560309,SumatraPDF.exe,CreateFile,C:\Windows\System32\CoreUIComponents.dll,SUCCESS
+12:29:40.7563267,SumatraPDF.exe,CreateFile,C:\Windows\System32\CoreUIComponents.dll,SUCCESS
+12:29:40.7566461,SumatraPDF.exe,Load Image,C:\Windows\System32\CoreUIComponents.dll,SUCCESS
+12:29:40.7569239,SumatraPDF.exe,CreateFile,C:\Windows\System32\WinTypes.dll,SUCCESS
+12:29:40.7570648,SumatraPDF.exe,CreateFile,C:\Windows\System32\WinTypes.dll,SUCCESS
+12:29:40.7572594,SumatraPDF.exe,Load Image,C:\Windows\System32\WinTypes.dll,SUCCESS
+12:29:40.7593804,SumatraPDF.exe,CreateFile,C:\Windows\SystemResources\USER32.dll.mun,NAME NOT FOUND
+12:29:40.7660740,SumatraPDF.exe,ReadFile,C:\Windows\WinSxS\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.26100.9818_none_3e071914e3359bdd\comctl32.dll,SUCCESS
+12:29:40.7946740,SumatraPDF.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\sumatra\sumatrapdfcache\92766bb70b7a602d9945ee67bd61afc3.png,SUCCESS
+12:29:40.7947741,SumatraPDF.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\sumatra\sumatrapdfcache\92766bb70b7a602d9945ee67bd61afc3.png,SUCCESS
+12:29:40.7948354,SumatraPDF.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\sumatra\sumatrapdfcache\92766bb70b7a602d9945ee67bd61afc3.png,SUCCESS
+12:29:40.7953225,SumatraPDF.exe,Load Image,C:\Windows\System32\clbcatq.dll,SUCCESS
+12:29:40.8279281,SumatraPDF.exe,CreateFile,C:\Windows\System32\windows.storage.dll,SUCCESS
+12:29:40.8284665,SumatraPDF.exe,CreateFile,C:\Windows\WinSxS\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.26100.9818_none_3e071914e3359bdd,SUCCESS
+12:29:40.8291080,SumatraPDF.exe,ReadFile,C:\Windows\System32\shell32.dll,SUCCESS
+12:29:40.8301562,SumatraPDF.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\sumatra\profapi.dll,NAME NOT FOUND
+12:29:40.8303302,SumatraPDF.exe,CreateFile,C:\Windows\System32\profapi.dll,SUCCESS
+12:29:40.8305318,SumatraPDF.exe,CreateFile,C:\Windows\System32\profapi.dll,SUCCESS
+12:29:40.8308144,SumatraPDF.exe,Load Image,C:\Windows\System32\profapi.dll,SUCCESS
+12:29:40.8315535,SumatraPDF.exe,CreateFile,C:\Users\USUARIO,NAME COLLISION
+12:29:40.8317055,SumatraPDF.exe,CreateFile,C:\Users\USUARIO,SUCCESS
+12:29:40.8318988,SumatraPDF.exe,CreateFile,C:\Users\USUARIO\AppData\Local,NAME COLLISION
+12:29:40.8320244,SumatraPDF.exe,CreateFile,C:\Users\USUARIO\AppData\Local,SUCCESS
+12:29:40.8321622,SumatraPDF.exe,CreateFile,C:\Users\USUARIO\AppData\Local\IconCache.db,SUCCESS
+12:29:40.8322276,SumatraPDF.exe,ReadFile,C:\Users\USUARIO\AppData\Local\IconCache.db,SUCCESS
+12:29:40.8349236,SumatraPDF.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\sumatra\PROPSYS.dll,NAME NOT FOUND
+12:29:40.8350838,SumatraPDF.exe,CreateFile,C:\Windows\System32\propsys.dll,SUCCESS
+12:29:40.8352131,SumatraPDF.exe,CreateFile,C:\Windows\System32\propsys.dll,SUCCESS
+12:29:40.8354509,SumatraPDF.exe,Load Image,C:\Windows\System32\propsys.dll,SUCCESS
+12:29:40.8389716,SumatraPDF.exe,CreateFile,C:\Windows\SysWOW64\propsys.dll,SUCCESS
+12:29:40.8391724,SumatraPDF.exe,CreateFile,C:\Windows\SysWOW64\propsys.dll,SUCCESS
+12:29:40.8399735,SumatraPDF.exe,CreateFile,C:\Windows\System32\propsys.dll,SUCCESS
+12:29:40.8403598,SumatraPDF.exe,CreateFile,C:\Windows\SysWOW64\propsys.dll,SUCCESS
+12:29:40.8405636,SumatraPDF.exe,CreateFile,C:\Windows\SysWOW64\propsys.dll,SUCCESS
+12:29:40.8407344,SumatraPDF.exe,CreateFile,C:\Windows\System32\propsys.dll,SUCCESS
+12:29:40.8410297,SumatraPDF.exe,CreateFile,C:\Program Files\WindowsApps\Microsoft.LanguageExperiencePackes-MX_26100.132.257.0_neutral__8wekyb3d8bbwe\Windows\SYSTEM32\es-MX\423797ec7c54962edf9a119d1905e7db\PROPSYS.dll.mui,PATH NOT FOUND
+12:29:40.8411308,SumatraPDF.exe,CreateFile,C:\Windows\System32\es-MX\propsys.dll.mui,SUCCESS
+12:29:40.8482213,SumatraPDF.exe,CreateFile,C:\Windows\System32\thumbcache.dll,SUCCESS
+12:29:40.8484461,SumatraPDF.exe,CreateFile,C:\Windows\System32\thumbcache.dll,SUCCESS
+12:29:40.8486800,SumatraPDF.exe,Load Image,C:\Windows\System32\thumbcache.dll,SUCCESS
+12:29:40.8497909,SumatraPDF.exe,CreateFile,C:\Users\USUARIO,NAME COLLISION
+12:29:40.8499409,SumatraPDF.exe,CreateFile,C:\Users\USUARIO,SUCCESS
+12:29:40.8500609,SumatraPDF.exe,CreateFile,C:\Users\USUARIO\AppData\Local,NAME COLLISION
+12:29:40.8501710,SumatraPDF.exe,CreateFile,C:\Users\USUARIO\AppData\Local,SUCCESS
+12:29:40.8502715,SumatraPDF.exe,CreateFile,C:\Users\USUARIO\AppData\Local\Microsoft\Windows\Explorer,NAME COLLISION
+12:29:40.8508862,SumatraPDF.exe,CreateFile,C:\Users\USUARIO\AppData\Local\Microsoft\Windows\Explorer\IconCacheToDelete,NAME NOT FOUND
+12:29:40.8510080,SumatraPDF.exe,CreateFile,C:\Users\USUARIO\AppData\Local\Microsoft\Windows\Explorer\iconcache_idx.db,SUCCESS
+12:29:40.8584626,SumatraPDF.exe,CreateFile,C:\Users\USUARIO\AppData\Local\Microsoft\Windows\Explorer\iconcache_16.db,SUCCESS
+12:29:40.8585817,SumatraPDF.exe,CreateFile,C:\Users\USUARIO\AppData\Local\Microsoft\Windows\Explorer,SUCCESS
+12:29:40.8593567,SumatraPDF.exe,CreateFile,C:\Users\USUARIO\AppData\Local\Microsoft\Windows\Explorer\iconcache_16.db,SUCCESS
+12:29:40.8602217,SumatraPDF.exe,CreateFile,C:\Windows\System32\shell32.dll,SUCCESS
+12:29:40.8606762,SumatraPDF.exe,CreateFile,C:\Windows\WinSxS\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.26100.9818_none_3e071914e3359bdd,SUCCESS
+12:29:40.8629785,SumatraPDF.exe,CreateFile,C:\Windows\System32\DWrite.dll,SUCCESS
+12:29:40.8631812,SumatraPDF.exe,CreateFile,C:\Windows\System32\DWrite.dll,SUCCESS
+12:29:40.8634242,SumatraPDF.exe,Load Image,C:\Windows\System32\DWrite.dll,SUCCESS
+12:29:40.8676292,SumatraPDF.exe,CreateFile,C:\Program Files\WindowsApps\Microsoft.WindowsTerminal_1.25.3131.0_x64__8wekyb3d8bbwe\CascadiaCode.ttf,SUCCESS
+12:29:40.8684356,SumatraPDF.exe,CreateFile,C:\Program Files\WindowsApps\Microsoft.WindowsTerminal_1.25.3131.0_x64__8wekyb3d8bbwe\CascadiaCode.ttf,SUCCESS
+12:29:40.8689302,SumatraPDF.exe,CreateFile,C:\Program Files\WindowsApps\Microsoft.WindowsTerminal_1.25.3131.0_x64__8wekyb3d8bbwe\CascadiaCode.ttf,SUCCESS
+12:29:40.8694449,SumatraPDF.exe,CreateFile,C:\Program Files\WindowsApps\Microsoft.WindowsTerminal_1.25.3131.0_x64__8wekyb3d8bbwe\CascadiaCode.ttf,SUCCESS
+12:29:40.8699733,SumatraPDF.exe,CreateFile,C:\Program Files\WindowsApps\Microsoft.WindowsTerminal_1.25.3131.0_x64__8wekyb3d8bbwe\CascadiaCode.ttf,SUCCESS
+12:29:40.8704848,SumatraPDF.exe,CreateFile,C:\Program Files\WindowsApps\Microsoft.WindowsTerminal_1.25.3131.0_x64__8wekyb3d8bbwe\CascadiaCodeItalic.ttf,SUCCESS
+12:29:40.8709937,SumatraPDF.exe,CreateFile,C:\Program Files\WindowsApps\Microsoft.WindowsTerminal_1.25.3131.0_x64__8wekyb3d8bbwe\CascadiaCodeItalic.ttf,SUCCESS
+12:29:40.8714827,SumatraPDF.exe,CreateFile,C:\Program Files\WindowsApps\Microsoft.WindowsTerminal_1.25.3131.0_x64__8wekyb3d8bbwe\CascadiaCodeItalic.ttf,SUCCESS
+12:29:40.8719364,SumatraPDF.exe,CreateFile,C:\Program Files\WindowsApps\Microsoft.WindowsTerminal_1.25.3131.0_x64__8wekyb3d8bbwe\CascadiaCode.ttf,SUCCESS
+12:29:40.8724620,SumatraPDF.exe,CreateFile,C:\Program Files\WindowsApps\Microsoft.WindowsTerminal_1.25.3131.0_x64__8wekyb3d8bbwe\CascadiaCodeItalic.ttf,SUCCESS
+12:29:40.8729539,SumatraPDF.exe,CreateFile,C:\Program Files\WindowsApps\Microsoft.WindowsTerminal_1.25.3131.0_x64__8wekyb3d8bbwe\CascadiaCodeItalic.ttf,SUCCESS
+12:29:40.8734375,SumatraPDF.exe,CreateFile,C:\Program Files\WindowsApps\Microsoft.WindowsTerminal_1.25.3131.0_x64__8wekyb3d8bbwe\CascadiaCodeItalic.ttf,SUCCESS
+12:29:40.8739873,SumatraPDF.exe,CreateFile,C:\Program Files\WindowsApps\Microsoft.WindowsTerminal_1.25.3131.0_x64__8wekyb3d8bbwe\CascadiaMono.ttf,SUCCESS
+12:29:40.8744994,SumatraPDF.exe,CreateFile,C:\Program Files\WindowsApps\Microsoft.WindowsTerminal_1.25.3131.0_x64__8wekyb3d8bbwe\CascadiaMono.ttf,SUCCESS
+12:29:40.8749446,SumatraPDF.exe,CreateFile,C:\Program Files\WindowsApps\Microsoft.WindowsTerminal_1.25.3131.0_x64__8wekyb3d8bbwe\CascadiaMono.ttf,SUCCESS
+12:29:40.8754201,SumatraPDF.exe,CreateFile,C:\Program Files\WindowsApps\Microsoft.WindowsTerminal_1.25.3131.0_x64__8wekyb3d8bbwe\CascadiaMono.ttf,SUCCESS
+12:29:40.8759681,SumatraPDF.exe,CreateFile,C:\Program Files\WindowsApps\Microsoft.WindowsTerminal_1.25.3131.0_x64__8wekyb3d8bbwe\CascadiaMono.ttf,SUCCESS
+12:29:40.8764230,SumatraPDF.exe,CreateFile,C:\Program Files\WindowsApps\Microsoft.WindowsTerminal_1.25.3131.0_x64__8wekyb3d8bbwe\CascadiaMonoItalic.ttf,SUCCESS
+12:29:40.8768926,SumatraPDF.exe,CreateFile,C:\Program Files\WindowsApps\Microsoft.WindowsTerminal_1.25.3131.0_x64__8wekyb3d8bbwe\CascadiaMonoItalic.ttf,SUCCESS
+12:29:40.8775628,SumatraPDF.exe,CreateFile,C:\Program Files\WindowsApps\Microsoft.WindowsTerminal_1.25.3131.0_x64__8wekyb3d8bbwe\CascadiaMonoItalic.ttf,SUCCESS
+12:29:40.8781854,SumatraPDF.exe,CreateFile,C:\Program Files\WindowsApps\Microsoft.WindowsTerminal_1.25.3131.0_x64__8wekyb3d8bbwe\CascadiaMono.ttf,SUCCESS
+12:29:40.8789048,SumatraPDF.exe,CreateFile,C:\Program Files\WindowsApps\Microsoft.WindowsTerminal_1.25.3131.0_x64__8wekyb3d8bbwe\CascadiaMonoItalic.ttf,SUCCESS
+12:29:40.8794087,SumatraPDF.exe,CreateFile,C:\Program Files\WindowsApps\Microsoft.WindowsTerminal_1.25.3131.0_x64__8wekyb3d8bbwe\CascadiaMonoItalic.ttf,SUCCESS
+12:29:40.8799257,SumatraPDF.exe,CreateFile,C:\Program Files\WindowsApps\Microsoft.WindowsTerminal_1.25.3131.0_x64__8wekyb3d8bbwe\CascadiaMonoItalic.ttf,SUCCESS
+12:29:40.8879889,SumatraPDF.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\Guia_de_Practica_de_Laboratorio__Ingenieria_Inversa_e_IA_—_UNAMAD.pdf,SUCCESS
+12:29:40.8881555,SumatraPDF.exe,CreateFile,C:\,SUCCESS
+12:29:40.8883635,SumatraPDF.exe,CreateFile,C:\Users,SUCCESS
+12:29:40.8885089,SumatraPDF.exe,CreateFile,C:\Users\USUARIO\Documents,SUCCESS
+12:29:40.8886480,SumatraPDF.exe,CreateFile,C:\Users\USUARIO\Documents\Claude,SUCCESS
+12:29:40.8888194,SumatraPDF.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\Guia_de_Practica_de_Laboratorio__Ingenieria_Inversa_e_IA_—_UNAMAD.pdf,SUCCESS
+12:29:40.8888745,SumatraPDF.exe,CreateFile,C:\,SUCCESS
+12:29:40.8889776,SumatraPDF.exe,CreateFile,C:\Users,SUCCESS
+12:29:40.8890791,SumatraPDF.exe,CreateFile,C:\Users\USUARIO\Documents,SUCCESS
+12:29:40.8892388,SumatraPDF.exe,CreateFile,C:\Users\USUARIO\Documents\Claude,SUCCESS
+12:29:40.8894090,SumatraPDF.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\Guia_de_Practica_de_Laboratorio__Ingenieria_Inversa_e_IA_—_UNAMAD.pdf,SUCCESS
+12:29:40.8895845,SumatraPDF.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\Guia_de_Practica_de_Laboratorio__Ingenieria_Inversa_e_IA_—_UNAMAD.pdf,SUCCESS
+12:29:40.8905147,SumatraPDF.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\Guia_de_Practica_de_Laboratorio__Ingenieria_Inversa_e_IA_—_UNAMAD.pdf,SUCCESS
+12:29:40.8906483,SumatraPDF.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\Guia_de_Practica_de_Laboratorio__Ingenieria_Inversa_e_IA_—_UNAMAD.pdf,SUCCESS
+12:29:40.8907572,SumatraPDF.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\Guia_de_Practica_de_Laboratorio__Ingenieria_Inversa_e_IA_—_UNAMAD.pdf,SUCCESS
+12:29:40.8908770,SumatraPDF.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\Guia_de_Practica_de_Laboratorio__Ingenieria_Inversa_e_IA_—_UNAMAD.pdf,SUCCESS
+12:29:40.8909489,SumatraPDF.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\Guia_de_Practica_de_Laboratorio__Ingenieria_Inversa_e_IA_—_UNAMAD.pdf,SUCCESS
+12:29:40.8920394,SumatraPDF.exe,CreateFile,C:\Windows\Fonts\segoeui.ttf,SUCCESS
+12:29:40.8994364,SumatraPDF.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\Guia_de_Practica_de_Laboratorio__Ingenieria_Inversa_e_IA_—_UNAMAD.pdf,SUCCESS
+12:29:40.8997129,SumatraPDF.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\Guia_de_Practica_de_Laboratorio__Ingenieria_Inversa_e_IA_—_UNAMAD.pdf,SUCCESS
+12:29:40.9018009,SumatraPDF.exe,CreateFile,C:\Windows\System32\sendmail.dll,SUCCESS
+12:29:40.9019541,SumatraPDF.exe,CreateFile,C:\Windows\System32\sendmail.dll,SUCCESS
+12:29:40.9022670,SumatraPDF.exe,Load Image,C:\Windows\System32\sendmail.dll,SUCCESS
+12:29:40.9025656,SumatraPDF.exe,ReadFile,C:\Windows\System32\sendmail.dll,SUCCESS
+12:29:40.9026834,SumatraPDF.exe,ReadFile,C:\Windows\System32\sendmail.dll,SUCCESS
+12:29:40.9029469,SumatraPDF.exe,CreateFile,C:\Windows\System32\sendmail.dll,SUCCESS
+12:29:40.9034958,SumatraPDF.exe,CreateFile,C:\Windows\WinSxS\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.26100.9818_none_3e071914e3359bdd,SUCCESS
+12:29:40.9040344,SumatraPDF.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\Guia_de_Practica_de_Laboratorio__Ingenieria_Inversa_e_IA_—_UNAMAD.pdf,SUCCESS
+12:29:40.9042741,SumatraPDF.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\Guia_de_Practica_de_Laboratorio__Ingenieria_Inversa_e_IA_—_UNAMAD.pdf,SUCCESS
+12:29:40.9044572,SumatraPDF.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\Guia_de_Practica_de_Laboratorio__Ingenieria_Inversa_e_IA_—_UNAMAD.pdf,SUCCESS
+12:29:40.9046346,SumatraPDF.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\Guia_de_Practica_de_Laboratorio__Ingenieria_Inversa_e_IA_—_UNAMAD.pdf,SUCCESS
+12:29:40.9047682,SumatraPDF.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\Guia_de_Practica_de_Laboratorio__Ingenieria_Inversa_e_IA_—_UNAMAD.pdf,SUCCESS
+12:29:40.9049207,SumatraPDF.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\Guia_de_Practica_de_Laboratorio__Ingenieria_Inversa_e_IA_—_UNAMAD.pdf,SUCCESS
+12:29:40.9050534,SumatraPDF.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\Guia_de_Practica_de_Laboratorio__Ingenieria_Inversa_e_IA_—_UNAMAD.pdf,SUCCESS
+12:29:40.9052183,SumatraPDF.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\Guia_de_Practica_de_Laboratorio__Ingenieria_Inversa_e_IA_—_UNAMAD.pdf,SUCCESS
+12:29:40.9053554,SumatraPDF.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\Guia_de_Practica_de_Laboratorio__Ingenieria_Inversa_e_IA_—_UNAMAD.pdf,SUCCESS
+12:29:40.9055256,SumatraPDF.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\Guia_de_Practica_de_Laboratorio__Ingenieria_Inversa_e_IA_—_UNAMAD.pdf,SUCCESS
+12:29:40.9057129,SumatraPDF.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\Guia_de_Practica_de_Laboratorio__Ingenieria_Inversa_e_IA_—_UNAMAD.pdf,SUCCESS
+12:29:40.9058706,SumatraPDF.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\Guia_de_Practica_de_Laboratorio__Ingenieria_Inversa_e_IA_—_UNAMAD.pdf,SUCCESS
+12:29:40.9060067,SumatraPDF.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\Guia_de_Practica_de_Laboratorio__Ingenieria_Inversa_e_IA_—_UNAMAD.pdf,SUCCESS
+12:29:40.9061373,SumatraPDF.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\Guia_de_Practica_de_Laboratorio__Ingenieria_Inversa_e_IA_—_UNAMAD.pdf,SUCCESS
+12:29:40.9062708,SumatraPDF.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\Guia_de_Practica_de_Laboratorio__Ingenieria_Inversa_e_IA_—_UNAMAD.pdf,SUCCESS
+12:29:40.9064128,SumatraPDF.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\Guia_de_Practica_de_Laboratorio__Ingenieria_Inversa_e_IA_—_UNAMAD.pdf,SUCCESS
+12:29:40.9065564,SumatraPDF.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\Guia_de_Practica_de_Laboratorio__Ingenieria_Inversa_e_IA_—_UNAMAD.pdf,SUCCESS
+12:29:40.9066877,SumatraPDF.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\Guia_de_Practica_de_Laboratorio__Ingenieria_Inversa_e_IA_—_UNAMAD.pdf,SUCCESS
+12:29:40.9068467,SumatraPDF.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\Guia_de_Practica_de_Laboratorio__Ingenieria_Inversa_e_IA_—_UNAMAD.pdf,SUCCESS
+12:29:40.9069903,SumatraPDF.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\Guia_de_Practica_de_Laboratorio__Ingenieria_Inversa_e_IA_—_UNAMAD.pdf,SUCCESS
+12:29:40.9071208,SumatraPDF.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\Guia_de_Practica_de_Laboratorio__Ingenieria_Inversa_e_IA_—_UNAMAD.pdf,SUCCESS
+12:29:40.9078966,SumatraPDF.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\Guia_de_Practica_de_Laboratorio__Ingenieria_Inversa_e_IA_—_UNAMAD.pdf,SUCCESS
+12:29:40.9081618,SumatraPDF.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\Guia_de_Practica_de_Laboratorio__Ingenieria_Inversa_e_IA_—_UNAMAD.pdf,SUCCESS
+12:29:40.9084200,SumatraPDF.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\Guia_de_Practica_de_Laboratorio__Ingenieria_Inversa_e_IA_—_UNAMAD.pdf,SUCCESS
+12:29:40.9086096,SumatraPDF.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\Guia_de_Practica_de_Laboratorio__Ingenieria_Inversa_e_IA_—_UNAMAD.pdf,SUCCESS
+12:29:40.9089990,SumatraPDF.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\Guia_de_Practica_de_Laboratorio__Ingenieria_Inversa_e_IA_—_UNAMAD.pdf,SUCCESS
+12:29:40.9093756,SumatraPDF.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\Guia_de_Practica_de_Laboratorio__Ingenieria_Inversa_e_IA_—_UNAMAD.pdf,SUCCESS
+12:29:40.9099546,SumatraPDF.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\Guia_de_Practica_de_Laboratorio__Ingenieria_Inversa_e_IA_—_UNAMAD.pdf,SUCCESS
+12:29:40.9103349,SumatraPDF.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\Guia_de_Practica_de_Laboratorio__Ingenieria_Inversa_e_IA_—_UNAMAD.pdf,SUCCESS
+12:29:40.9110746,SumatraPDF.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\Guia_de_Practica_de_Laboratorio__Ingenieria_Inversa_e_IA_—_UNAMAD.pdf,SUCCESS
+12:29:40.9115418,SumatraPDF.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\Guia_de_Practica_de_Laboratorio__Ingenieria_Inversa_e_IA_—_UNAMAD.pdf,SUCCESS
+12:29:40.9119687,SumatraPDF.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\Guia_de_Practica_de_Laboratorio__Ingenieria_Inversa_e_IA_—_UNAMAD.pdf,SUCCESS
+12:29:40.9122698,SumatraPDF.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\Guia_de_Practica_de_Laboratorio__Ingenieria_Inversa_e_IA_—_UNAMAD.pdf,SUCCESS
+12:29:40.9126482,SumatraPDF.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\Guia_de_Practica_de_Laboratorio__Ingenieria_Inversa_e_IA_—_UNAMAD.pdf,SUCCESS
+12:29:40.9129695,SumatraPDF.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\Guia_de_Practica_de_Laboratorio__Ingenieria_Inversa_e_IA_—_UNAMAD.pdf,SUCCESS
+12:29:40.9131785,SumatraPDF.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\Guia_de_Practica_de_Laboratorio__Ingenieria_Inversa_e_IA_—_UNAMAD.pdf,SUCCESS
+12:29:40.9134150,SumatraPDF.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\Guia_de_Practica_de_Laboratorio__Ingenieria_Inversa_e_IA_—_UNAMAD.pdf,SUCCESS
+12:29:40.9136944,SumatraPDF.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\Guia_de_Practica_de_Laboratorio__Ingenieria_Inversa_e_IA_—_UNAMAD.pdf,SUCCESS
+12:29:40.9139825,SumatraPDF.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\Guia_de_Practica_de_Laboratorio__Ingenieria_Inversa_e_IA_—_UNAMAD.pdf,SUCCESS
+12:29:40.9142102,SumatraPDF.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\Guia_de_Practica_de_Laboratorio__Ingenieria_Inversa_e_IA_—_UNAMAD.pdf,SUCCESS
+12:29:40.9144649,SumatraPDF.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\Guia_de_Practica_de_Laboratorio__Ingenieria_Inversa_e_IA_—_UNAMAD.pdf,SUCCESS
+12:29:40.9190443,SumatraPDF.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\Guia_de_Practica_de_Laboratorio__Ingenieria_Inversa_e_IA_—_UNAMAD.pdfsync,NAME NOT FOUND
+12:29:40.9191886,SumatraPDF.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\Guia_de_Practica_de_Laboratorio__Ingenieria_Inversa_e_IA_—_UNAMAD.synctex.gz,NAME NOT FOUND
+12:29:40.9193103,SumatraPDF.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\Guia_de_Practica_de_Laboratorio__Ingenieria_Inversa_e_IA_—_UNAMAD.synctex,NAME NOT FOUND
+12:29:40.9200933,SumatraPDF.exe,CreateFile,C:\Windows\System32\UxTheme.dll.Config,NAME NOT FOUND
+12:29:40.9201863,SumatraPDF.exe,CreateFile,C:\Windows\System32\uxtheme.dll,SUCCESS
+12:29:40.9207505,SumatraPDF.exe,CreateFile,C:\Windows\WinSxS\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.26100.9818_none_3e071914e3359bdd,SUCCESS
+12:29:40.9222611,SumatraPDF.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\Guia_de_Practica_de_Laboratorio__Ingenieria_Inversa_e_IA_—_UNAMAD.pdf,SUCCESS
+12:29:40.9225862,SumatraPDF.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\Guia_de_Practica_de_Laboratorio__Ingenieria_Inversa_e_IA_—_UNAMAD.pdf,SUCCESS
+12:29:40.9228317,SumatraPDF.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\Guia_de_Practica_de_Laboratorio__Ingenieria_Inversa_e_IA_—_UNAMAD.pdf,SUCCESS
+12:29:40.9230518,SumatraPDF.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\Guia_de_Practica_de_Laboratorio__Ingenieria_Inversa_e_IA_—_UNAMAD.pdf,SUCCESS
+12:29:40.9232669,SumatraPDF.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\Guia_de_Practica_de_Laboratorio__Ingenieria_Inversa_e_IA_—_UNAMAD.pdf,SUCCESS
+12:29:40.9236049,SumatraPDF.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\Guia_de_Practica_de_Laboratorio__Ingenieria_Inversa_e_IA_—_UNAMAD.pdf,SUCCESS
+12:29:40.9239001,SumatraPDF.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\Guia_de_Practica_de_Laboratorio__Ingenieria_Inversa_e_IA_—_UNAMAD.pdf,SUCCESS
+12:29:40.9241847,SumatraPDF.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\Guia_de_Practica_de_Laboratorio__Ingenieria_Inversa_e_IA_—_UNAMAD.pdf,SUCCESS
+12:29:40.9244040,SumatraPDF.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\Guia_de_Practica_de_Laboratorio__Ingenieria_Inversa_e_IA_—_UNAMAD.pdf,SUCCESS
+12:29:40.9245984,SumatraPDF.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\Guia_de_Practica_de_Laboratorio__Ingenieria_Inversa_e_IA_—_UNAMAD.pdf,SUCCESS
+12:29:40.9248656,SumatraPDF.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\Guia_de_Practica_de_Laboratorio__Ingenieria_Inversa_e_IA_—_UNAMAD.pdf,SUCCESS
+12:29:40.9251184,SumatraPDF.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\Guia_de_Practica_de_Laboratorio__Ingenieria_Inversa_e_IA_—_UNAMAD.pdf,SUCCESS
+12:29:40.9253250,SumatraPDF.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\Guia_de_Practica_de_Laboratorio__Ingenieria_Inversa_e_IA_—_UNAMAD.pdf,SUCCESS
+12:29:40.9262661,SumatraPDF.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\Guia_de_Practica_de_Laboratorio__Ingenieria_Inversa_e_IA_—_UNAMAD.pdf,SUCCESS
+12:29:40.9265822,SumatraPDF.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\Guia_de_Practica_de_Laboratorio__Ingenieria_Inversa_e_IA_—_UNAMAD.pdf,SUCCESS
+12:29:40.9268651,SumatraPDF.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\Guia_de_Practica_de_Laboratorio__Ingenieria_Inversa_e_IA_—_UNAMAD.pdf,SUCCESS
+12:29:40.9270775,SumatraPDF.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\Guia_de_Practica_de_Laboratorio__Ingenieria_Inversa_e_IA_—_UNAMAD.pdf,SUCCESS
+12:29:40.9272790,SumatraPDF.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\Guia_de_Practica_de_Laboratorio__Ingenieria_Inversa_e_IA_—_UNAMAD.pdf,SUCCESS
+12:29:40.9276615,SumatraPDF.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\Guia_de_Practica_de_Laboratorio__Ingenieria_Inversa_e_IA_—_UNAMAD.pdf,SUCCESS
+12:29:40.9279251,SumatraPDF.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\Guia_de_Practica_de_Laboratorio__Ingenieria_Inversa_e_IA_—_UNAMAD.pdf,SUCCESS
+12:29:40.9281453,SumatraPDF.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\Guia_de_Practica_de_Laboratorio__Ingenieria_Inversa_e_IA_—_UNAMAD.pdf,SUCCESS
+12:29:40.9283883,SumatraPDF.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\Guia_de_Practica_de_Laboratorio__Ingenieria_Inversa_e_IA_—_UNAMAD.pdf,SUCCESS
+12:29:40.9285921,SumatraPDF.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\Guia_de_Practica_de_Laboratorio__Ingenieria_Inversa_e_IA_—_UNAMAD.pdf,SUCCESS
+12:29:40.9289047,SumatraPDF.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\Guia_de_Practica_de_Laboratorio__Ingenieria_Inversa_e_IA_—_UNAMAD.pdf,SUCCESS
+12:29:40.9292272,SumatraPDF.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\Guia_de_Practica_de_Laboratorio__Ingenieria_Inversa_e_IA_—_UNAMAD.pdf,SUCCESS
+12:29:40.9295206,SumatraPDF.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\Guia_de_Practica_de_Laboratorio__Ingenieria_Inversa_e_IA_—_UNAMAD.pdf,SUCCESS
+12:29:40.9851086,SumatraPDF.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\Guia_de_Practica_de_Laboratorio__Ingenieria_Inversa_e_IA_—_UNAMAD.pdf,SUCCESS
+12:29:40.9854459,SumatraPDF.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\Guia_de_Practica_de_Laboratorio__Ingenieria_Inversa_e_IA_—_UNAMAD.pdf,SUCCESS
+12:29:40.9855494,SumatraPDF.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\Guia_de_Practica_de_Laboratorio__Ingenieria_Inversa_e_IA_—_UNAMAD.pdf,SUCCESS
+12:29:40.9856317,SumatraPDF.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\Guia_de_Practica_de_Laboratorio__Ingenieria_Inversa_e_IA_—_UNAMAD.pdf,SUCCESS
+12:29:40.9857314,SumatraPDF.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\Guia_de_Practica_de_Laboratorio__Ingenieria_Inversa_e_IA_—_UNAMAD.pdf,NOT A DIRECTORY
+12:29:40.9858050,SumatraPDF.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia,IS DIRECTORY
+12:29:40.9858657,SumatraPDF.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia,SUCCESS
+12:29:40.9859574,SumatraPDF.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia,SUCCESS
+12:29:40.9860315,SumatraPDF.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia,SUCCESS
+12:29:40.9862604,SumatraPDF.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia,SUCCESS
+12:29:40.9864163,SumatraPDF.exe,CreateFile,C:\Users\USUARIO\Documents\Claude,IS DIRECTORY
+12:29:40.9864778,SumatraPDF.exe,CreateFile,C:\Users\USUARIO\Documents\Claude,SUCCESS
+12:29:40.9865674,SumatraPDF.exe,CreateFile,C:\Users\USUARIO\Documents\Claude,SUCCESS
+12:29:40.9866499,SumatraPDF.exe,CreateFile,C:\Users\USUARIO\Documents\Claude,SUCCESS
+12:29:40.9867419,SumatraPDF.exe,CreateFile,C:\Users\USUARIO\Documents\Claude,SUCCESS
+12:29:40.9868393,SumatraPDF.exe,CreateFile,C:\Users\USUARIO\Documents,IS DIRECTORY
+12:29:40.9868955,SumatraPDF.exe,CreateFile,C:\Users\USUARIO\Documents,SUCCESS
+12:29:40.9869835,SumatraPDF.exe,CreateFile,C:\Users\USUARIO\Documents,SUCCESS
+12:29:40.9870617,SumatraPDF.exe,CreateFile,C:\Users\USUARIO\Documents,SUCCESS
+12:29:40.9871556,SumatraPDF.exe,CreateFile,C:\Users\USUARIO\Documents,SUCCESS
+12:29:40.9872462,SumatraPDF.exe,CreateFile,C:\Users\USUARIO,IS DIRECTORY
+12:29:40.9873011,SumatraPDF.exe,CreateFile,C:\Users\USUARIO,SUCCESS
+12:29:40.9873791,SumatraPDF.exe,CreateFile,C:\Users\USUARIO,SUCCESS
+12:29:40.9874529,SumatraPDF.exe,CreateFile,C:\Users\USUARIO,SUCCESS
+12:29:40.9875392,SumatraPDF.exe,CreateFile,C:\Users\USUARIO,SUCCESS
+12:29:40.9876279,SumatraPDF.exe,CreateFile,C:\Users,IS DIRECTORY
+12:29:40.9876863,SumatraPDF.exe,CreateFile,C:\Users,SUCCESS
+12:29:40.9877658,SumatraPDF.exe,CreateFile,C:\Users,SUCCESS
+12:29:40.9878382,SumatraPDF.exe,CreateFile,C:\Users,SUCCESS
+12:29:40.9879340,SumatraPDF.exe,CreateFile,C:\Users,SUCCESS
+12:29:40.9880539,SumatraPDF.exe,CreateFile,C:\,SUCCESS
+12:29:40.9881813,SumatraPDF.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia,SUCCESS
+12:29:40.9885808,SumatraPDF.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\sumatra\sumatrapdfcache\92766bb70b7a602d9945ee67bd61afc3.png,SUCCESS
+12:29:40.9887046,SumatraPDF.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\Guia_de_Practica_de_Laboratorio__Ingenieria_Inversa_e_IA_—_UNAMAD.pdf,SUCCESS
+12:29:40.9891762,SumatraPDF.exe,CreateFile,C:\Windows\System32\policymanager.dll,SUCCESS
+12:29:40.9892822,SumatraPDF.exe,CreateFile,C:\Windows\System32\policymanager.dll,SUCCESS
+12:29:40.9894796,SumatraPDF.exe,Load Image,C:\Windows\System32\policymanager.dll,SUCCESS
+12:29:40.9910105,SumatraPDF.exe,CreateFile,C:\,SUCCESS
+12:29:40.9945780,SumatraPDF.exe,CreateFile,C:\Windows\System32,SUCCESS
+12:29:40.9947968,SumatraPDF.exe,CreateFile,C:\Windows,SUCCESS
+12:29:40.9965351,SumatraPDF.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\sumatra\SspiCli.dll,NAME NOT FOUND
+12:29:40.9966887,SumatraPDF.exe,CreateFile,C:\Windows\System32\sspicli.dll,SUCCESS
+12:29:40.9968774,SumatraPDF.exe,CreateFile,C:\Windows\System32\sspicli.dll,SUCCESS
+12:29:40.9971861,SumatraPDF.exe,Load Image,C:\Windows\System32\sspicli.dll,SUCCESS
+12:29:40.9985344,SumatraPDF.exe,RegSetValue,HKCU\Software\Microsoft\Windows\CurrentVersion\Internet Settings\ZoneMap\ProxyBypass,SUCCESS
+12:29:40.9985744,SumatraPDF.exe,RegSetValue,HKCU\Software\Microsoft\Windows\CurrentVersion\Internet Settings\ZoneMap\IntranetName,SUCCESS
+12:29:40.9985982,SumatraPDF.exe,RegSetValue,HKCU\Software\Microsoft\Windows\CurrentVersion\Internet Settings\ZoneMap\UNCAsIntranet,SUCCESS
+12:29:40.9986301,SumatraPDF.exe,RegSetValue,HKCU\Software\Microsoft\Windows\CurrentVersion\Internet Settings\ZoneMap\AutoDetect,SUCCESS
+12:29:40.9996133,SumatraPDF.exe,RegSetValue,HKCU\Software\Microsoft\Windows\CurrentVersion\Internet Settings\ZoneMap\ProxyBypass,SUCCESS
+12:29:40.9996401,SumatraPDF.exe,RegSetValue,HKCU\Software\Microsoft\Windows\CurrentVersion\Internet Settings\ZoneMap\IntranetName,SUCCESS
+12:29:40.9996595,SumatraPDF.exe,RegSetValue,HKCU\Software\Microsoft\Windows\CurrentVersion\Internet Settings\ZoneMap\UNCAsIntranet,SUCCESS
+12:29:40.9996789,SumatraPDF.exe,RegSetValue,HKCU\Software\Microsoft\Windows\CurrentVersion\Internet Settings\ZoneMap\AutoDetect,SUCCESS
+12:29:41.0013956,SumatraPDF.exe,CreateFile,C:\Users\USUARIO\AppData\Local\Microsoft\Windows\INetCache,SUCCESS
+12:29:41.0021752,SumatraPDF.exe,CreateFile,C:\Users\USUARIO\AppData\Local\Microsoft\Windows\INetCookies,SUCCESS
+12:29:41.0023478,SumatraPDF.exe,CreateFile,C:\Users\desktop.ini,SUCCESS
+12:29:41.0024062,SumatraPDF.exe,CreateFile,C:\,SUCCESS
+12:29:41.0025282,SumatraPDF.exe,CreateFile,C:\Users,SUCCESS
+12:29:41.0026964,SumatraPDF.exe,CreateFile,C:\Users\desktop.ini,SUCCESS
+12:29:41.0028526,SumatraPDF.exe,CreateFile,C:\Users,SUCCESS
+12:29:41.0029367,SumatraPDF.exe,CreateFile,C:\Users\desktop.ini,SUCCESS
+12:29:41.0031238,SumatraPDF.exe,CreateFile,C:\Users\desktop.ini,SUCCESS
+12:29:41.0032876,SumatraPDF.exe,CreateFile,C:\Users\desktop.ini,SUCCESS
+12:29:41.0034849,SumatraPDF.exe,CreateFile,C:\Users\desktop.ini:Zone.Identifier,NAME NOT FOUND
+12:29:41.0036345,SumatraPDF.exe,CreateFile,C:\Windows\System32\virtdisk.dll,SUCCESS
+12:29:41.0037511,SumatraPDF.exe,CreateFile,C:\Windows\System32\virtdisk.dll,SUCCESS
+12:29:41.0039345,SumatraPDF.exe,Load Image,C:\Windows\System32\virtdisk.dll,SUCCESS
+12:29:41.0042293,SumatraPDF.exe,CreateFile,C:\Users\desktop.ini,SUCCESS
+12:29:41.0043355,SumatraPDF.exe,CreateFile,C:\Users\desktop.ini,SUCCESS
+12:29:41.0044359,SumatraPDF.exe,CreateFile,C:\Users\desktop.ini,SUCCESS
+12:29:41.0045718,SumatraPDF.exe,CreateFile,C:\Users\desktop.ini,NOT A DIRECTORY
+12:29:41.0046762,SumatraPDF.exe,CreateFile,C:\Users,IS DIRECTORY
+12:29:41.0047453,SumatraPDF.exe,CreateFile,C:\Users,SUCCESS
+12:29:41.0048442,SumatraPDF.exe,CreateFile,C:\Users,SUCCESS
+12:29:41.0049197,SumatraPDF.exe,CreateFile,C:\Users,SUCCESS
+12:29:41.0050850,SumatraPDF.exe,CreateFile,C:\Users,SUCCESS
+12:29:41.0053931,SumatraPDF.exe,CreateFile,C:\Users\USUARIO\AppData\Local\Microsoft\Windows\Caches,NAME COLLISION
+12:29:41.0055082,SumatraPDF.exe,CreateFile,C:\Users\USUARIO\AppData\Local\Microsoft\Windows\Caches,SUCCESS
+12:29:41.0056214,SumatraPDF.exe,CreateFile,C:\Users\USUARIO\AppData\Local\Microsoft\Windows\Caches,SUCCESS
+12:29:41.0057286,SumatraPDF.exe,CreateFile,C:\Users\USUARIO\AppData\Local\Microsoft\Windows\Caches\cversions.1.db,SUCCESS
+12:29:41.0059808,SumatraPDF.exe,CreateFile,C:\Users\USUARIO\AppData\Local\Microsoft\Windows\Caches\{AFBF9F1A-8EE8-4C77-AF34-C647E37CA0D9}.1.ver0x000000000000010f.db,SUCCESS
+12:29:41.0062995,SumatraPDF.exe,CreateFile,C:\Users\desktop.ini,SUCCESS
+12:29:41.0063499,SumatraPDF.exe,ReadFile,C:\Users\desktop.ini,SUCCESS
+12:29:41.0086032,SumatraPDF.exe,CreateFile,C:\Users,SUCCESS
+12:29:41.0090517,SumatraPDF.exe,CreateFile,C:\Users\USUARIO,SUCCESS
+12:29:41.0095913,SumatraPDF.exe,CreateFile,C:\Users\USUARIO\Documents\desktop.ini,SUCCESS
+12:29:41.0097103,SumatraPDF.exe,CreateFile,C:\,SUCCESS
+12:29:41.0098420,SumatraPDF.exe,CreateFile,C:\Users,SUCCESS
+12:29:41.0100183,SumatraPDF.exe,CreateFile,C:\Users\USUARIO\Documents,SUCCESS
+12:29:41.0102161,SumatraPDF.exe,CreateFile,C:\Users\USUARIO\Documents\desktop.ini,SUCCESS
+12:29:41.0103792,SumatraPDF.exe,CreateFile,C:\Users\USUARIO\Documents,SUCCESS
+12:29:41.0105205,SumatraPDF.exe,CreateFile,C:\Users\USUARIO,SUCCESS
+12:29:41.0106790,SumatraPDF.exe,CreateFile,C:\Users,SUCCESS
+12:29:41.0107878,SumatraPDF.exe,CreateFile,C:\Users\USUARIO\Documents\desktop.ini,SUCCESS
+12:29:41.0110156,SumatraPDF.exe,CreateFile,C:\Users\USUARIO\Documents\desktop.ini,SUCCESS
+12:29:41.0112313,SumatraPDF.exe,CreateFile,C:\Users\USUARIO\Documents\desktop.ini,SUCCESS
+12:29:41.0113866,SumatraPDF.exe,CreateFile,C:\Users\USUARIO\Documents\desktop.ini:Zone.Identifier,NAME NOT FOUND
+12:29:41.0114658,SumatraPDF.exe,CreateFile,C:\Users\USUARIO\Documents\desktop.ini,SUCCESS
+12:29:41.0115577,SumatraPDF.exe,CreateFile,C:\Users\USUARIO\Documents\desktop.ini,SUCCESS
+12:29:41.0116453,SumatraPDF.exe,CreateFile,C:\Users\USUARIO\Documents\desktop.ini,SUCCESS
+12:29:41.0117934,SumatraPDF.exe,CreateFile,C:\Users\USUARIO\Documents\desktop.ini,NOT A DIRECTORY
+12:29:41.0120327,SumatraPDF.exe,CreateFile,C:\Users\USUARIO\Documents,IS DIRECTORY
+12:29:41.0121298,SumatraPDF.exe,CreateFile,C:\Users\USUARIO\Documents,SUCCESS
+12:29:41.0122514,SumatraPDF.exe,CreateFile,C:\Users\USUARIO\Documents,SUCCESS
+12:29:41.0123486,SumatraPDF.exe,CreateFile,C:\Users\USUARIO\Documents,SUCCESS
+12:29:41.0124898,SumatraPDF.exe,CreateFile,C:\Users\USUARIO\Documents,SUCCESS
+12:29:41.0125820,SumatraPDF.exe,CreateFile,C:\Users\USUARIO,IS DIRECTORY
+12:29:41.0126382,SumatraPDF.exe,CreateFile,C:\Users\USUARIO,SUCCESS
+12:29:41.0127289,SumatraPDF.exe,CreateFile,C:\Users\USUARIO,SUCCESS
+12:29:41.0128175,SumatraPDF.exe,CreateFile,C:\Users\USUARIO,SUCCESS
+12:29:41.0129146,SumatraPDF.exe,CreateFile,C:\Users\USUARIO,SUCCESS
+12:29:41.0130078,SumatraPDF.exe,CreateFile,C:\Users,IS DIRECTORY
+12:29:41.0130610,SumatraPDF.exe,CreateFile,C:\Users,SUCCESS
+12:29:41.0132518,SumatraPDF.exe,CreateFile,C:\Users,SUCCESS
+12:29:41.0134182,SumatraPDF.exe,CreateFile,C:\Users,SUCCESS
+12:29:41.0136011,SumatraPDF.exe,CreateFile,C:\Users,SUCCESS
+12:29:41.0138804,SumatraPDF.exe,CreateFile,C:\Users\USUARIO\Documents\desktop.ini,SUCCESS
+12:29:41.0139415,SumatraPDF.exe,ReadFile,C:\Users\USUARIO\Documents\desktop.ini,SUCCESS
+12:29:41.0144871,SumatraPDF.exe,CreateFile,C:\Users\USUARIO\Documents,SUCCESS
+12:29:41.0149427,SumatraPDF.exe,CreateFile,C:\Users\USUARIO\Documents\Claude,SUCCESS
+12:29:41.0151332,SumatraPDF.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia,SUCCESS
+12:29:41.0163168,SumatraPDF.exe,CreateFile,C:\Users\USUARIO\Desktop\desktop.ini,SUCCESS
+12:29:41.0164132,SumatraPDF.exe,CreateFile,C:\,SUCCESS
+12:29:41.0165779,SumatraPDF.exe,CreateFile,C:\Users,SUCCESS
+12:29:41.0167071,SumatraPDF.exe,CreateFile,C:\Users\USUARIO,SUCCESS
+12:29:41.0168171,SumatraPDF.exe,CreateFile,C:\Users\USUARIO\Desktop,SUCCESS
+12:29:41.0169959,SumatraPDF.exe,CreateFile,C:\Users\USUARIO\Desktop\desktop.ini,SUCCESS
+12:29:41.0171395,SumatraPDF.exe,CreateFile,C:\Users\USUARIO\Desktop,SUCCESS
+12:29:41.0172905,SumatraPDF.exe,CreateFile,C:\Users\USUARIO,SUCCESS
+12:29:41.0174473,SumatraPDF.exe,CreateFile,C:\Users,SUCCESS
+12:29:41.0175466,SumatraPDF.exe,CreateFile,C:\Users\USUARIO\Desktop\desktop.ini,SUCCESS
+12:29:41.0177038,SumatraPDF.exe,CreateFile,C:\Users\USUARIO\Desktop\desktop.ini,SUCCESS
+12:29:41.0178484,SumatraPDF.exe,CreateFile,C:\Users\USUARIO\Desktop\desktop.ini,SUCCESS
+12:29:41.0179898,SumatraPDF.exe,CreateFile,C:\Users\USUARIO\Desktop\desktop.ini:Zone.Identifier,NAME NOT FOUND
+12:29:41.0181075,SumatraPDF.exe,CreateFile,C:\Users\USUARIO\Desktop\desktop.ini,SUCCESS
+12:29:41.0182122,SumatraPDF.exe,CreateFile,C:\Users\USUARIO\Desktop\desktop.ini,SUCCESS
+12:29:41.0182956,SumatraPDF.exe,CreateFile,C:\Users\USUARIO\Desktop\desktop.ini,SUCCESS
+12:29:41.0183988,SumatraPDF.exe,CreateFile,C:\Users\USUARIO\Desktop\desktop.ini,NOT A DIRECTORY
+12:29:41.0184577,SumatraPDF.exe,CreateFile,C:\Users\USUARIO\Desktop,IS DIRECTORY
+12:29:41.0185132,SumatraPDF.exe,CreateFile,C:\Users\USUARIO\Desktop,SUCCESS
+12:29:41.0186092,SumatraPDF.exe,CreateFile,C:\Users\USUARIO\Desktop,SUCCESS
+12:29:41.0186867,SumatraPDF.exe,CreateFile,C:\Users\USUARIO\Desktop,SUCCESS
+12:29:41.0188201,SumatraPDF.exe,CreateFile,C:\Users\USUARIO\Desktop,SUCCESS
+12:29:41.0189067,SumatraPDF.exe,CreateFile,C:\Users\USUARIO,IS DIRECTORY
+12:29:41.0189613,SumatraPDF.exe,CreateFile,C:\Users\USUARIO,SUCCESS
+12:29:41.0190459,SumatraPDF.exe,CreateFile,C:\Users\USUARIO,SUCCESS
+12:29:41.0191321,SumatraPDF.exe,CreateFile,C:\Users\USUARIO,SUCCESS
+12:29:41.0192231,SumatraPDF.exe,CreateFile,C:\Users\USUARIO,SUCCESS
+12:29:41.0193124,SumatraPDF.exe,CreateFile,C:\Users,IS DIRECTORY
+12:29:41.0193654,SumatraPDF.exe,CreateFile,C:\Users,SUCCESS
+12:29:41.0194499,SumatraPDF.exe,CreateFile,C:\Users,SUCCESS
+12:29:41.0195226,SumatraPDF.exe,CreateFile,C:\Users,SUCCESS
+12:29:41.0196287,SumatraPDF.exe,CreateFile,C:\Users,SUCCESS
+12:29:41.0198499,SumatraPDF.exe,CreateFile,C:\Users\USUARIO\Desktop\desktop.ini,SUCCESS
+12:29:41.0199079,SumatraPDF.exe,ReadFile,C:\Users\USUARIO\Desktop\desktop.ini,SUCCESS
+12:29:41.0312398,SumatraPDF.exe,CreateFile,C:\Users\USUARIO\Documents,SUCCESS
+12:29:41.0318204,SumatraPDF.exe,CreateFile,C:\,SUCCESS
+12:29:41.0324876,SumatraPDF.exe,CreateFile,C:\Users,SUCCESS
+12:29:41.0328760,SumatraPDF.exe,CreateFile,C:\Users\USUARIO,SUCCESS
+12:29:41.0355406,SumatraPDF.exe,CreateFile,C:\Windows\System32\Windows.System.Launcher.dll,SUCCESS
+12:29:41.0357084,SumatraPDF.exe,CreateFile,C:\Windows\System32\Windows.System.Launcher.dll,SUCCESS
+12:29:41.0359290,SumatraPDF.exe,Load Image,C:\Windows\System32\Windows.System.Launcher.dll,SUCCESS
+12:29:41.0377768,SumatraPDF.exe,CreateFile,C:\Windows\System32\apphelp.dll,SUCCESS
+12:29:41.0381234,SumatraPDF.exe,CreateFile,C:\Windows\System32\apphelp.dll,SUCCESS
+12:29:41.0383044,SumatraPDF.exe,Load Image,C:\Windows\System32\apphelp.dll,SUCCESS
+12:29:41.0412880,SumatraPDF.exe,CreateFile,C:\Windows\System32\networkexplorer.dll,SUCCESS
+12:29:41.0414195,SumatraPDF.exe,CreateFile,C:\Windows\System32\networkexplorer.dll,SUCCESS
+12:29:41.0416043,SumatraPDF.exe,Load Image,C:\Windows\System32\networkexplorer.dll,SUCCESS
+12:29:41.0434959,SumatraPDF.exe,CreateFile,C:\Users\USUARIO\Documents,SUCCESS
+12:29:41.0437035,SumatraPDF.exe,CreateFile,C:\,SUCCESS
+12:29:41.0443528,SumatraPDF.exe,CreateFile,C:\Users,SUCCESS
+12:29:41.0448840,SumatraPDF.exe,CreateFile,C:\Users\USUARIO,SUCCESS
+12:29:41.0466829,SumatraPDF.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\Guia_de_Practica_de_Laboratorio__Ingenieria_Inversa_e_IA_—_UNAMAD.pdf,SUCCESS
+12:29:41.0470209,SumatraPDF.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\Guia_de_Practica_de_Laboratorio__Ingenieria_Inversa_e_IA_—_UNAMAD.pdf,SUCCESS
+12:29:41.0472565,SumatraPDF.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\Guia_de_Practica_de_Laboratorio__Ingenieria_Inversa_e_IA_—_UNAMAD.pdf,SUCCESS
+12:29:41.0474480,SumatraPDF.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\Guia_de_Practica_de_Laboratorio__Ingenieria_Inversa_e_IA_—_UNAMAD.pdf,SUCCESS
+12:29:41.0477666,SumatraPDF.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\Guia_de_Practica_de_Laboratorio__Ingenieria_Inversa_e_IA_—_UNAMAD.pdf,SUCCESS
+12:29:41.0479689,SumatraPDF.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\Guia_de_Practica_de_Laboratorio__Ingenieria_Inversa_e_IA_—_UNAMAD.pdf,SUCCESS
+12:29:41.0483461,SumatraPDF.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\Guia_de_Practica_de_Laboratorio__Ingenieria_Inversa_e_IA_—_UNAMAD.pdf,SUCCESS
+12:29:41.0485936,SumatraPDF.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\Guia_de_Practica_de_Laboratorio__Ingenieria_Inversa_e_IA_—_UNAMAD.pdf,SUCCESS
+12:29:41.0489444,SumatraPDF.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\Guia_de_Practica_de_Laboratorio__Ingenieria_Inversa_e_IA_—_UNAMAD.pdf,SUCCESS
+12:29:41.0492975,SumatraPDF.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\Guia_de_Practica_de_Laboratorio__Ingenieria_Inversa_e_IA_—_UNAMAD.pdf,SUCCESS
+12:29:41.0495960,SumatraPDF.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\Guia_de_Practica_de_Laboratorio__Ingenieria_Inversa_e_IA_—_UNAMAD.pdf,SUCCESS
+12:29:41.0498013,SumatraPDF.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\Guia_de_Practica_de_Laboratorio__Ingenieria_Inversa_e_IA_—_UNAMAD.pdf,SUCCESS
+12:29:41.0499925,SumatraPDF.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\Guia_de_Practica_de_Laboratorio__Ingenieria_Inversa_e_IA_—_UNAMAD.pdf,SUCCESS
+12:29:41.0503005,SumatraPDF.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\Guia_de_Practica_de_Laboratorio__Ingenieria_Inversa_e_IA_—_UNAMAD.pdf,SUCCESS
+12:29:41.0503746,SumatraPDF.exe,CreateFile,C:\,SUCCESS
+12:29:41.0505156,SumatraPDF.exe,CreateFile,C:\Users,SUCCESS
+12:29:41.0506683,SumatraPDF.exe,CreateFile,C:\Users\USUARIO\Documents,SUCCESS
+12:29:41.0508491,SumatraPDF.exe,CreateFile,C:\Users\USUARIO\Documents\Claude,SUCCESS
+12:29:41.0511297,SumatraPDF.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\Guia_de_Practica_de_Laboratorio__Ingenieria_Inversa_e_IA_—_UNAMAD.pdf,SUCCESS
+12:29:41.0512066,SumatraPDF.exe,CreateFile,C:\,SUCCESS
+12:29:41.0513072,SumatraPDF.exe,CreateFile,C:\Users,SUCCESS
+12:29:41.0514049,SumatraPDF.exe,CreateFile,C:\Users\USUARIO\Documents,SUCCESS
+12:29:41.0514949,SumatraPDF.exe,CreateFile,C:\Users\USUARIO\Documents\Claude,SUCCESS
+12:29:41.0517033,SumatraPDF.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\sumatra\SumatraPDF-settings.txt,SUCCESS
+12:29:41.0518535,SumatraPDF.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\sumatra\SumatraPDF-settings.txt,SUCCESS
+12:29:41.0519312,SumatraPDF.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\sumatra\SumatraPDF-settings.txt,SUCCESS
+12:29:41.0520348,SumatraPDF.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\sumatra\SumatraPDF-settings.txt,SUCCESS
+12:29:41.0521335,SumatraPDF.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\sumatra\SumatraPDF-settings.txt,NOT A DIRECTORY
+12:29:41.0521936,SumatraPDF.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\sumatra,IS DIRECTORY
+12:29:41.0522745,SumatraPDF.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\sumatra,SUCCESS
+12:29:41.0523778,SumatraPDF.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\sumatra,SUCCESS
+12:29:41.0524582,SumatraPDF.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\sumatra,SUCCESS
+12:29:41.0525460,SumatraPDF.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\sumatra,SUCCESS
+12:29:41.0526483,SumatraPDF.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas,IS DIRECTORY
+12:29:41.0527037,SumatraPDF.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas,SUCCESS
+12:29:41.0527798,SumatraPDF.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas,SUCCESS
+12:29:41.0529411,SumatraPDF.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas,SUCCESS
+12:29:41.0530574,SumatraPDF.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas,SUCCESS
+12:29:41.0531873,SumatraPDF.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia,IS DIRECTORY
+12:29:41.0532679,SumatraPDF.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia,SUCCESS
+12:29:41.0533650,SumatraPDF.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia,SUCCESS
+12:29:41.0534973,SumatraPDF.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia,SUCCESS
+12:29:41.0535969,SumatraPDF.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia,SUCCESS
+12:29:41.0536951,SumatraPDF.exe,CreateFile,C:\Users\USUARIO\Documents\Claude,IS DIRECTORY
+12:29:41.0537490,SumatraPDF.exe,CreateFile,C:\Users\USUARIO\Documents\Claude,SUCCESS
+12:29:41.0538434,SumatraPDF.exe,CreateFile,C:\Users\USUARIO\Documents\Claude,SUCCESS
+12:29:41.0539347,SumatraPDF.exe,CreateFile,C:\Users\USUARIO\Documents\Claude,SUCCESS
+12:29:41.0540181,SumatraPDF.exe,CreateFile,C:\Users\USUARIO\Documents\Claude,SUCCESS
+12:29:41.0542741,SumatraPDF.exe,CreateFile,C:\Users\USUARIO\Documents,IS DIRECTORY
+12:29:41.0543391,SumatraPDF.exe,CreateFile,C:\Users\USUARIO\Documents,SUCCESS
+12:29:41.0544326,SumatraPDF.exe,CreateFile,C:\Users\USUARIO\Documents,SUCCESS
+12:29:41.0545195,SumatraPDF.exe,CreateFile,C:\Users\USUARIO\Documents,SUCCESS
+12:29:41.0546436,SumatraPDF.exe,CreateFile,C:\Users\USUARIO\Documents,SUCCESS
+12:29:41.0547744,SumatraPDF.exe,CreateFile,C:\Users\USUARIO,IS DIRECTORY
+12:29:41.0549188,SumatraPDF.exe,CreateFile,C:\Users\USUARIO,SUCCESS
+12:29:41.0550419,SumatraPDF.exe,CreateFile,C:\Users\USUARIO,SUCCESS
+12:29:41.0551236,SumatraPDF.exe,CreateFile,C:\Users\USUARIO,SUCCESS
+12:29:41.0552280,SumatraPDF.exe,CreateFile,C:\Users\USUARIO,SUCCESS
+12:29:41.0553238,SumatraPDF.exe,CreateFile,C:\Users,IS DIRECTORY
+12:29:41.0553790,SumatraPDF.exe,CreateFile,C:\Users,SUCCESS
+12:29:41.0554655,SumatraPDF.exe,CreateFile,C:\Users,SUCCESS
+12:29:41.0555281,SumatraPDF.exe,CreateFile,C:\Users,SUCCESS
+12:29:41.0556029,SumatraPDF.exe,CreateFile,C:\Users,SUCCESS
+12:29:41.0556822,SumatraPDF.exe,CreateFile,C:\,SUCCESS
+12:29:41.0557874,SumatraPDF.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\sumatra,SUCCESS
+12:29:41.0561760,SumatraPDF.exe,CreateFile,C:\Users\USUARIO\Documents,SUCCESS
+12:29:41.0562731,SumatraPDF.exe,CreateFile,C:\Users\USUARIO\Documents,SUCCESS
+12:29:42.9371035,SumatraPDF.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\Guia_de_Practica_de_Laboratorio__Ingenieria_Inversa_e_IA_—_UNAMAD.pdf,SUCCESS
+12:29:42.9413693,SumatraPDF.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\sumatra\SumatraPDF-settings.txt,SUCCESS
+12:29:42.9414675,SumatraPDF.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\sumatra\SumatraPDF-settings.txt,SUCCESS
+12:29:42.9417151,SumatraPDF.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\sumatra\SumatraPDF-settings.txt,SUCCESS
+12:29:42.9419224,SumatraPDF.exe,WriteFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\sumatra\SumatraPDF-settings.txt,SUCCESS
+12:29:42.9421800,SumatraPDF.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\sumatra\SumatraPDF-settings.txt,SUCCESS
+12:29:42.9634534,SumatraPDF.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\sumatra\sumatrapdfcache,SUCCESS
+12:29:42.9702869,SumatraPDF.exe,RegSetValue,HKLM\System\CurrentControlSet\Services\bam\State\UserSettings\S-1-5-21-1124032440-1125344418-2380053577-1001\\Device\HarddiskVolume3\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\sumatra\SumatraPDF.exe,SUCCESS

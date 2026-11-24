@@ -1,0 +1,11 @@
+{
+ "titulo": "Sin título - Paint",
+ "clase": "MSPaintApp",
+ "pid": 7676,
+ "proceso": "mspaint.exe",
+ "arranque_s": 0.74,
+ "rss_mb": 206.7,
+ "privada_mb": 147.2,
+ "nodos_uia": 232,
+ "items_menu": 0
+}

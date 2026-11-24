@@ -1,0 +1,504 @@
+{
+ "A_writer": {
+  "total": 26084,
+  "ops": [
+   [
+    "CreateFile",
+    4905
+   ],
+   [
+    "CloseFile",
+    4674
+   ],
+   [
+    "IRP_MJ_CLOSE",
+    4616
+   ],
+   [
+    "QueryDirectory",
+    3607
+   ],
+   [
+    "ReadFile",
+    1640
+   ],
+   [
+    "RegOpenKey",
+    906
+   ],
+   [
+    "RegQueryKey",
+    849
+   ],
+   [
+    "RegQueryValue",
+    503
+   ],
+   [
+    "QueryBasicInformationFile",
+    492
+   ],
+   [
+    "QueryOpen",
+    446
+   ],
+   [
+    "CreateFileMapping",
+    430
+   ],
+   [
+    "FASTIO_RELEASE_FOR_SECTION_SYNCHRONIZATION",
+    430
+   ]
+  ],
+  "imagenes": 178,
+  "escritos": [
+   [
+    "C:\\$LogFile",
+    34
+   ],
+   [
+    "C:\\Users\\USUARIO\\AppData\\Roaming\\OpenOffice\\4\\user\\1E12.tmp",
+    5
+   ],
+   [
+    "C:\\Users\\USUARIO\\AppData\\Local\\Temp\\sv3frqkb.tmp\\sv3frs56.tmp",
+    5
+   ],
+   [
+    "C:\\Users\\USUARIO\\AppData\\Roaming\\OpenOffice\\4\\user\\2305.tmp",
+    5
+   ],
+   [
+    "C:\\Users\\USUARIO\\AppData\\Roaming\\OpenOffice\\4\\user\\2306.tmp",
+    5
+   ],
+   [
+    "C:\\$Mft",
+    4
+   ],
+   [
+    "C:\\Users\\USUARIO\\AppData\\Roaming\\OpenOffice\\4\\user\\uno_packages\\cache\\stamp.sys",
+    2
+   ],
+   [
+    "C:\\Users\\USUARIO\\Documents\\Claude\\tarea-ia\\herramientas\\openoffice\\share\\uno_packages\\cache\\stamp.sys",
+    2
+   ],
+   [
+    "C:\\Users\\USUARIO\\Documents\\Claude\\tarea-ia\\muestras\\.~lock.minimo_writer.odt#",
+    2
+   ],
+   [
+    "C:\\Users\\USUARIO\\Documents\\Claude\\tarea-ia\\muestras\\minimo_writer0.odt",
+    2
+   ],
+   [
+    "C:\\Users\\USUARIO\\Documents\\Claude\\tarea-ia\\muestras\\.~lock.minimo_writer.rtf#",
+    2
+   ],
+   [
+    "C:\\Users\\USUARIO\\AppData\\Local\\Temp\\sv3frqkb.tmp\\sv3frs7r.tmp",
+    2
+   ],
+   [
+    "C:\\Users\\USUARIO\\Documents\\Claude\\tarea-ia\\muestras\\minimo_writer0.rtf",
+    2
+   ],
+   [
+    "C:\\Users\\USUARIO\\AppData\\Roaming\\OpenOffice\\4\\user\\extensions\\shared\\log.txt",
+    2
+   ],
+   [
+    "C:\\Users\\USUARIO\\AppData\\Roaming\\OpenOffice\\4\\user\\uno_packages\\cache\\log.txt",
+    2
+   ]
+  ],
+  "leidos": [
+   [
+    "C:\\Users\\USUARIO\\Documents\\Claude\\tarea-ia\\herramientas\\openoffice\\share\\config\\images.zip",
+    1446
+   ],
+   [
+    "C:\\Users\\USUARIO\\Documents\\Claude\\tarea-ia\\herramientas\\openoffice\\help\\es\\swriter.db",
+    12
+   ],
+   [
+    "C:\\Users\\USUARIO\\Documents\\Claude\\tarea-ia\\herramientas\\openoffice\\help\\es\\swriter.ht",
+    12
+   ],
+   [
+    "C:\\Users\\USUARIO\\Documents\\Claude\\tarea-ia\\herramientas\\openoffice\\program\\resource\\swes.res",
+    10
+   ],
+   [
+    "C:\\Users\\USUARIO\\Documents\\Claude\\tarea-ia\\herramientas\\openoffice\\program\\resource\\svxes.res",
+    10
+   ],
+   [
+    "C:\\Users\\USUARIO\\Documents\\Claude\\tarea-ia\\herramientas\\openoffice\\program\\resource\\ofaes.res",
+    6
+   ],
+   [
+    "C:\\Users\\USUARIO\\Documents\\Claude\\tarea-ia\\herramientas\\openoffice\\program\\resource\\svtes.res",
+    6
+   ],
+   [
+    "C:\\Users\\USUARIO\\Documents\\Claude\\tarea-ia\\herramientas\\openoffice\\program\\resource\\sfxes.res",
+    5
+   ],
+   [
+    "C:\\Users\\USUARIO\\AppData\\Roaming\\OpenOffice\\4\\user\\config\\fontnames.dat",
+    5
+   ],
+   [
+    "C:\\Users\\USUARIO\\Documents\\Claude\\tarea-ia\\herramientas\\openoffice\\program\\resource\\fwees.res",
+    4
+   ]
+  ],
+  "renombres": [
+   [
+    "C:\\Users\\USUARIO\\AppData\\Roaming\\OpenOffice\\4\\user\\1E12.tmp",
+    "ReplaceIfExists: True, FileName: C:\\Users\\USUARIO\\AppData\\Roaming\\OpenOffice\\4\\user\\registrymodifications.xcu"
+   ],
+   [
+    "C:\\Users\\USUARIO\\Documents\\Claude\\tarea-ia\\muestras\\minimo_writer0.odt",
+    "ReplaceIfExists: True, FileName: C:\\Users\\USUARIO\\Documents\\Claude\\tarea-ia\\muestras\\minimo_writer.odt"
+   ],
+   [
+    "C:\\Users\\USUARIO\\Documents\\Claude\\tarea-ia\\muestras\\minimo_writer0.rtf",
+    "ReplaceIfExists: True, FileName: C:\\Users\\USUARIO\\Documents\\Claude\\tarea-ia\\muestras\\minimo_writer.rtf"
+   ],
+   [
+    "C:\\Users\\USUARIO\\AppData\\Roaming\\OpenOffice\\4\\user\\2305.tmp",
+    "ReplaceIfExists: True, FileName: C:\\Users\\USUARIO\\AppData\\Roaming\\OpenOffice\\4\\user\\registrymodifications.xcu"
+   ],
+   [
+    "C:\\Users\\USUARIO\\AppData\\Roaming\\OpenOffice\\4\\user\\2306.tmp",
+    "ReplaceIfExists: True, FileName: C:\\Users\\USUARIO\\AppData\\Roaming\\OpenOffice\\4\\user\\registrymodifications.xcu"
+   ]
+  ]
+ },
+ "B_paint": {
+  "total": 31135,
+  "ops": [
+   [
+    "RegOpenKey",
+    7465
+   ],
+   [
+    "RegQueryKey",
+    6114
+   ],
+   [
+    "RegQueryValue",
+    4663
+   ],
+   [
+    "RegCloseKey",
+    3241
+   ],
+   [
+    "CreateFile",
+    1666
+   ],
+   [
+    "ReadFile",
+    1387
+   ],
+   [
+    "CloseFile",
+    1029
+   ],
+   [
+    "IRP_MJ_CLOSE",
+    1003
+   ],
+   [
+    "QueryOpen",
+    959
+   ],
+   [
+    "QueryBasicInformationFile",
+    497
+   ],
+   [
+    "CreateFileMapping",
+    436
+   ],
+   [
+    "FASTIO_RELEASE_FOR_SECTION_SYNCHRONIZATION",
+    436
+   ]
+  ],
+  "imagenes": 169,
+  "escritos": [
+   [
+    "\\Device\\NamedPipe\\UIA_PIPE_16896_9cce7e16",
+    341
+   ],
+   [
+    "C:\\Users\\USUARIO\\AppData\\LocalLow\\62f9009974d8fe5a2c5b3ce728226dd27fcd6fa32952edccddcead82abaa7fea",
+    6
+   ],
+   [
+    "C:\\ProgramData\\NVIDIA Corporation\\Drs\\nvAppTimestamps",
+    2
+   ],
+   [
+    "C:\\$LogFile",
+    2
+   ],
+   [
+    "C:\\Users\\USUARIO\\AppData\\Local\\Temp\\minimo_paint.png",
+    1
+   ],
+   [
+    "C:\\Users\\USUARIO\\AppData\\Local\\Temp\\minimo_paint (2).png",
+    1
+   ]
+  ],
+  "leidos": [
+   [
+    "\\Device\\NamedPipe\\UIA_PIPE_16896_9cce7e16",
+    488
+   ],
+   [
+    "C:\\ProgramData\\NVIDIA Corporation\\Drs\\nvAppTimestamps",
+    234
+   ],
+   [
+    "C:\\Program Files\\WindowsApps\\Microsoft.WindowsAppRuntime.2_2.7.0.0_x64__8wekyb3d8bbwe\\Microsoft.ui.xaml.dll",
+    55
+   ],
+   [
+    "C:\\Program Files\\WindowsApps\\Microsoft.Paint_11.2609.441.0_x64__8wekyb3d8bbwe\\PaintApp\\PaintUI.dll",
+    36
+   ],
+   [
+    "C:\\Program Files\\WindowsApps\\Microsoft.WindowsAppRuntime.2_2.7.0.0_x64__8wekyb3d8bbwe\\Microsoft.UI.Xaml.Controls.dll",
+    33
+   ],
+   [
+    "C:\\Program Files\\WindowsApps\\Microsoft.WindowsAppRuntime.2_2.7.0.0_x64__8wekyb3d8bbwe\\dwmcorei.dll",
+    21
+   ],
+   [
+    "C:\\Program Files\\WindowsApps\\Microsoft.VCLibs.140.00.UWPDesktop_14.0.33728.0_x64__8wekyb3d8bbwe\\mfc140u.dll",
+    16
+   ],
+   [
+    "C:\\Program Files\\WindowsApps\\Microsoft.WindowsAppRuntime.2_2.7.0.0_x64__8wekyb3d8bbwe\\Microsoft.UI.Input.dll",
+    16
+   ],
+   [
+    "C:\\Program Files\\WindowsApps\\Microsoft.Paint_11.2609.441.0_x64__8wekyb3d8bbwe\\PaintApp\\PaintProvenanceNet.dll",
+    15
+   ],
+   [
+    "C:\\Users\\USUARIO\\AppData\\Local\\Temp\\minimo_paint.png",
+    13
+   ]
+  ],
+  "renombres": [
+   [
+    "C:\\Users\\USUARIO\\AppData\\Local\\Temp\\minimo_paint (2).png",
+    "ReplaceIfExists: True, FileName: C:\\Users\\USUARIO\\AppData\\Local\\Temp\\minimo_paint.png"
+   ],
+   [
+    "C:\\Users\\USUARIO\\AppData\\Local\\Temp\\minimo_paint.png",
+    "ReplaceIfExists: True, FileName: C:\\Users\\USUARIO\\Documents\\Claude\\tarea-ia\\muestras\\minimo_paint.png"
+   ]
+  ]
+ },
+ "C_sumatra": {
+  "total": 9960,
+  "ops": [
+   [
+    "RegQueryKey",
+    2660
+   ],
+   [
+    "RegOpenKey",
+    2054
+   ],
+   [
+    "RegQueryValue",
+    1223
+   ],
+   [
+    "RegCloseKey",
+    786
+   ],
+   [
+    "CreateFile",
+    577
+   ],
+   [
+    "CloseFile",
+    474
+   ],
+   [
+    "IRP_MJ_CLOSE",
+    466
+   ],
+   [
+    "RegEnumValue",
+    275
+   ],
+   [
+    "QueryOpen",
+    266
+   ],
+   [
+    "RegEnumKey",
+    180
+   ],
+   [
+    "CreateFileMapping",
+    158
+   ],
+   [
+    "FASTIO_RELEASE_FOR_SECTION_SYNCHRONIZATION",
+    158
+   ]
+  ],
+  "imagenes": 69,
+  "escritos": [
+   [
+    "C:\\Users\\USUARIO\\Documents\\Claude\\tarea-ia\\herramientas\\sumatra\\SumatraPDF-settings.txt",
+    1
+   ]
+  ],
+  "leidos": [
+   [
+    "C:\\Users\\USUARIO\\Documents\\Claude\\tarea-ia\\herramientas\\sumatra\\SumatraPDF-settings.txt",
+    3
+   ],
+   [
+    "C:\\Users\\USUARIO\\Documents\\Claude\\tarea-ia\\herramientas\\sumatra\\sumatrapdfcache\\92766bb70b7a602d9945ee67bd61afc3.png",
+    2
+   ],
+   [
+    "C:\\Users\\USUARIO\\Documents\\Claude\\tarea-ia\\Guia_de_Practica_de_Laboratorio__Ingenieria_Inversa_e_IA_—_UNAMAD.pdf",
+    2
+   ],
+   [
+    "C:\\pagefile.sys",
+    1
+   ],
+   [
+    "C:\\Users\\USUARIO\\AppData\\Local\\IconCache.db",
+    1
+   ],
+   [
+    "C:\\Users\\desktop.ini",
+    1
+   ],
+   [
+    "C:\\Users\\USUARIO\\Documents\\desktop.ini",
+    1
+   ],
+   [
+    "C:\\Users\\USUARIO\\Desktop\\desktop.ini",
+    1
+   ]
+  ],
+  "renombres": []
+ },
+ "D_irfanview": {
+  "total": 5753,
+  "ops": [
+   [
+    "RegOpenKey",
+    630
+   ],
+   [
+    "CreateFile",
+    610
+   ],
+   [
+    "CloseFile",
+    605
+   ],
+   [
+    "IRP_MJ_CLOSE",
+    597
+   ],
+   [
+    "QueryStandardInformationFile",
+    493
+   ],
+   [
+    "ReadFile",
+    481
+   ],
+   [
+    "LockFile",
+    464
+   ],
+   [
+    "UnlockFileSingle",
+    464
+   ],
+   [
+    "RegCloseKey",
+    282
+   ],
+   [
+    "RegQueryValue",
+    257
+   ],
+   [
+    "RegEnumValue",
+    179
+   ],
+   [
+    "Load Image",
+    134
+   ]
+  ],
+  "imagenes": 34,
+  "escritos": [
+   [
+    "C:\\Users\\USUARIO\\Documents\\Claude\\tarea-ia\\muestras\\minimo_irfan.tif",
+    26
+   ],
+   [
+    "C:\\Users\\USUARIO\\Documents\\Claude\\tarea-ia\\herramientas\\irfanview\\i_view64.ini",
+    14
+   ],
+   [
+    "C:\\Users\\USUARIO\\Documents\\Claude\\tarea-ia\\muestras\\minimo_irfan.bmp",
+    1
+   ],
+   [
+    "C:\\Users\\USUARIO\\Documents\\Claude\\tarea-ia\\muestras\\minimo_irfan.jpg",
+    1
+   ],
+   [
+    "C:\\Users\\USUARIO\\Documents\\Claude\\tarea-ia\\muestras\\minimo_irfan.gif",
+    1
+   ],
+   [
+    "C:\\Users\\USUARIO\\Documents\\Claude\\tarea-ia\\muestras\\minimo_irfan.png",
+    1
+   ]
+  ],
+  "leidos": [
+   [
+    "C:\\Users\\USUARIO\\Documents\\Claude\\tarea-ia\\herramientas\\irfanview\\i_view64.ini",
+    464
+   ],
+   [
+    "C:\\Users\\USUARIO\\Documents\\Claude\\tarea-ia\\muestras\\rojo10.png",
+    12
+   ],
+   [
+    "C:\\$Extend\\$UsnJrnl:$J:$DATA",
+    1
+   ]
+  ],
+  "renombres": []
+ }
+}

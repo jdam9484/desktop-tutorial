@@ -1,0 +1,1276 @@
+hora,proceso,operacion,ruta,resultado
+12:29:42.9495454,i_view64.exe,Load Image,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.exe,SUCCESS
+12:29:42.9496244,i_view64.exe,Load Image,C:\Windows\System32\ntdll.dll,SUCCESS
+12:29:42.9497167,i_view64.exe,CreateFile,C:\Windows\Prefetch\I_VIEW64.EXE-BA06246D.pf,SUCCESS
+12:29:42.9508448,i_view64.exe,ReadFile,C:\Windows\Prefetch\I_VIEW64.EXE-BA06246D.pf,SUCCESS
+12:29:42.9565742,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia,SUCCESS
+12:29:42.9567634,i_view64.exe,Load Image,C:\Windows\System32\kernel32.dll,SUCCESS
+12:29:42.9568906,i_view64.exe,Load Image,C:\Windows\System32\KernelBase.dll,SUCCESS
+12:29:42.9580385,i_view64.exe,CreateFile,C:\Windows\WinSxS\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.26100.9818_none_3e071914e3359bdd,SUCCESS
+12:29:42.9581925,i_view64.exe,Load Image,C:\Windows\System32\user32.dll,SUCCESS
+12:29:42.9582679,i_view64.exe,CreateFile,C:\Windows\WinSxS\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.26100.9818_none_3e071914e3359bdd\comctl32.dll,SUCCESS
+12:29:42.9583535,i_view64.exe,Load Image,C:\Windows\System32\win32u.dll,SUCCESS
+12:29:42.9584114,i_view64.exe,CreateFile,C:\Windows\WinSxS\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.26100.9818_none_3e071914e3359bdd\comctl32.dll,SUCCESS
+12:29:42.9585264,i_view64.exe,Load Image,C:\Windows\System32\gdi32.dll,SUCCESS
+12:29:42.9585324,i_view64.exe,Load Image,C:\Windows\WinSxS\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.26100.9818_none_3e071914e3359bdd\comctl32.dll,SUCCESS
+12:29:42.9586764,i_view64.exe,Load Image,C:\Windows\System32\msvcrt.dll,SUCCESS
+12:29:42.9588019,i_view64.exe,Load Image,C:\Windows\System32\gdi32full.dll,SUCCESS
+12:29:42.9589718,i_view64.exe,Load Image,C:\Windows\System32\msvcp_win.dll,SUCCESS
+12:29:42.9591123,i_view64.exe,Load Image,C:\Windows\System32\ucrtbase.dll,SUCCESS
+12:29:42.9592767,i_view64.exe,Load Image,C:\Windows\System32\advapi32.dll,SUCCESS
+12:29:42.9593842,i_view64.exe,Load Image,C:\Windows\System32\sechost.dll,SUCCESS
+12:29:42.9595348,i_view64.exe,Load Image,C:\Windows\System32\rpcrt4.dll,SUCCESS
+12:29:42.9597167,i_view64.exe,Load Image,C:\Windows\System32\shell32.dll,SUCCESS
+12:29:42.9608478,i_view64.exe,CreateFile,C:\Windows\System32\imm32.dll,SUCCESS
+12:29:42.9611344,i_view64.exe,CreateFile,C:\Windows\System32\imm32.dll,SUCCESS
+12:29:42.9615483,i_view64.exe,Load Image,C:\Windows\System32\imm32.dll,SUCCESS
+12:29:42.9647535,i_view64.exe,CreateFile,C:\Windows\WindowsShell.Manifest,SUCCESS
+12:29:42.9668277,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:42.9669444,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:42.9671696,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:42.9672346,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:42.9673763,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:42.9674312,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:42.9676218,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:42.9677165,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:42.9680356,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:42.9681098,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:42.9684120,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:42.9685669,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:42.9687275,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:42.9687912,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:42.9689750,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:42.9690599,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:42.9692519,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:42.9693386,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:42.9694734,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:42.9695304,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:42.9697086,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:42.9697917,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:42.9699830,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:42.9700823,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:42.9702463,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:42.9703145,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:42.9704843,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:42.9705959,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:42.9708237,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:42.9708950,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:42.9710390,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:42.9711390,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:42.9712734,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:42.9713669,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:42.9716099,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:42.9716901,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:42.9718392,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:42.9719019,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:42.9722177,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:42.9722948,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:42.9724872,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:42.9726057,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:42.9728239,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:42.9729065,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:42.9731135,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:42.9731861,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:42.9733184,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:42.9733725,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:42.9735138,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:42.9735648,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:42.9737189,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:42.9737797,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:42.9739050,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:42.9739544,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:42.9741232,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:42.9742054,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:42.9743416,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:42.9744232,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:42.9745718,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:42.9746265,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:42.9747928,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:42.9748656,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:42.9750047,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:42.9750793,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:42.9752791,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:42.9753551,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:42.9754965,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:42.9755551,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:42.9756729,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:42.9757265,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:42.9759111,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:42.9759729,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:42.9761065,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:42.9761862,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:42.9763723,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:42.9764493,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:42.9765870,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:42.9766447,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:42.9767688,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:42.9768352,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:42.9769530,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:42.9769962,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:42.9772539,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:42.9773400,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:42.9775073,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:42.9776000,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:42.9777543,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:42.9778206,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:42.9779339,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:42.9779842,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:42.9782139,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:42.9782885,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:42.9785093,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:42.9785739,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:42.9786911,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:42.9787894,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:42.9789553,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:42.9790549,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:42.9792005,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:42.9792842,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:42.9794262,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:42.9794776,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:42.9796010,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:42.9796716,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:42.9797900,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:42.9798459,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:42.9799647,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:42.9800147,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:42.9801231,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:42.9801635,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:42.9804464,i_view64.exe,CreateFile,C:\Windows\System32\uxtheme.dll,SUCCESS
+12:29:42.9806798,i_view64.exe,CreateFile,C:\Windows\System32\uxtheme.dll,SUCCESS
+12:29:42.9809389,i_view64.exe,Load Image,C:\Windows\System32\uxtheme.dll,SUCCESS
+12:29:42.9811210,i_view64.exe,Load Image,C:\Windows\System32\combase.dll,SUCCESS
+12:29:42.9832267,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:42.9833005,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:42.9836365,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\muestras\rojo10.png,SUCCESS
+12:29:42.9849177,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia,SUCCESS
+12:29:42.9850847,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\muestras,SUCCESS
+12:29:42.9852129,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\muestras,SUCCESS
+12:29:42.9857258,i_view64.exe,CreateFile,C:\Windows\Globalization\Sorting\SortDefault.nls,SUCCESS
+12:29:42.9866675,i_view64.exe,Load Image,C:\Windows\System32\msctf.dll,SUCCESS
+12:29:42.9892585,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\muestras\rojo10.png,SUCCESS
+12:29:42.9893284,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\muestras\rojo10.png,SUCCESS
+12:29:42.9894871,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\muestras\rojo10.png,SUCCESS
+12:29:42.9895568,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\muestras\rojo10.png,SUCCESS
+12:29:42.9898274,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\muestras,SUCCESS
+12:29:42.9899674,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:42.9900483,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:42.9902137,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:42.9902884,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:42.9904432,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:42.9905020,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:42.9906602,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\muestras\minimo_irfan.bmp,SUCCESS
+12:29:42.9907721,i_view64.exe,WriteFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\muestras\minimo_irfan.bmp,SUCCESS
+12:29:42.9934414,i_view64.exe,RegSetValue,HKLM\System\CurrentControlSet\Services\bam\State\UserSettings\S-1-5-21-1124032440-1125344418-2380053577-1001\\Device\HarddiskVolume3\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.exe,SUCCESS
+12:29:43.0023084,i_view64.exe,Load Image,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.exe,SUCCESS
+12:29:43.0023805,i_view64.exe,Load Image,C:\Windows\System32\ntdll.dll,SUCCESS
+12:29:43.0032840,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia,SUCCESS
+12:29:43.0034823,i_view64.exe,Load Image,C:\Windows\System32\kernel32.dll,SUCCESS
+12:29:43.0036200,i_view64.exe,Load Image,C:\Windows\System32\KernelBase.dll,SUCCESS
+12:29:43.0050659,i_view64.exe,CreateFile,C:\Windows\WinSxS\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.26100.9818_none_3e071914e3359bdd,SUCCESS
+12:29:43.0052728,i_view64.exe,Load Image,C:\Windows\System32\user32.dll,SUCCESS
+12:29:43.0053750,i_view64.exe,CreateFile,C:\Windows\WinSxS\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.26100.9818_none_3e071914e3359bdd\comctl32.dll,SUCCESS
+12:29:43.0054942,i_view64.exe,Load Image,C:\Windows\System32\win32u.dll,SUCCESS
+12:29:43.0055054,i_view64.exe,CreateFile,C:\Windows\WinSxS\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.26100.9818_none_3e071914e3359bdd\comctl32.dll,SUCCESS
+12:29:43.0056780,i_view64.exe,Load Image,C:\Windows\System32\gdi32.dll,SUCCESS
+12:29:43.0057339,i_view64.exe,Load Image,C:\Windows\WinSxS\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.26100.9818_none_3e071914e3359bdd\comctl32.dll,SUCCESS
+12:29:43.0058389,i_view64.exe,Load Image,C:\Windows\System32\gdi32full.dll,SUCCESS
+12:29:43.0059454,i_view64.exe,Load Image,C:\Windows\System32\msvcrt.dll,SUCCESS
+12:29:43.0060144,i_view64.exe,Load Image,C:\Windows\System32\msvcp_win.dll,SUCCESS
+12:29:43.0062025,i_view64.exe,Load Image,C:\Windows\System32\ucrtbase.dll,SUCCESS
+12:29:43.0064329,i_view64.exe,Load Image,C:\Windows\System32\advapi32.dll,SUCCESS
+12:29:43.0065644,i_view64.exe,Load Image,C:\Windows\System32\sechost.dll,SUCCESS
+12:29:43.0067190,i_view64.exe,Load Image,C:\Windows\System32\rpcrt4.dll,SUCCESS
+12:29:43.0069080,i_view64.exe,Load Image,C:\Windows\System32\shell32.dll,SUCCESS
+12:29:43.0086098,i_view64.exe,CreateFile,C:\Windows\System32\imm32.dll,SUCCESS
+12:29:43.0091583,i_view64.exe,CreateFile,C:\Windows\System32\imm32.dll,SUCCESS
+12:29:43.0094769,i_view64.exe,Load Image,C:\Windows\System32\imm32.dll,SUCCESS
+12:29:43.0120255,i_view64.exe,CreateFile,C:\Windows\WindowsShell.Manifest,SUCCESS
+12:29:43.0139763,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.0140762,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.0142434,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.0143000,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.0146126,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.0146641,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.0147924,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.0148351,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.0149542,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.0149956,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.0150930,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.0151301,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.0152229,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.0152636,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.0153575,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.0154106,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.0155113,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.0155763,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.0156822,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.0157213,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.0158090,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.0158567,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.0159517,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.0159877,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.0160775,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.0161180,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.0162066,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.0162461,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.0163394,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.0163757,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.0164658,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.0165008,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.0166059,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.0166439,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.0167320,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.0167678,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.0168656,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.0169030,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.0170098,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.0170484,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.0171413,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.0171770,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.0172669,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.0173203,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.0174390,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.0174784,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.0175789,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.0176175,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.0177164,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.0177704,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.0178811,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.0179186,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.0180168,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.0180770,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.0181718,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.0182256,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.0183252,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.0183696,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.0184625,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.0185285,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.0186828,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.0187768,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.0188922,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.0189440,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.0190522,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.0191119,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.0192278,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.0192672,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.0193949,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.0194465,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.0195413,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.0195799,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.0196874,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.0197379,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.0198316,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.0198736,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.0199861,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.0200294,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.0201456,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.0202024,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.0202995,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.0203377,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.0204432,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.0204895,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.0205926,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.0206580,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.0207570,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.0208065,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.0209002,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.0209370,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.0210247,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.0210631,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.0211484,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.0211823,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.0212673,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.0213010,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.0213922,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.0214366,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.0215312,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.0215665,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.0216646,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.0217110,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.0218227,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.0218974,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.0220025,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.0220451,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.0221889,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.0222893,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.0223971,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.0224406,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.0228268,i_view64.exe,CreateFile,C:\Windows\System32\uxtheme.dll,SUCCESS
+12:29:43.0231622,i_view64.exe,CreateFile,C:\Windows\System32\uxtheme.dll,SUCCESS
+12:29:43.0234964,i_view64.exe,Load Image,C:\Windows\System32\uxtheme.dll,SUCCESS
+12:29:43.0236916,i_view64.exe,Load Image,C:\Windows\System32\combase.dll,SUCCESS
+12:29:43.0258609,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.0259613,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.0261803,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\muestras\rojo10.png,SUCCESS
+12:29:43.0263196,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia,SUCCESS
+12:29:43.0264221,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\muestras,SUCCESS
+12:29:43.0266129,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\muestras,SUCCESS
+12:29:43.0271176,i_view64.exe,CreateFile,C:\Windows\Globalization\Sorting\SortDefault.nls,SUCCESS
+12:29:43.0280250,i_view64.exe,Load Image,C:\Windows\System32\msctf.dll,SUCCESS
+12:29:43.0301793,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\muestras\rojo10.png,SUCCESS
+12:29:43.0302478,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\muestras\rojo10.png,SUCCESS
+12:29:43.0304034,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\muestras\rojo10.png,SUCCESS
+12:29:43.0304603,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\muestras\rojo10.png,SUCCESS
+12:29:43.0306640,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\muestras,SUCCESS
+12:29:43.0308701,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.0309502,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.0310949,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.0311487,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.0312654,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.0313090,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.0314787,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.0315417,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.0316651,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.0317116,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.0318186,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.0318595,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.0319862,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.0320586,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.0321691,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.0322118,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.0323385,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.0324008,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.0325024,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.0325437,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.0326399,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.0326862,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.0327932,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.0328349,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.0329422,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.0329807,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.0330775,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.0331211,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.0332135,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.0332626,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.0334005,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\muestras\minimo_irfan.jpg,SUCCESS
+12:29:43.0335977,i_view64.exe,WriteFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\muestras\minimo_irfan.jpg,SUCCESS
+12:29:43.0370099,i_view64.exe,RegSetValue,HKLM\System\CurrentControlSet\Services\bam\State\UserSettings\S-1-5-21-1124032440-1125344418-2380053577-1001\\Device\HarddiskVolume3\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.exe,SUCCESS
+12:29:43.0461766,i_view64.exe,Load Image,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.exe,SUCCESS
+12:29:43.0462739,i_view64.exe,Load Image,C:\Windows\System32\ntdll.dll,SUCCESS
+12:29:43.0471790,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia,SUCCESS
+12:29:43.0473936,i_view64.exe,Load Image,C:\Windows\System32\kernel32.dll,SUCCESS
+12:29:43.0475452,i_view64.exe,Load Image,C:\Windows\System32\KernelBase.dll,SUCCESS
+12:29:43.0489595,i_view64.exe,CreateFile,C:\Windows\WinSxS\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.26100.9818_none_3e071914e3359bdd,SUCCESS
+12:29:43.0491452,i_view64.exe,Load Image,C:\Windows\System32\user32.dll,SUCCESS
+12:29:43.0492814,i_view64.exe,CreateFile,C:\Windows\WinSxS\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.26100.9818_none_3e071914e3359bdd\comctl32.dll,SUCCESS
+12:29:43.0493349,i_view64.exe,Load Image,C:\Windows\System32\win32u.dll,SUCCESS
+12:29:43.0494020,i_view64.exe,CreateFile,C:\Windows\WinSxS\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.26100.9818_none_3e071914e3359bdd\comctl32.dll,SUCCESS
+12:29:43.0495011,i_view64.exe,Load Image,C:\Windows\System32\gdi32.dll,SUCCESS
+12:29:43.0495479,i_view64.exe,Load Image,C:\Windows\WinSxS\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.26100.9818_none_3e071914e3359bdd\comctl32.dll,SUCCESS
+12:29:43.0496407,i_view64.exe,Load Image,C:\Windows\System32\gdi32full.dll,SUCCESS
+12:29:43.0497069,i_view64.exe,Load Image,C:\Windows\System32\msvcrt.dll,SUCCESS
+12:29:43.0497627,i_view64.exe,Load Image,C:\Windows\System32\msvcp_win.dll,SUCCESS
+12:29:43.0498737,i_view64.exe,Load Image,C:\Windows\System32\ucrtbase.dll,SUCCESS
+12:29:43.0501280,i_view64.exe,Load Image,C:\Windows\System32\advapi32.dll,SUCCESS
+12:29:43.0502533,i_view64.exe,Load Image,C:\Windows\System32\sechost.dll,SUCCESS
+12:29:43.0504828,i_view64.exe,Load Image,C:\Windows\System32\rpcrt4.dll,SUCCESS
+12:29:43.0506762,i_view64.exe,Load Image,C:\Windows\System32\shell32.dll,SUCCESS
+12:29:43.0518731,i_view64.exe,CreateFile,C:\Windows\System32\imm32.dll,SUCCESS
+12:29:43.0520192,i_view64.exe,CreateFile,C:\Windows\System32\imm32.dll,SUCCESS
+12:29:43.0522563,i_view64.exe,Load Image,C:\Windows\System32\imm32.dll,SUCCESS
+12:29:43.0563444,i_view64.exe,CreateFile,C:\Windows\WindowsShell.Manifest,SUCCESS
+12:29:43.0586857,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.0587617,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.0589277,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.0589982,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.0591433,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.0592098,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.0593950,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.0594464,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.0595538,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.0595932,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.0596930,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.0597326,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.0598315,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.0598685,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.0599646,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.0600020,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.0601352,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.0601775,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.0602742,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.0603152,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.0604103,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.0604459,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.0605349,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.0605707,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.0606574,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.0606940,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.0608004,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.0608394,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.0609338,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.0609730,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.0611212,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.0611836,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.0612903,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.0613290,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.0614243,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.0614624,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.0615577,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.0616001,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.0617021,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.0617463,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.0618571,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.0618996,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.0619950,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.0620371,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.0621457,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.0621870,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.0622803,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.0623202,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.0624098,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.0624610,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.0625539,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.0626211,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.0627780,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.0628664,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.0630199,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.0630611,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.0631604,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.0632211,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.0633227,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.0633781,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.0634766,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.0635158,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.0636476,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.0636934,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.0637979,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.0638450,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.0639422,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.0639824,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.0640773,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.0641463,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.0642742,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.0643202,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.0644227,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.0644611,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.0645578,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.0646114,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.0647085,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.0647920,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.0648898,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.0649297,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.0650539,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.0650931,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.0652019,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.0652648,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.0653709,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.0654181,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.0655153,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.0655518,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.0656451,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.0656802,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.0657637,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.0658014,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.0659398,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.0659847,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.0660865,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.0661266,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.0662148,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.0662500,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.0663341,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.0663723,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.0664669,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.0665089,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.0665967,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.0666326,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.0667206,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.0667626,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.0668816,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.0669216,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.0670147,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.0670507,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.0672593,i_view64.exe,CreateFile,C:\Windows\System32\uxtheme.dll,SUCCESS
+12:29:43.0673715,i_view64.exe,CreateFile,C:\Windows\System32\uxtheme.dll,SUCCESS
+12:29:43.0675690,i_view64.exe,Load Image,C:\Windows\System32\uxtheme.dll,SUCCESS
+12:29:43.0677227,i_view64.exe,Load Image,C:\Windows\System32\combase.dll,SUCCESS
+12:29:43.0706905,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.0707638,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.0709497,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\muestras\rojo10.png,SUCCESS
+12:29:43.0711200,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia,SUCCESS
+12:29:43.0712176,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\muestras,SUCCESS
+12:29:43.0713786,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\muestras,SUCCESS
+12:29:43.0718020,i_view64.exe,CreateFile,C:\Windows\Globalization\Sorting\SortDefault.nls,SUCCESS
+12:29:43.0726662,i_view64.exe,Load Image,C:\Windows\System32\msctf.dll,SUCCESS
+12:29:43.0744078,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\muestras\rojo10.png,SUCCESS
+12:29:43.0744647,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\muestras\rojo10.png,SUCCESS
+12:29:43.0746507,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\muestras\rojo10.png,SUCCESS
+12:29:43.0747151,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\muestras\rojo10.png,SUCCESS
+12:29:43.0749466,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\muestras,SUCCESS
+12:29:43.0751152,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.0751707,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.0752870,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.0753295,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.0754314,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.0754676,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.0755653,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.0756057,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.0756944,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.0757309,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.0784195,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.0784736,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.0786026,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.0786450,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.0787628,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.0788027,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.0789131,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\muestras\minimo_irfan.gif,SUCCESS
+12:29:43.0791864,i_view64.exe,WriteFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\muestras\minimo_irfan.gif,SUCCESS
+12:29:43.0821989,i_view64.exe,RegSetValue,HKLM\System\CurrentControlSet\Services\bam\State\UserSettings\S-1-5-21-1124032440-1125344418-2380053577-1001\\Device\HarddiskVolume3\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.exe,SUCCESS
+12:29:43.0904615,i_view64.exe,Load Image,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.exe,SUCCESS
+12:29:43.0905444,i_view64.exe,Load Image,C:\Windows\System32\ntdll.dll,SUCCESS
+12:29:43.0913703,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia,SUCCESS
+12:29:43.0915583,i_view64.exe,Load Image,C:\Windows\System32\kernel32.dll,SUCCESS
+12:29:43.0916981,i_view64.exe,Load Image,C:\Windows\System32\KernelBase.dll,SUCCESS
+12:29:43.0930978,i_view64.exe,CreateFile,C:\Windows\WinSxS\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.26100.9818_none_3e071914e3359bdd,SUCCESS
+12:29:43.0933290,i_view64.exe,Load Image,C:\Windows\System32\user32.dll,SUCCESS
+12:29:43.0933991,i_view64.exe,CreateFile,C:\Windows\WinSxS\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.26100.9818_none_3e071914e3359bdd\comctl32.dll,SUCCESS
+12:29:43.0935196,i_view64.exe,CreateFile,C:\Windows\WinSxS\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.26100.9818_none_3e071914e3359bdd\comctl32.dll,SUCCESS
+12:29:43.0936138,i_view64.exe,Load Image,C:\Windows\System32\win32u.dll,SUCCESS
+12:29:43.0936589,i_view64.exe,Load Image,C:\Windows\WinSxS\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.26100.9818_none_3e071914e3359bdd\comctl32.dll,SUCCESS
+12:29:43.0938251,i_view64.exe,Load Image,C:\Windows\System32\msvcrt.dll,SUCCESS
+12:29:43.0938323,i_view64.exe,Load Image,C:\Windows\System32\gdi32.dll,SUCCESS
+12:29:43.0940130,i_view64.exe,Load Image,C:\Windows\System32\gdi32full.dll,SUCCESS
+12:29:43.0941553,i_view64.exe,Load Image,C:\Windows\System32\msvcp_win.dll,SUCCESS
+12:29:43.0942574,i_view64.exe,Load Image,C:\Windows\System32\ucrtbase.dll,SUCCESS
+12:29:43.0944924,i_view64.exe,Load Image,C:\Windows\System32\advapi32.dll,SUCCESS
+12:29:43.0946426,i_view64.exe,Load Image,C:\Windows\System32\sechost.dll,SUCCESS
+12:29:43.0947803,i_view64.exe,Load Image,C:\Windows\System32\rpcrt4.dll,SUCCESS
+12:29:43.0949305,i_view64.exe,Load Image,C:\Windows\System32\shell32.dll,SUCCESS
+12:29:43.0962350,i_view64.exe,CreateFile,C:\Windows\System32\imm32.dll,SUCCESS
+12:29:43.0964020,i_view64.exe,CreateFile,C:\Windows\System32\imm32.dll,SUCCESS
+12:29:43.0966382,i_view64.exe,Load Image,C:\Windows\System32\imm32.dll,SUCCESS
+12:29:43.0988967,i_view64.exe,CreateFile,C:\Windows\WindowsShell.Manifest,SUCCESS
+12:29:43.1015457,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.1016445,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.1017997,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.1018575,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.1020042,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.1020562,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.1022275,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.1022889,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.1024656,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.1025121,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.1026464,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.1027274,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.1028387,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.1029151,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.1030832,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.1031894,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.1033201,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.1033623,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.1034722,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.1035410,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.1036448,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.1036869,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.1037997,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.1038385,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.1039906,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.1040427,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.1041467,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.1041944,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.1043076,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.1043466,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.1044814,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.1045240,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.1046502,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.1046922,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.1048023,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.1048961,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.1050512,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.1050965,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.1052285,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.1052749,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.1053943,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.1054355,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.1055629,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.1056165,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.1057239,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.1057640,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.1058838,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.1059268,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.1060213,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.1060890,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.1062688,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.1063372,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.1064699,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.1065271,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.1066355,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.1067013,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.1068540,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.1069360,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.1070488,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.1071006,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.1072186,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.1072606,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.1073524,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.1073885,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.1074745,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.1075100,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.1075994,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.1076395,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.1077255,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.1077609,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.1078497,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.1078851,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.1079693,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.1080041,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.1080888,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.1081230,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.1082060,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.1082401,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.1083218,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.1083563,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.1084396,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.1084728,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.1085548,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.1085887,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.1086712,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.1087064,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.1087937,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.1088364,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.1089456,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.1089824,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.1090700,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.1091055,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.1091956,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.1092305,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.1093275,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.1093880,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.1094747,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.1095366,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.1096237,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.1096787,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.1097790,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.1098168,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.1099316,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.1099698,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.1100650,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.1101187,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.1102356,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.1102836,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.1103712,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.1104082,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.1113181,i_view64.exe,CreateFile,C:\Windows\System32\uxtheme.dll,SUCCESS
+12:29:43.1114636,i_view64.exe,CreateFile,C:\Windows\System32\uxtheme.dll,SUCCESS
+12:29:43.1117132,i_view64.exe,Load Image,C:\Windows\System32\uxtheme.dll,SUCCESS
+12:29:43.1118828,i_view64.exe,Load Image,C:\Windows\System32\combase.dll,SUCCESS
+12:29:43.1156228,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.1156911,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.1158727,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\muestras\rojo10.png,SUCCESS
+12:29:43.1159882,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia,SUCCESS
+12:29:43.1161677,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\muestras,SUCCESS
+12:29:43.1163246,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\muestras,SUCCESS
+12:29:43.1167853,i_view64.exe,CreateFile,C:\Windows\Globalization\Sorting\SortDefault.nls,SUCCESS
+12:29:43.1176365,i_view64.exe,Load Image,C:\Windows\System32\msctf.dll,SUCCESS
+12:29:43.1194206,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\muestras\rojo10.png,SUCCESS
+12:29:43.1194793,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\muestras\rojo10.png,SUCCESS
+12:29:43.1196112,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\muestras\rojo10.png,SUCCESS
+12:29:43.1196618,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\muestras\rojo10.png,SUCCESS
+12:29:43.1198457,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\muestras,SUCCESS
+12:29:43.1199642,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.1200677,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.1202173,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.1202685,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.1203885,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.1204340,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.1205542,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.1205948,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.1206950,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.1207434,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.1208830,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\muestras\minimo_irfan.tif,SUCCESS
+12:29:43.1210199,i_view64.exe,WriteFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\muestras\minimo_irfan.tif,SUCCESS
+12:29:43.1211069,i_view64.exe,WriteFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\muestras\minimo_irfan.tif,FAST IO DISALLOWED
+12:29:43.1211155,i_view64.exe,WriteFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\muestras\minimo_irfan.tif,SUCCESS
+12:29:43.1211360,i_view64.exe,WriteFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\muestras\minimo_irfan.tif,FAST IO DISALLOWED
+12:29:43.1211426,i_view64.exe,WriteFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\muestras\minimo_irfan.tif,SUCCESS
+12:29:43.1211579,i_view64.exe,WriteFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\muestras\minimo_irfan.tif,FAST IO DISALLOWED
+12:29:43.1211642,i_view64.exe,WriteFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\muestras\minimo_irfan.tif,SUCCESS
+12:29:43.1211804,i_view64.exe,WriteFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\muestras\minimo_irfan.tif,FAST IO DISALLOWED
+12:29:43.1211867,i_view64.exe,WriteFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\muestras\minimo_irfan.tif,SUCCESS
+12:29:43.1212090,i_view64.exe,WriteFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\muestras\minimo_irfan.tif,FAST IO DISALLOWED
+12:29:43.1212153,i_view64.exe,WriteFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\muestras\minimo_irfan.tif,SUCCESS
+12:29:43.1212493,i_view64.exe,WriteFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\muestras\minimo_irfan.tif,FAST IO DISALLOWED
+12:29:43.1212667,i_view64.exe,WriteFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\muestras\minimo_irfan.tif,SUCCESS
+12:29:43.1213090,i_view64.exe,WriteFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\muestras\minimo_irfan.tif,FAST IO DISALLOWED
+12:29:43.1213279,i_view64.exe,WriteFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\muestras\minimo_irfan.tif,SUCCESS
+12:29:43.1213546,i_view64.exe,WriteFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\muestras\minimo_irfan.tif,FAST IO DISALLOWED
+12:29:43.1213616,i_view64.exe,WriteFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\muestras\minimo_irfan.tif,SUCCESS
+12:29:43.1213722,i_view64.exe,WriteFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\muestras\minimo_irfan.tif,FAST IO DISALLOWED
+12:29:43.1213790,i_view64.exe,WriteFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\muestras\minimo_irfan.tif,SUCCESS
+12:29:43.1213909,i_view64.exe,WriteFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\muestras\minimo_irfan.tif,FAST IO DISALLOWED
+12:29:43.1214057,i_view64.exe,WriteFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\muestras\minimo_irfan.tif,SUCCESS
+12:29:43.1214189,i_view64.exe,WriteFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\muestras\minimo_irfan.tif,FAST IO DISALLOWED
+12:29:43.1214255,i_view64.exe,WriteFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\muestras\minimo_irfan.tif,SUCCESS
+12:29:43.1214357,i_view64.exe,WriteFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\muestras\minimo_irfan.tif,FAST IO DISALLOWED
+12:29:43.1214425,i_view64.exe,WriteFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\muestras\minimo_irfan.tif,SUCCESS
+12:29:43.1214532,i_view64.exe,WriteFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\muestras\minimo_irfan.tif,SUCCESS
+12:29:43.1238910,i_view64.exe,RegSetValue,HKLM\System\CurrentControlSet\Services\bam\State\UserSettings\S-1-5-21-1124032440-1125344418-2380053577-1001\\Device\HarddiskVolume3\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.exe,SUCCESS
+12:29:43.1335589,i_view64.exe,Load Image,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.exe,SUCCESS
+12:29:43.1336241,i_view64.exe,Load Image,C:\Windows\System32\ntdll.dll,SUCCESS
+12:29:43.1344361,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia,SUCCESS
+12:29:43.1346589,i_view64.exe,Load Image,C:\Windows\System32\kernel32.dll,SUCCESS
+12:29:43.1347962,i_view64.exe,Load Image,C:\Windows\System32\KernelBase.dll,SUCCESS
+12:29:43.1360388,i_view64.exe,CreateFile,C:\Windows\WinSxS\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.26100.9818_none_3e071914e3359bdd,SUCCESS
+12:29:43.1362203,i_view64.exe,Load Image,C:\Windows\System32\user32.dll,SUCCESS
+12:29:43.1363816,i_view64.exe,CreateFile,C:\Windows\WinSxS\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.26100.9818_none_3e071914e3359bdd\comctl32.dll,SUCCESS
+12:29:43.1364083,i_view64.exe,Load Image,C:\Windows\System32\win32u.dll,SUCCESS
+12:29:43.1365883,i_view64.exe,CreateFile,C:\Windows\WinSxS\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.26100.9818_none_3e071914e3359bdd\comctl32.dll,SUCCESS
+12:29:43.1366488,i_view64.exe,Load Image,C:\Windows\System32\gdi32.dll,SUCCESS
+12:29:43.1367459,i_view64.exe,Load Image,C:\Windows\WinSxS\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.26100.9818_none_3e071914e3359bdd\comctl32.dll,SUCCESS
+12:29:43.1367899,i_view64.exe,Load Image,C:\Windows\System32\gdi32full.dll,SUCCESS
+12:29:43.1369396,i_view64.exe,Load Image,C:\Windows\System32\msvcrt.dll,SUCCESS
+12:29:43.1370542,i_view64.exe,Load Image,C:\Windows\System32\msvcp_win.dll,SUCCESS
+12:29:43.1372842,i_view64.exe,Load Image,C:\Windows\System32\ucrtbase.dll,SUCCESS
+12:29:43.1375213,i_view64.exe,Load Image,C:\Windows\System32\advapi32.dll,SUCCESS
+12:29:43.1376656,i_view64.exe,Load Image,C:\Windows\System32\sechost.dll,SUCCESS
+12:29:43.1377988,i_view64.exe,Load Image,C:\Windows\System32\rpcrt4.dll,SUCCESS
+12:29:43.1379338,i_view64.exe,Load Image,C:\Windows\System32\shell32.dll,SUCCESS
+12:29:43.1393201,i_view64.exe,CreateFile,C:\Windows\System32\imm32.dll,SUCCESS
+12:29:43.1396142,i_view64.exe,CreateFile,C:\Windows\System32\imm32.dll,SUCCESS
+12:29:43.1399343,i_view64.exe,Load Image,C:\Windows\System32\imm32.dll,SUCCESS
+12:29:43.1425259,i_view64.exe,CreateFile,C:\Windows\WindowsShell.Manifest,SUCCESS
+12:29:43.1442365,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.1443094,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.1444561,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.1445263,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.1446476,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.1446962,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.1448032,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.1448448,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.1449496,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.1449865,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.1450916,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.1451321,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.1452372,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.1452809,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.1453846,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.1454252,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.1455244,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.1455673,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.1456808,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.1457192,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.1458186,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.1458784,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.1460694,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.1461518,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.1462785,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.1463209,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.1464266,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.1464938,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.1465890,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.1466269,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.1467178,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.1467585,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.1468531,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.1468998,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.1469876,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.1470241,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.1471200,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.1471572,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.1472793,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.1473200,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.1474062,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.1474654,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.1475577,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.1476163,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.1477243,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.1477638,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.1478547,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.1478947,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.1480185,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.1480578,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.1482011,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.1482378,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.1483338,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.1483729,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.1484600,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.1484964,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.1485834,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.1486188,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.1487183,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.1487563,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.1488507,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.1488906,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.1489821,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.1490456,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.1492489,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.1493341,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.1494811,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.1495247,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.1496205,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.1496591,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.1497599,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.1498024,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.1498919,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.1499305,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.1500215,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.1500655,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.1501736,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.1502115,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.1503019,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.1503422,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.1504287,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.1504669,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.1505515,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.1505879,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.1506834,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.1507200,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.1508112,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.1508466,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.1509321,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.1509677,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.1510558,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.1510940,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.1511837,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.1512210,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.1513148,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.1513502,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.1514554,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.1514908,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.1515765,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.1516154,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.1517184,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.1517550,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.1518607,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.1519004,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.1519940,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.1520303,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.1521324,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.1521687,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.1522672,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.1523078,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.1525846,i_view64.exe,CreateFile,C:\Windows\System32\uxtheme.dll,SUCCESS
+12:29:43.1527771,i_view64.exe,CreateFile,C:\Windows\System32\uxtheme.dll,SUCCESS
+12:29:43.1529817,i_view64.exe,Load Image,C:\Windows\System32\uxtheme.dll,SUCCESS
+12:29:43.1531308,i_view64.exe,Load Image,C:\Windows\System32\combase.dll,SUCCESS
+12:29:43.1594327,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.1595698,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.1597809,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\muestras\rojo10.png,SUCCESS
+12:29:43.1599102,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia,SUCCESS
+12:29:43.1600055,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\muestras,SUCCESS
+12:29:43.1601084,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\muestras,SUCCESS
+12:29:43.1606030,i_view64.exe,CreateFile,C:\Windows\Globalization\Sorting\SortDefault.nls,SUCCESS
+12:29:43.1616399,i_view64.exe,Load Image,C:\Windows\System32\msctf.dll,SUCCESS
+12:29:43.1635406,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\muestras\rojo10.png,SUCCESS
+12:29:43.1636021,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\muestras\rojo10.png,SUCCESS
+12:29:43.1637402,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\muestras\rojo10.png,SUCCESS
+12:29:43.1637923,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\muestras\rojo10.png,SUCCESS
+12:29:43.1640185,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\muestras,SUCCESS
+12:29:43.1641604,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.1642270,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.1643629,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.1644190,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.1646047,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.1646520,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.1647780,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.1648230,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.1649783,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.1650286,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.1651490,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.1651950,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.1653097,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.1653541,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.1654737,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\muestras\minimo_irfan.png,SUCCESS
+12:29:43.1655427,i_view64.exe,ReadFile,C:\$Extend\$UsnJrnl:$J:$DATA,SUCCESS
+12:29:43.1656928,i_view64.exe,WriteFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\muestras\minimo_irfan.png,SUCCESS
+12:29:43.1684605,i_view64.exe,RegSetValue,HKLM\System\CurrentControlSet\Services\bam\State\UserSettings\S-1-5-21-1124032440-1125344418-2380053577-1001\\Device\HarddiskVolume3\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.exe,SUCCESS
+12:29:43.1772125,i_view64.exe,Load Image,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.exe,SUCCESS
+12:29:43.1772837,i_view64.exe,Load Image,C:\Windows\System32\ntdll.dll,SUCCESS
+12:29:43.1781749,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia,SUCCESS
+12:29:43.1784566,i_view64.exe,Load Image,C:\Windows\System32\kernel32.dll,SUCCESS
+12:29:43.1786631,i_view64.exe,Load Image,C:\Windows\System32\KernelBase.dll,SUCCESS
+12:29:43.1801541,i_view64.exe,CreateFile,C:\Windows\WinSxS\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.26100.9818_none_3e071914e3359bdd,SUCCESS
+12:29:43.1803506,i_view64.exe,Load Image,C:\Windows\System32\user32.dll,SUCCESS
+12:29:43.1805087,i_view64.exe,CreateFile,C:\Windows\WinSxS\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.26100.9818_none_3e071914e3359bdd\comctl32.dll,SUCCESS
+12:29:43.1805692,i_view64.exe,Load Image,C:\Windows\System32\win32u.dll,SUCCESS
+12:29:43.1806179,i_view64.exe,CreateFile,C:\Windows\WinSxS\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.26100.9818_none_3e071914e3359bdd\comctl32.dll,SUCCESS
+12:29:43.1807373,i_view64.exe,Load Image,C:\Windows\WinSxS\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.26100.9818_none_3e071914e3359bdd\comctl32.dll,SUCCESS
+12:29:43.1808056,i_view64.exe,Load Image,C:\Windows\System32\gdi32.dll,SUCCESS
+12:29:43.1809047,i_view64.exe,Load Image,C:\Windows\System32\msvcrt.dll,SUCCESS
+12:29:43.1809522,i_view64.exe,Load Image,C:\Windows\System32\gdi32full.dll,SUCCESS
+12:29:43.1811956,i_view64.exe,Load Image,C:\Windows\System32\msvcp_win.dll,SUCCESS
+12:29:43.1813134,i_view64.exe,Load Image,C:\Windows\System32\ucrtbase.dll,SUCCESS
+12:29:43.1816363,i_view64.exe,Load Image,C:\Windows\System32\advapi32.dll,SUCCESS
+12:29:43.1817504,i_view64.exe,Load Image,C:\Windows\System32\sechost.dll,SUCCESS
+12:29:43.1819092,i_view64.exe,Load Image,C:\Windows\System32\rpcrt4.dll,SUCCESS
+12:29:43.1820302,i_view64.exe,Load Image,C:\Windows\System32\shell32.dll,SUCCESS
+12:29:43.1832166,i_view64.exe,CreateFile,C:\Windows\System32\imm32.dll,SUCCESS
+12:29:43.1833447,i_view64.exe,CreateFile,C:\Windows\System32\imm32.dll,SUCCESS
+12:29:43.1835501,i_view64.exe,Load Image,C:\Windows\System32\imm32.dll,SUCCESS
+12:29:43.1855089,i_view64.exe,CreateFile,C:\Windows\WindowsShell.Manifest,SUCCESS
+12:29:43.1870237,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.1870951,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.1872757,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.1873410,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.1874731,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.1875220,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.1876322,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.1876879,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.1878300,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.1879163,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.1880319,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.1880758,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.1881704,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.1882154,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.1883087,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.1883887,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.1885229,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.1885676,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.1886629,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.1887047,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.1887984,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.1888352,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.1889268,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.1890054,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.1891036,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.1891411,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.1892336,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.1892752,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.1893687,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.1894043,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.1895009,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.1895380,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.1896332,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.1896688,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.1897597,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.1897985,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.1899097,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.1899518,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.1900536,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.1900968,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.1902912,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.1903499,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.1904591,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.1904998,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.1905947,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.1906314,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.1907228,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.1907629,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.1908965,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.1909493,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.1910515,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.1910941,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.1911957,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.1912368,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.1913378,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.1913767,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.1914701,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.1915064,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.1915986,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.1916392,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.1917323,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.1917829,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.1918824,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.1919220,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.1920159,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.1920534,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.1921481,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.1921940,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.1922886,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.1923256,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.1924170,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.1924600,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.1925522,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.1925884,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.1926796,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.1927248,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.1929930,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.1930891,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.1933416,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.1934032,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.1935261,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.1935813,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.1936790,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.1937182,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.1943211,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.1943878,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.1952071,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.1952542,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.1953561,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.1954015,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.1955036,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.1955424,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.1956327,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.1956745,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.1957650,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.1958362,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.1959265,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.1959645,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.1960553,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.1960917,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.1961939,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.1962644,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.1964327,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.1964969,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.1966558,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.1966987,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.1968167,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.1968557,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.1969489,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.1969925,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.1972049,i_view64.exe,CreateFile,C:\Windows\System32\uxtheme.dll,SUCCESS
+12:29:43.1973493,i_view64.exe,CreateFile,C:\Windows\System32\uxtheme.dll,SUCCESS
+12:29:43.1975241,i_view64.exe,Load Image,C:\Windows\System32\uxtheme.dll,SUCCESS
+12:29:43.1976669,i_view64.exe,Load Image,C:\Windows\System32\combase.dll,SUCCESS
+12:29:43.2097942,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.2098861,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.2100770,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\muestras\rojo10.png,SUCCESS
+12:29:43.2102491,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia,SUCCESS
+12:29:43.2103445,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\muestras,SUCCESS
+12:29:43.2104837,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\muestras,SUCCESS
+12:29:43.2106409,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.2107094,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.2112986,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.2114113,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.2116316,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.2117226,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.2118947,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.2119561,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.2121615,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.2122520,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.2137055,i_view64.exe,Load Image,C:\Windows\System32\msctf.dll,SUCCESS
+12:29:43.2209860,i_view64.exe,CreateFile,C:\Windows\Fonts\StaticCache.dat,SUCCESS
+12:29:43.2210599,i_view64.exe,ReadFile,C:\Windows\Fonts\StaticCache.dat,SUCCESS
+12:29:43.2221099,i_view64.exe,CreateFile,C:\Windows\System32\TextShaping.dll,SUCCESS
+12:29:43.2224227,i_view64.exe,CreateFile,C:\Windows\System32\TextShaping.dll,SUCCESS
+12:29:43.2226829,i_view64.exe,Load Image,C:\Windows\System32\TextShaping.dll,SUCCESS
+12:29:43.2244684,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\Windows.Storage.dll,NAME NOT FOUND
+12:29:43.2246345,i_view64.exe,CreateFile,C:\Windows\System32\windows.storage.dll,SUCCESS
+12:29:43.2247772,i_view64.exe,CreateFile,C:\Windows\System32\windows.storage.dll,SUCCESS
+12:29:43.2249397,i_view64.exe,Load Image,C:\Windows\System32\windows.storage.dll,SUCCESS
+12:29:43.2260199,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.2261162,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.2262600,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.2263163,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.2264301,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.2264775,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.2265859,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.2266412,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.2272389,i_view64.exe,CreateFile,C:\Windows\Globalization\Sorting\SortDefault.nls,SUCCESS
+12:29:43.2282285,i_view64.exe,Load Image,C:\Windows\System32\shlwapi.dll,SUCCESS
+12:29:43.2295328,i_view64.exe,CreateFile,C:\Windows\WinSxS\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.26100.9818_none_3e071914e3359bdd,SUCCESS
+12:29:43.2336901,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.2337900,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.2339468,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.2340117,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.2341341,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.2341933,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.2344404,i_view64.exe,CreateFile,C:\Windows\SystemResources\USER32.dll.mun,NAME NOT FOUND
+12:29:43.2351438,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.2352136,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.2355395,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.2356017,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.2357268,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.2357790,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.2358881,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.2359341,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.2360456,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.2361368,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.2363341,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.2364034,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.2381128,i_view64.exe,ReadFile,C:\Windows\WinSxS\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.26100.9818_none_3e071914e3359bdd\comctl32.dll,SUCCESS
+12:29:43.2382349,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\SystemResources\i_view64.exe.mun,PATH NOT FOUND
+12:29:43.2383740,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.2384403,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.2390041,i_view64.exe,ReadFile,C:\Windows\WinSxS\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.26100.9818_none_3e071914e3359bdd\comctl32.dll,SUCCESS
+12:29:43.2393251,i_view64.exe,CreateFile,C:\Windows\System32\uxtheme.dll.Config,NAME NOT FOUND
+12:29:43.2394218,i_view64.exe,CreateFile,C:\Windows\System32\uxtheme.dll,SUCCESS
+12:29:43.2398986,i_view64.exe,CreateFile,C:\Windows\WinSxS\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.26100.9818_none_3e071914e3359bdd,SUCCESS
+12:29:43.2493566,i_view64.exe,CreateFile,C:\Windows\System32\rpcss.dll,SUCCESS
+12:29:43.2495266,i_view64.exe,CreateFile,C:\Windows\System32\rpcss.dll,SUCCESS
+12:29:43.2502420,i_view64.exe,CreateFile,C:\Windows\System32\kernel.appcore.dll,SUCCESS
+12:29:43.2504602,i_view64.exe,CreateFile,C:\Windows\System32\kernel.appcore.dll,SUCCESS
+12:29:43.2507930,i_view64.exe,Load Image,C:\Windows\System32\kernel.appcore.dll,SUCCESS
+12:29:43.2511936,i_view64.exe,Load Image,C:\Windows\System32\bcryptprimitives.dll,SUCCESS
+12:29:43.2537271,i_view64.exe,Load Image,C:\Windows\System32\oleaut32.dll,SUCCESS
+12:29:43.2542832,i_view64.exe,CreateFile,C:\Windows\System32\ole32.dll,SUCCESS
+12:29:43.2544699,i_view64.exe,CreateFile,C:\Windows\System32\ole32.dll,SUCCESS
+12:29:43.2583280,i_view64.exe,CreateFile,C:\Windows\System32\TextInputFramework.dll,SUCCESS
+12:29:43.2585432,i_view64.exe,CreateFile,C:\Windows\System32\TextInputFramework.dll,SUCCESS
+12:29:43.2587888,i_view64.exe,Load Image,C:\Windows\System32\TextInputFramework.dll,SUCCESS
+12:29:43.2611444,i_view64.exe,CreateFile,C:\Windows\System32\CoreMessaging.dll,SUCCESS
+12:29:43.2613598,i_view64.exe,CreateFile,C:\Windows\System32\CoreMessaging.dll,SUCCESS
+12:29:43.2615541,i_view64.exe,Load Image,C:\Windows\System32\CoreMessaging.dll,SUCCESS
+12:29:43.2629940,i_view64.exe,CreateFile,C:\Windows\System32\CoreUIComponents.dll,SUCCESS
+12:29:43.2633463,i_view64.exe,CreateFile,C:\Windows\System32\CoreUIComponents.dll,SUCCESS
+12:29:43.2635475,i_view64.exe,Load Image,C:\Windows\System32\CoreUIComponents.dll,SUCCESS
+12:29:43.2640623,i_view64.exe,CreateFile,C:\Windows\System32\WinTypes.dll,SUCCESS
+12:29:43.2642991,i_view64.exe,CreateFile,C:\Windows\System32\WinTypes.dll,SUCCESS
+12:29:43.2644899,i_view64.exe,Load Image,C:\Windows\System32\WinTypes.dll,SUCCESS
+12:29:43.2655978,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\CRYPTBASE.DLL,NAME NOT FOUND
+12:29:43.2657557,i_view64.exe,CreateFile,C:\Windows\System32\cryptbase.dll,SUCCESS
+12:29:43.2660260,i_view64.exe,CreateFile,C:\Windows\System32\cryptbase.dll,SUCCESS
+12:29:43.2662284,i_view64.exe,Load Image,C:\Windows\System32\cryptbase.dll,SUCCESS
+12:29:43.2736173,i_view64.exe,Load Image,C:\Windows\System32\SHCore.dll,SUCCESS
+12:29:43.2875313,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\muestras\rojo10.png,SUCCESS
+12:29:43.2877266,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\muestras\rojo10.png,SUCCESS
+12:29:43.2877765,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\muestras\rojo10.png,SUCCESS
+12:29:43.2879413,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\muestras\rojo10.png,SUCCESS
+12:29:43.2879855,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\muestras\rojo10.png,SUCCESS
+12:29:43.2885043,i_view64.exe,CreateFile,C:\Windows\System32\dwmapi.dll,SUCCESS
+12:29:43.2886816,i_view64.exe,CreateFile,C:\Windows\System32\dwmapi.dll,SUCCESS
+12:29:43.2889053,i_view64.exe,Load Image,C:\Windows\System32\dwmapi.dll,SUCCESS
+12:29:43.2919497,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\muestras\rojo10.png,SUCCESS
+12:29:43.2921529,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.2922393,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.2922753,i_view64.exe,WriteFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,FAST IO DISALLOWED
+12:29:43.2922873,i_view64.exe,WriteFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.2925890,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.2936769,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.2938525,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.2939191,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.2940445,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.2940929,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.2942174,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\muestras,SUCCESS
+12:29:43.2972238,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\muestras\rojo10.png,SUCCESS
+12:29:43.2973768,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\muestras,SUCCESS
+12:29:43.2975934,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.2976713,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.2988701,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.2989426,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.2990708,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.2991219,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.2992241,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.2992647,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.2993565,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.2993935,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.2994814,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.2995183,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.2996031,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.2996386,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.2997215,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.2997567,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.2998737,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.2999094,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.3000210,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.3000563,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.3001414,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.3001758,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.3002584,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.3002926,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.3003763,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.3004106,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.3004964,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.3005306,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.3006144,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.3007069,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.3008021,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.3008401,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.3024075,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.3024667,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:43.3026686,i_view64.exe,Load Image,C:\Windows\System32\ole32.dll,SUCCESS
+12:29:45.2697994,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\muestras\rojo10.png,SUCCESS
+12:29:45.2711043,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\muestras\rojo10.png,SUCCESS
+12:29:45.3002397,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\muestras\rojo10.png,SUCCESS
+12:29:45.3129818,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:45.3131210,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:45.3131677,i_view64.exe,WriteFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,FAST IO DISALLOWED
+12:29:45.3131810,i_view64.exe,WriteFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:45.3135906,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:45.3148759,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:45.3149111,i_view64.exe,WriteFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,FAST IO DISALLOWED
+12:29:45.3149240,i_view64.exe,WriteFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:45.3151610,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:45.3163688,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:45.3164038,i_view64.exe,WriteFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,FAST IO DISALLOWED
+12:29:45.3164172,i_view64.exe,WriteFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:45.3168248,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:45.3179262,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:45.3179665,i_view64.exe,WriteFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,FAST IO DISALLOWED
+12:29:45.3179803,i_view64.exe,WriteFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:45.3182171,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:45.3193479,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:45.3193832,i_view64.exe,WriteFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,FAST IO DISALLOWED
+12:29:45.3193966,i_view64.exe,WriteFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:45.3196467,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:45.3205769,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:45.3206072,i_view64.exe,WriteFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,FAST IO DISALLOWED
+12:29:45.3206195,i_view64.exe,WriteFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:45.3208329,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:45.3218015,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:45.3219771,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:45.3220688,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:45.3222162,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:45.3222956,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:45.3224183,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:45.3224763,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:45.3225822,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:45.3226409,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:45.3227873,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:45.3229529,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:45.3230886,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:45.3231578,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:45.3232695,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:45.3233245,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:45.3234302,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:45.3235159,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:45.3236890,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:45.3237646,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:45.3238864,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:45.3239428,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:45.3241258,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:45.3242065,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:45.3243200,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:45.3243881,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:45.3245011,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:45.3245551,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:45.3246800,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:45.3247298,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:45.3248306,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:45.3249130,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:45.3251438,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:45.3252830,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:45.3254501,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:45.3255252,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:45.3256584,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:45.3257499,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:45.3259011,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:45.3259647,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:45.3260806,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:45.3261304,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:45.3262392,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:45.3262853,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:45.3264265,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:45.3264877,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:45.3266162,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:45.3267051,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:45.3268255,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:45.3268927,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:45.3270106,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:45.3270585,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:45.3271620,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:45.3272077,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:45.3273085,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:45.3273791,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:45.3274872,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:45.3275336,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:45.3276331,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:45.3276902,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:45.3277832,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:45.3278368,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:45.3279411,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:45.3280145,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:45.3281771,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:45.3282528,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:45.3283703,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:45.3284260,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:45.3285468,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:45.3286003,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:45.3287046,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:45.3287779,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:45.3288798,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:45.3289351,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:45.3290529,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:45.3291039,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:45.3292035,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:45.3292508,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:45.3294950,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:45.3295989,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:45.3297438,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:45.3298157,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:45.3299298,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:45.3299853,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:45.3300911,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:45.3301417,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:45.3302439,i_view64.exe,CreateFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:45.3302948,i_view64.exe,ReadFile,C:\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.ini,SUCCESS
+12:29:45.3355554,i_view64.exe,RegSetValue,HKLM\System\CurrentControlSet\Services\bam\State\UserSettings\S-1-5-21-1124032440-1125344418-2380053577-1001\\Device\HarddiskVolume3\Users\USUARIO\Documents\Claude\tarea-ia\herramientas\irfanview\i_view64.exe,SUCCESS

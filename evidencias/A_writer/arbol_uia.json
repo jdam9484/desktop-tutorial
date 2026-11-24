@@ -1,0 +1,2998 @@
+[
+ {
+  "nivel": 0,
+  "tipo": "Window",
+  "nombre": "Sin título 1 - OpenOffice Writer",
+  "id": "",
+  "clase": "SALFRAME",
+  "atajo": "",
+  "rect": [
+   65,
+   65,
+   1505,
+   889
+  ]
+ },
+ {
+  "nivel": 1,
+  "tipo": "TitleBar",
+  "nombre": "",
+  "id": "",
+  "clase": "",
+  "atajo": null,
+  "rect": [
+   95,
+   69,
+   1495,
+   104
+  ]
+ },
+ {
+  "nivel": 2,
+  "tipo": "MenuBar",
+  "nombre": "Sistema",
+  "id": "MenuBar",
+  "clase": "",
+  "atajo": "Alt+Espacio",
+  "rect": [
+   60,
+   60,
+   82,
+   82
+  ]
+ },
+ {
+  "nivel": 3,
+  "tipo": "MenuItem",
+  "nombre": "Sistema",
+  "id": "",
+  "clase": "",
+  "atajo": "Espacio",
+  "rect": [
+   60,
+   60,
+   82,
+   82
+  ]
+ },
+ {
+  "nivel": 2,
+  "tipo": "Button",
+  "nombre": "Minimizar",
+  "id": "",
+  "clase": "",
+  "atajo": null,
+  "rect": [
+   1318,
+   66,
+   1378,
+   104
+  ]
+ },
+ {
+  "nivel": 2,
+  "tipo": "Button",
+  "nombre": "Maximizar",
+  "id": "",
+  "clase": "",
+  "atajo": null,
+  "rect": [
+   1378,
+   66,
+   1437,
+   104
+  ]
+ },
+ {
+  "nivel": 2,
+  "tipo": "Button",
+  "nombre": "Cerrar",
+  "id": "",
+  "clase": "",
+  "atajo": null,
+  "rect": [
+   1436,
+   66,
+   1496,
+   104
+  ]
+ },
+ {
+  "nivel": 1,
+  "tipo": "MenuBar",
+  "nombre": "",
+  "id": "",
+  "clase": "",
+  "atajo": "",
+  "rect": [
+   75,
+   104,
+   1495,
+   133
+  ]
+ },
+ {
+  "nivel": 2,
+  "tipo": "MenuItem",
+  "nombre": "Archivo",
+  "id": "",
+  "clase": "",
+  "atajo": "Alt+A",
+  "rect": [
+   75,
+   104,
+   141,
+   128
+  ]
+ },
+ {
+  "nivel": 2,
+  "tipo": "MenuItem",
+  "nombre": "Editar",
+  "id": "",
+  "clase": "",
+  "atajo": "Alt+E",
+  "rect": [
+   141,
+   104,
+   194,
+   128
+  ]
+ },
+ {
+  "nivel": 2,
+  "tipo": "MenuItem",
+  "nombre": "Ver",
+  "id": "",
+  "clase": "",
+  "atajo": "Alt+V",
+  "rect": [
+   194,
+   104,
+   230,
+   128
+  ]
+ },
+ {
+  "nivel": 2,
+  "tipo": "MenuItem",
+  "nombre": "Insertar",
+  "id": "",
+  "clase": "",
+  "atajo": "Alt+I",
+  "rect": [
+   230,
+   104,
+   294,
+   128
+  ]
+ },
+ {
+  "nivel": 2,
+  "tipo": "MenuItem",
+  "nombre": "Formato",
+  "id": "",
+  "clase": "",
+  "atajo": "Alt+F",
+  "rect": [
+   294,
+   104,
+   365,
+   128
+  ]
+ },
+ {
+  "nivel": 2,
+  "tipo": "MenuItem",
+  "nombre": "Tabla",
+  "id": "",
+  "clase": "",
+  "atajo": "Alt+A",
+  "rect": [
+   365,
+   104,
+   416,
+   128
+  ]
+ },
+ {
+  "nivel": 2,
+  "tipo": "MenuItem",
+  "nombre": "Herramientas",
+  "id": "",
+  "clase": "",
+  "atajo": "Alt+H",
+  "rect": [
+   416,
+   104,
+   520,
+   128
+  ]
+ },
+ {
+  "nivel": 2,
+  "tipo": "MenuItem",
+  "nombre": "Ventana",
+  "id": "",
+  "clase": "",
+  "atajo": "Alt+N",
+  "rect": [
+   520,
+   104,
+   589,
+   128
+  ]
+ },
+ {
+  "nivel": 2,
+  "tipo": "MenuItem",
+  "nombre": "Ayuda",
+  "id": "",
+  "clase": "",
+  "atajo": "Alt+U",
+  "rect": [
+   589,
+   104,
+   647,
+   128
+  ]
+ },
+ {
+  "nivel": 1,
+  "tipo": "Custom",
+  "nombre": "",
+  "id": "",
+  "clase": "",
+  "atajo": "",
+  "rect": [
+   75,
+   210,
+   1495,
+   853
+  ]
+ },
+ {
+  "nivel": 2,
+  "tipo": "Custom",
+  "nombre": "",
+  "id": "",
+  "clase": "",
+  "atajo": "",
+  "rect": [
+   75,
+   210,
+   1144,
+   853
+  ]
+ },
+ {
+  "nivel": 3,
+  "tipo": "Document",
+  "nombre": "Sin nombre 1 - Documento OpenOffice",
+  "id": "",
+  "clase": "",
+  "atajo": "",
+  "rect": [
+   111,
+   246,
+   1120,
+   829
+  ]
+ },
+ {
+  "nivel": 4,
+  "tipo": "Custom",
+  "nombre": "",
+  "id": "",
+  "clase": "",
+  "atajo": "",
+  "rect": [
+   159,
+   389,
+   1120,
+   412
+  ]
+ },
+ {
+  "nivel": 3,
+  "tipo": "Custom",
+  "nombre": "",
+  "id": "",
+  "clase": "",
+  "atajo": "",
+  "rect": [
+   1120,
+   829,
+   1141,
+   850
+  ]
+ },
+ {
+  "nivel": 3,
+  "tipo": "Custom",
+  "nombre": "Horizontal Ruler",
+  "id": "",
+  "clase": "",
+  "atajo": "",
+  "rect": [
+   78,
+   213,
+   1121,
+   247
+  ]
+ },
+ {
+  "nivel": 3,
+  "tipo": "Custom",
+  "nombre": "Vertical Ruler",
+  "id": "",
+  "clase": "",
+  "atajo": "",
+  "rect": [
+   78,
+   246,
+   112,
+   829
+  ]
+ },
+ {
+  "nivel": 3,
+  "tipo": "ScrollBar",
+  "nombre": "Horizontal scroll bar",
+  "id": "",
+  "clase": "",
+  "atajo": "",
+  "rect": [
+   78,
+   829,
+   1121,
+   850
+  ]
+ },
+ {
+  "nivel": 3,
+  "tipo": "Button",
+  "nombre": "Haga clic en el botón de flecha arriba para ir a la página o al objeto anterior.",
+  "id": "",
+  "clase": "",
+  "atajo": "",
+  "rect": [
+   1120,
+   765,
+   1141,
+   786
+  ]
+ },
+ {
+  "nivel": 3,
+  "tipo": "Button",
+  "nombre": "Haga clic en el botón de flecha abajo para ir a la siguiente página u objeto.",
+  "id": "",
+  "clase": "",
+  "atajo": "",
+  "rect": [
+   1120,
+   808,
+   1141,
+   829
+  ]
+ },
+ {
+  "nivel": 3,
+  "tipo": "Button",
+  "nombre": "Navegación",
+  "id": "",
+  "clase": "",
+  "atajo": "",
+  "rect": [
+   1120,
+   786,
+   1141,
+   807
+  ]
+ },
+ {
+  "nivel": 3,
+  "tipo": "ScrollBar",
+  "nombre": "Vertical scroll bar",
+  "id": "",
+  "clase": "",
+  "atajo": "",
+  "rect": [
+   1120,
+   213,
+   1141,
+   766
+  ]
+ },
+ {
+  "nivel": 2,
+  "tipo": "Custom",
+  "nombre": "",
+  "id": "",
+  "clase": "",
+  "atajo": "",
+  "rect": [
+   1144,
+   210,
+   1495,
+   853
+  ]
+ },
+ {
+  "nivel": 3,
+  "tipo": "Custom",
+  "nombre": "Propiedades",
+  "id": "",
+  "clase": "",
+  "atajo": "",
+  "rect": [
+   1153,
+   213,
+   1493,
+   851
+  ]
+ },
+ {
+  "nivel": 4,
+  "tipo": "Custom",
+  "nombre": "",
+  "id": "",
+  "clase": "",
+  "atajo": "",
+  "rect": [
+   1448,
+   213,
+   1493,
+   851
+  ]
+ },
+ {
+  "nivel": 5,
+  "tipo": "CheckBox",
+  "nombre": "",
+  "id": "",
+  "clase": "",
+  "atajo": "",
+  "rect": [
+   1450,
+   215,
+   1490,
+   255
+  ]
+ },
+ {
+  "nivel": 5,
+  "tipo": "RadioButton",
+  "nombre": "",
+  "id": "",
+  "clase": "",
+  "atajo": "",
+  "rect": [
+   1450,
+   264,
+   1490,
+   304
+  ]
+ },
+ {
+  "nivel": 5,
+  "tipo": "RadioButton",
+  "nombre": "",
+  "id": "",
+  "clase": "",
+  "atajo": "",
+  "rect": [
+   1450,
+   308,
+   1490,
+   348
+  ]
+ },
+ {
+  "nivel": 5,
+  "tipo": "RadioButton",
+  "nombre": "",
+  "id": "",
+  "clase": "",
+  "atajo": "",
+  "rect": [
+   1450,
+   351,
+   1490,
+   391
+  ]
+ },
+ {
+  "nivel": 5,
+  "tipo": "RadioButton",
+  "nombre": "",
+  "id": "",
+  "clase": "",
+  "atajo": "",
+  "rect": [
+   1450,
+   395,
+   1490,
+   435
+  ]
+ },
+ {
+  "nivel": 4,
+  "tipo": "Custom",
+  "nombre": "",
+  "id": "",
+  "clase": "",
+  "atajo": "",
+  "rect": [
+   1153,
+   213,
+   1448,
+   851
+  ]
+ },
+ {
+  "nivel": 5,
+  "tipo": "Custom",
+  "nombre": "Propiedades",
+  "id": "",
+  "clase": "",
+  "atajo": "",
+  "rect": [
+   1156,
+   216,
+   1444,
+   249
+  ]
+ },
+ {
+  "nivel": 6,
+  "tipo": "ToolBar",
+  "nombre": "Tool Bar",
+  "id": "",
+  "clase": "",
+  "atajo": "",
+  "rect": [
+   1423,
+   216,
+   1444,
+   249
+  ]
+ },
+ {
+  "nivel": 7,
+  "tipo": "Button",
+  "nombre": "",
+  "id": "",
+  "clase": "",
+  "atajo": "",
+  "rect": [
+   1423,
+   219,
+   1444,
+   243
+  ]
+ },
+ {
+  "nivel": 5,
+  "tipo": "Custom",
+  "nombre": "",
+  "id": "",
+  "clase": "",
+  "atajo": "",
+  "rect": [
+   1156,
+   249,
+   1444,
+   847
+  ]
+ },
+ {
+  "nivel": 6,
+  "tipo": "Custom",
+  "nombre": "",
+  "id": "",
+  "clase": "",
+  "atajo": "",
+  "rect": [
+   1156,
+   249,
+   1444,
+   847
+  ]
+ },
+ {
+  "nivel": 7,
+  "tipo": "Custom",
+  "nombre": "",
+  "id": "",
+  "clase": "",
+  "atajo": "",
+  "rect": [
+   1156,
+   283,
+   1444,
+   419
+  ]
+ },
+ {
+  "nivel": 8,
+  "tipo": "Custom",
+  "nombre": "Text",
+  "id": "",
+  "clase": "",
+  "atajo": "",
+  "rect": [
+   1156,
+   283,
+   1444,
+   419
+  ]
+ },
+ {
+  "nivel": 9,
+  "tipo": "ComboBox",
+  "nombre": "Fuente",
+  "id": "",
+  "clase": "",
+  "atajo": "",
+  "rect": [
+   1164,
+   285,
+   1362,
+   314
+  ]
+ },
+ {
+  "nivel": 10,
+  "tipo": "Edit",
+  "nombre": "Fuente",
+  "id": "",
+  "clase": "",
+  "atajo": "",
+  "rect": [
+   1165,
+   286,
+   1339,
+   312
+  ]
+ },
+ {
+  "nivel": 9,
+  "tipo": "ComboBox",
+  "nombre": "Tamaño de fuente",
+  "id": "",
+  "clase": "",
+  "atajo": "",
+  "rect": [
+   1369,
+   285,
+   1433,
+   314
+  ]
+ },
+ {
+  "nivel": 10,
+  "tipo": "Edit",
+  "nombre": "Tamaño de fuente",
+  "id": "",
+  "clase": "",
+  "atajo": "",
+  "rect": [
+   1371,
+   288,
+   1409,
+   312
+  ]
+ },
+ {
+  "nivel": 9,
+  "tipo": "Custom",
+  "nombre": "",
+  "id": "",
+  "clase": "",
+  "atajo": "",
+  "rect": [
+   1164,
+   323,
+   1339,
+   362
+  ]
+ },
+ {
+  "nivel": 10,
+  "tipo": "ToolBar",
+  "nombre": "Font Effects",
+  "id": "",
+  "clase": "",
+  "atajo": "",
+  "rect": [
+   1166,
+   325,
+   1336,
+   359
+  ]
+ },
+ {
+  "nivel": 11,
+  "tipo": "Button",
+  "nombre": "",
+  "id": "",
+  "clase": "",
+  "atajo": "",
+  "rect": [
+   1166,
+   325,
+   1197,
+   359
+  ]
+ },
+ {
+  "nivel": 11,
+  "tipo": "Button",
+  "nombre": "",
+  "id": "",
+  "clase": "",
+  "atajo": "",
+  "rect": [
+   1198,
+   325,
+   1229,
+   359
+  ]
+ },
+ {
+  "nivel": 11,
+  "tipo": "SplitButton",
+  "nombre": "",
+  "id": "",
+  "clase": "",
+  "atajo": "",
+  "rect": [
+   1229,
+   325,
+   1274,
+   359
+  ]
+ },
+ {
+  "nivel": 11,
+  "tipo": "Button",
+  "nombre": "",
+  "id": "",
+  "clase": "",
+  "atajo": "",
+  "rect": [
+   1274,
+   325,
+   1305,
+   359
+  ]
+ },
+ {
+  "nivel": 11,
+  "tipo": "Button",
+  "nombre": "",
+  "id": "",
+  "clase": "",
+  "atajo": "",
+  "rect": [
+   1305,
+   325,
+   1336,
+   359
+  ]
+ },
+ {
+  "nivel": 9,
+  "tipo": "Custom",
+  "nombre": "",
+  "id": "",
+  "clase": "",
+  "atajo": "",
+  "rect": [
+   1369,
+   323,
+   1437,
+   362
+  ]
+ },
+ {
+  "nivel": 10,
+  "tipo": "ToolBar",
+  "nombre": "Font Size Adjusting",
+  "id": "",
+  "clase": "",
+  "atajo": "",
+  "rect": [
+   1371,
+   325,
+   1434,
+   359
+  ]
+ },
+ {
+  "nivel": 11,
+  "tipo": "Button",
+  "nombre": "",
+  "id": "",
+  "clase": "",
+  "atajo": "",
+  "rect": [
+   1371,
+   325,
+   1402,
+   359
+  ]
+ },
+ {
+  "nivel": 11,
+  "tipo": "Button",
+  "nombre": "",
+  "id": "",
+  "clase": "",
+  "atajo": "",
+  "rect": [
+   1403,
+   325,
+   1434,
+   359
+  ]
+ },
+ {
+  "nivel": 9,
+  "tipo": "Custom",
+  "nombre": "",
+  "id": "",
+  "clase": "",
+  "atajo": "",
+  "rect": [
+   1164,
+   369,
+   1232,
+   408
+  ]
+ },
+ {
+  "nivel": 10,
+  "tipo": "ToolBar",
+  "nombre": "Font Position",
+  "id": "",
+  "clase": "",
+  "atajo": "",
+  "rect": [
+   1166,
+   371,
+   1229,
+   405
+  ]
+ },
+ {
+  "nivel": 11,
+  "tipo": "Button",
+  "nombre": "",
+  "id": "",
+  "clase": "",
+  "atajo": "",
+  "rect": [
+   1166,
+   371,
+   1197,
+   405
+  ]
+ },
+ {
+  "nivel": 11,
+  "tipo": "Button",
+  "nombre": "",
+  "id": "",
+  "clase": "",
+  "atajo": "",
+  "rect": [
+   1198,
+   371,
+   1229,
+   405
+  ]
+ },
+ {
+  "nivel": 9,
+  "tipo": "Custom",
+  "nombre": "",
+  "id": "",
+  "clase": "",
+  "atajo": "",
+  "rect": [
+   1241,
+   369,
+   1291,
+   408
+  ]
+ },
+ {
+  "nivel": 10,
+  "tipo": "ToolBar",
+  "nombre": "Character Spacing",
+  "id": "",
+  "clase": "",
+  "atajo": "",
+  "rect": [
+   1244,
+   371,
+   1289,
+   405
+  ]
+ },
+ {
+  "nivel": 11,
+  "tipo": "SplitButton",
+  "nombre": "",
+  "id": "",
+  "clase": "",
+  "atajo": "",
+  "rect": [
+   1244,
+   371,
+   1289,
+   405
+  ]
+ },
+ {
+  "nivel": 9,
+  "tipo": "Custom",
+  "nombre": "",
+  "id": "",
+  "clase": "",
+  "atajo": "",
+  "rect": [
+   1313,
+   369,
+   1363,
+   408
+  ]
+ },
+ {
+  "nivel": 10,
+  "tipo": "ToolBar",
+  "nombre": "Tool Bar",
+  "id": "",
+  "clase": "",
+  "atajo": "",
+  "rect": [
+   1315,
+   371,
+   1360,
+   405
+  ]
+ },
+ {
+  "nivel": 11,
+  "tipo": "SplitButton",
+  "nombre": "",
+  "id": "",
+  "clase": "",
+  "atajo": "",
+  "rect": [
+   1315,
+   371,
+   1360,
+   405
+  ]
+ },
+ {
+  "nivel": 9,
+  "tipo": "Custom",
+  "nombre": "",
+  "id": "",
+  "clase": "",
+  "atajo": "",
+  "rect": [
+   1369,
+   369,
+   1419,
+   408
+  ]
+ },
+ {
+  "nivel": 10,
+  "tipo": "ToolBar",
+  "nombre": "Highlight Color",
+  "id": "",
+  "clase": "",
+  "atajo": "",
+  "rect": [
+   1371,
+   371,
+   1416,
+   405
+  ]
+ },
+ {
+  "nivel": 11,
+  "tipo": "SplitButton",
+  "nombre": "",
+  "id": "",
+  "clase": "",
+  "atajo": "",
+  "rect": [
+   1371,
+   371,
+   1416,
+   405
+  ]
+ },
+ {
+  "nivel": 7,
+  "tipo": "Custom",
+  "nombre": "Panel: Texto",
+  "id": "",
+  "clase": "",
+  "atajo": "",
+  "rect": [
+   1156,
+   250,
+   1444,
+   283
+  ]
+ },
+ {
+  "nivel": 8,
+  "tipo": "ToolBar",
+  "nombre": "Tool Bar",
+  "id": "",
+  "clase": "",
+  "atajo": "",
+  "rect": [
+   1419,
+   250,
+   1444,
+   283
+  ]
+ },
+ {
+  "nivel": 9,
+  "tipo": "Button",
+  "nombre": "",
+  "id": "",
+  "clase": "",
+  "atajo": "",
+  "rect": [
+   1419,
+   250,
+   1444,
+   278
+  ]
+ },
+ {
+  "nivel": 7,
+  "tipo": "Custom",
+  "nombre": "",
+  "id": "",
+  "clase": "",
+  "atajo": "",
+  "rect": [
+   1156,
+   453,
+   1444,
+   739
+  ]
+ },
+ {
+  "nivel": 8,
+  "tipo": "Custom",
+  "nombre": "Paragraph",
+  "id": "",
+  "clase": "",
+  "atajo": "",
+  "rect": [
+   1156,
+   453,
+   1444,
+   739
+  ]
+ },
+ {
+  "nivel": 9,
+  "tipo": "Custom",
+  "nombre": "",
+  "id": "",
+  "clase": "",
+  "atajo": "",
+  "rect": [
+   1164,
+   453,
+   1294,
+   492
+  ]
+ },
+ {
+  "nivel": 10,
+  "tipo": "ToolBar",
+  "nombre": "Horizontal Alignment",
+  "id": "",
+  "clase": "",
+  "atajo": "",
+  "rect": [
+   1166,
+   455,
+   1291,
+   489
+  ]
+ },
+ {
+  "nivel": 11,
+  "tipo": "Button",
+  "nombre": "Alineado a la izquierda",
+  "id": "",
+  "clase": "",
+  "atajo": "",
+  "rect": [
+   1166,
+   455,
+   1197,
+   489
+  ]
+ },
+ {
+  "nivel": 11,
+  "tipo": "Button",
+  "nombre": "Alineado centrado",
+  "id": "",
+  "clase": "",
+  "atajo": "",
+  "rect": [
+   1198,
+   455,
+   1229,
+   489
+  ]
+ },
+ {
+  "nivel": 11,
+  "tipo": "Button",
+  "nombre": "Alineado a la derecha",
+  "id": "",
+  "clase": "",
+  "atajo": "",
+  "rect": [
+   1229,
+   455,
+   1260,
+   489
+  ]
+ },
+ {
+  "nivel": 11,
+  "tipo": "Button",
+  "nombre": "Alineado justificado",
+  "id": "",
+  "clase": "",
+  "atajo": "",
+  "rect": [
+   1260,
+   455,
+   1291,
+   489
+  ]
+ },
+ {
+  "nivel": 9,
+  "tipo": "Custom",
+  "nombre": "",
+  "id": "",
+  "clase": "",
+  "atajo": "",
+  "rect": [
+   1164,
+   498,
+   1259,
+   537
+  ]
+ },
+ {
+  "nivel": 10,
+  "tipo": "ToolBar",
+  "nombre": "Bullets and Numbering",
+  "id": "",
+  "clase": "",
+  "atajo": "",
+  "rect": [
+   1166,
+   500,
+   1256,
+   534
+  ]
+ },
+ {
+  "nivel": 11,
+  "tipo": "SplitButton",
+  "nombre": "Viñetas",
+  "id": "",
+  "clase": "",
+  "atajo": "",
+  "rect": [
+   1166,
+   500,
+   1211,
+   534
+  ]
+ },
+ {
+  "nivel": 11,
+  "tipo": "SplitButton",
+  "nombre": "Numeración",
+  "id": "",
+  "clase": "",
+  "atajo": "",
+  "rect": [
+   1211,
+   500,
+   1256,
+   534
+  ]
+ },
+ {
+  "nivel": 9,
+  "tipo": "Custom",
+  "nombre": "",
+  "id": "",
+  "clase": "",
+  "atajo": "",
+  "rect": [
+   1283,
+   498,
+   1351,
+   537
+  ]
+ },
+ {
+  "nivel": 10,
+  "tipo": "ToolBar",
+  "nombre": "Paragraph Background Color",
+  "id": "",
+  "clase": "",
+  "atajo": "",
+  "rect": [
+   1285,
+   500,
+   1348,
+   534
+  ]
+ },
+ {
+  "nivel": 11,
+  "tipo": "SplitButton",
+  "nombre": "Color de fondo en párrafo",
+  "id": "",
+  "clase": "",
+  "atajo": "",
+  "rect": [
+   1285,
+   500,
+   1348,
+   534
+  ]
+ },
+ {
+  "nivel": 9,
+  "tipo": "Text",
+  "nombre": "Espaciado:",
+  "id": "",
+  "clase": "",
+  "atajo": "",
+  "rect": [
+   1164,
+   539,
+   1300,
+   560
+  ]
+ },
+ {
+  "nivel": 9,
+  "tipo": "Custom",
+  "nombre": "",
+  "id": "",
+  "clase": "",
+  "atajo": "",
+  "rect": [
+   1164,
+   560,
+   1232,
+   599
+  ]
+ },
+ {
+  "nivel": 10,
+  "tipo": "ToolBar",
+  "nombre": "Spacing",
+  "id": "",
+  "clase": "",
+  "atajo": "",
+  "rect": [
+   1166,
+   563,
+   1229,
+   597
+  ]
+ },
+ {
+  "nivel": 11,
+  "tipo": "Button",
+  "nombre": "Incrementar el espaciado",
+  "id": "",
+  "clase": "",
+  "atajo": "",
+  "rect": [
+   1166,
+   563,
+   1197,
+   597
+  ]
+ },
+ {
+  "nivel": 11,
+  "tipo": "Button",
+  "nombre": "Reducir el espaciado",
+  "id": "",
+  "clase": "",
+  "atajo": "",
+  "rect": [
+   1198,
+   563,
+   1229,
+   597
+  ]
+ },
+ {
+  "nivel": 9,
+  "tipo": "Edit",
+  "nombre": "Espaciado encima del párrafo",
+  "id": "",
+  "clase": "",
+  "atajo": "Alt+s",
+  "rect": [
+   1190,
+   613,
+   1300,
+   642
+  ]
+ },
+ {
+  "nivel": 9,
+  "tipo": "Edit",
+  "nombre": "Espaciado debajo del párrafo",
+  "id": "",
+  "clase": "",
+  "atajo": "Alt+s",
+  "rect": [
+   1190,
+   651,
+   1300,
+   680
+  ]
+ },
+ {
+  "nivel": 9,
+  "tipo": "Custom",
+  "nombre": "",
+  "id": "",
+  "clase": "",
+  "atajo": "",
+  "rect": [
+   1164,
+   689,
+   1217,
+   728
+  ]
+ },
+ {
+  "nivel": 10,
+  "tipo": "ToolBar",
+  "nombre": "Line Spacing",
+  "id": "",
+  "clase": "",
+  "atajo": "",
+  "rect": [
+   1166,
+   691,
+   1214,
+   725
+  ]
+ },
+ {
+  "nivel": 11,
+  "tipo": "SplitButton",
+  "nombre": "Interlineado",
+  "id": "",
+  "clase": "",
+  "atajo": "",
+  "rect": [
+   1166,
+   691,
+   1214,
+   725
+  ]
+ },
+ {
+  "nivel": 9,
+  "tipo": "Text",
+  "nombre": "Sangría:",
+  "id": "",
+  "clase": "",
+  "atajo": "",
+  "rect": [
+   1308,
+   539,
+   1437,
+   560
+  ]
+ },
+ {
+  "nivel": 9,
+  "tipo": "Custom",
+  "nombre": "",
+  "id": "",
+  "clase": "",
+  "atajo": "",
+  "rect": [
+   1308,
+   560,
+   1413,
+   599
+  ]
+ },
+ {
+  "nivel": 10,
+  "tipo": "ToolBar",
+  "nombre": "Indent",
+  "id": "",
+  "clase": "",
+  "atajo": "",
+  "rect": [
+   1310,
+   563,
+   1410,
+   597
+  ]
+ },
+ {
+  "nivel": 11,
+  "tipo": "Button",
+  "nombre": "Disminuir sangría",
+  "id": "",
+  "clase": "",
+  "atajo": "",
+  "rect": [
+   1310,
+   563,
+   1341,
+   597
+  ]
+ },
+ {
+  "nivel": 11,
+  "tipo": "Button",
+  "nombre": "Aumentar sangría",
+  "id": "",
+  "clase": "",
+  "atajo": "",
+  "rect": [
+   1341,
+   563,
+   1372,
+   597
+  ]
+ },
+ {
+  "nivel": 11,
+  "tipo": "Button",
+  "nombre": "Cambiar a sangría francesa",
+  "id": "",
+  "clase": "",
+  "atajo": "",
+  "rect": [
+   1373,
+   563,
+   1411,
+   597
+  ]
+ },
+ {
+  "nivel": 9,
+  "tipo": "Edit",
+  "nombre": "Sangría anterior al texto",
+  "id": "",
+  "clase": "",
+  "atajo": "Alt+S",
+  "rect": [
+   1334,
+   613,
+   1437,
+   642
+  ]
+ },
+ {
+  "nivel": 9,
+  "tipo": "Edit",
+  "nombre": "Sangría posterior al texto",
+  "id": "",
+  "clase": "",
+  "atajo": "Alt+S",
+  "rect": [
+   1334,
+   651,
+   1437,
+   680
+  ]
+ },
+ {
+  "nivel": 9,
+  "tipo": "Edit",
+  "nombre": "Sangría de primera línea",
+  "id": "",
+  "clase": "",
+  "atajo": "Alt+S",
+  "rect": [
+   1334,
+   691,
+   1437,
+   720
+  ]
+ },
+ {
+  "nivel": 9,
+  "tipo": "Custom",
+  "nombre": "",
+  "id": "",
+  "clase": "",
+  "atajo": "Alt+S",
+  "rect": [
+   1156,
+   610,
+   1190,
+   648
+  ]
+ },
+ {
+  "nivel": 9,
+  "tipo": "Custom",
+  "nombre": "",
+  "id": "",
+  "clase": "",
+  "atajo": "Alt+S",
+  "rect": [
+   1156,
+   650,
+   1190,
+   688
+  ]
+ },
+ {
+  "nivel": 9,
+  "tipo": "Custom",
+  "nombre": "",
+  "id": "",
+  "clase": "",
+  "atajo": "Alt+S",
+  "rect": [
+   1300,
+   610,
+   1334,
+   648
+  ]
+ },
+ {
+  "nivel": 9,
+  "tipo": "Custom",
+  "nombre": "",
+  "id": "",
+  "clase": "",
+  "atajo": "Alt+S",
+  "rect": [
+   1300,
+   650,
+   1334,
+   688
+  ]
+ },
+ {
+  "nivel": 9,
+  "tipo": "Custom",
+  "nombre": "",
+  "id": "",
+  "clase": "",
+  "atajo": "Alt+S",
+  "rect": [
+   1300,
+   689,
+   1334,
+   727
+  ]
+ },
+ {
+  "nivel": 7,
+  "tipo": "Custom",
+  "nombre": "Panel: Párrafo",
+  "id": "",
+  "clase": "",
+  "atajo": "",
+  "rect": [
+   1156,
+   420,
+   1444,
+   453
+  ]
+ },
+ {
+  "nivel": 8,
+  "tipo": "ToolBar",
+  "nombre": "Tool Bar",
+  "id": "",
+  "clase": "",
+  "atajo": "",
+  "rect": [
+   1419,
+   420,
+   1444,
+   453
+  ]
+ },
+ {
+  "nivel": 9,
+  "tipo": "Button",
+  "nombre": "",
+  "id": "",
+  "clase": "",
+  "atajo": "",
+  "rect": [
+   1419,
+   420,
+   1444,
+   448
+  ]
+ },
+ {
+  "nivel": 7,
+  "tipo": "Custom",
+  "nombre": "Panel: Página",
+  "id": "",
+  "clase": "",
+  "atajo": "",
+  "rect": [
+   1156,
+   740,
+   1444,
+   773
+  ]
+ },
+ {
+  "nivel": 8,
+  "tipo": "ToolBar",
+  "nombre": "Tool Bar",
+  "id": "",
+  "clase": "",
+  "atajo": "",
+  "rect": [
+   1419,
+   740,
+   1444,
+   773
+  ]
+ },
+ {
+  "nivel": 9,
+  "tipo": "Button",
+  "nombre": "",
+  "id": "",
+  "clase": "",
+  "atajo": "",
+  "rect": [
+   1419,
+   740,
+   1444,
+   768
+  ]
+ },
+ {
+  "nivel": 5,
+  "tipo": "Custom",
+  "nombre": "",
+  "id": "",
+  "clase": "",
+  "atajo": "",
+  "rect": [
+   1156,
+   774,
+   1444,
+   847
+  ]
+ },
+ {
+  "nivel": 1,
+  "tipo": "Custom",
+  "nombre": "",
+  "id": "",
+  "clase": "",
+  "atajo": "",
+  "rect": [
+   75,
+   133,
+   1495,
+   211
+  ]
+ },
+ {
+  "nivel": 2,
+  "tipo": "ToolBar",
+  "nombre": "Estándar",
+  "id": "",
+  "clase": "",
+  "atajo": "",
+  "rect": [
+   75,
+   133,
+   1088,
+   172
+  ]
+ },
+ {
+  "nivel": 3,
+  "tipo": "SplitButton",
+  "nombre": "Nuevo",
+  "id": "",
+  "clase": "",
+  "atajo": "",
+  "rect": [
+   90,
+   135,
+   135,
+   169
+  ]
+ },
+ {
+  "nivel": 3,
+  "tipo": "SplitButton",
+  "nombre": "Abrir",
+  "id": "",
+  "clase": "",
+  "atajo": "",
+  "rect": [
+   135,
+   135,
+   180,
+   169
+  ]
+ },
+ {
+  "nivel": 3,
+  "tipo": "Button",
+  "nombre": "Guardar",
+  "id": "",
+  "clase": "",
+  "atajo": "",
+  "rect": [
+   180,
+   135,
+   211,
+   169
+  ]
+ },
+ {
+  "nivel": 3,
+  "tipo": "Button",
+  "nombre": "Documento como correo electrónico",
+  "id": "",
+  "clase": "",
+  "atajo": "",
+  "rect": [
+   211,
+   135,
+   242,
+   169
+  ]
+ },
+ {
+  "nivel": 3,
+  "tipo": "Separator",
+  "nombre": "",
+  "id": "",
+  "clase": "",
+  "atajo": "",
+  "rect": [
+   243,
+   135,
+   253,
+   169
+  ]
+ },
+ {
+  "nivel": 3,
+  "tipo": "Button",
+  "nombre": "Editar archivo",
+  "id": "",
+  "clase": "",
+  "atajo": "",
+  "rect": [
+   253,
+   135,
+   284,
+   169
+  ]
+ },
+ {
+  "nivel": 3,
+  "tipo": "Separator",
+  "nombre": "",
+  "id": "",
+  "clase": "",
+  "atajo": "",
+  "rect": [
+   284,
+   135,
+   294,
+   169
+  ]
+ },
+ {
+  "nivel": 3,
+  "tipo": "Button",
+  "nombre": "Exportar directamente como PDF",
+  "id": "",
+  "clase": "",
+  "atajo": "",
+  "rect": [
+   294,
+   135,
+   325,
+   169
+  ]
+ },
+ {
+  "nivel": 3,
+  "tipo": "Button",
+  "nombre": "Imprimir archivo directamente (Nitro PDF Creator)",
+  "id": "",
+  "clase": "",
+  "atajo": "",
+  "rect": [
+   325,
+   135,
+   356,
+   169
+  ]
+ },
+ {
+  "nivel": 3,
+  "tipo": "Button",
+  "nombre": "Vista preliminar",
+  "id": "",
+  "clase": "",
+  "atajo": "",
+  "rect": [
+   356,
+   135,
+   387,
+   169
+  ]
+ },
+ {
+  "nivel": 3,
+  "tipo": "Separator",
+  "nombre": "",
+  "id": "",
+  "clase": "",
+  "atajo": "",
+  "rect": [
+   388,
+   135,
+   398,
+   169
+  ]
+ },
+ {
+  "nivel": 3,
+  "tipo": "Button",
+  "nombre": "Ortografía y gramática",
+  "id": "",
+  "clase": "",
+  "atajo": "",
+  "rect": [
+   398,
+   135,
+   429,
+   169
+  ]
+ },
+ {
+  "nivel": 3,
+  "tipo": "Button",
+  "nombre": "Revisión automática",
+  "id": "",
+  "clase": "",
+  "atajo": "",
+  "rect": [
+   429,
+   135,
+   460,
+   169
+  ]
+ },
+ {
+  "nivel": 3,
+  "tipo": "Separator",
+  "nombre": "",
+  "id": "",
+  "clase": "",
+  "atajo": "",
+  "rect": [
+   460,
+   135,
+   470,
+   169
+  ]
+ },
+ {
+  "nivel": 3,
+  "tipo": "Button",
+  "nombre": "Cortar",
+  "id": "",
+  "clase": "",
+  "atajo": "",
+  "rect": [
+   470,
+   135,
+   501,
+   169
+  ]
+ },
+ {
+  "nivel": 3,
+  "tipo": "Button",
+  "nombre": "Copiar",
+  "id": "",
+  "clase": "",
+  "atajo": "",
+  "rect": [
+   501,
+   135,
+   532,
+   169
+  ]
+ },
+ {
+  "nivel": 3,
+  "tipo": "SplitButton",
+  "nombre": "Pegar",
+  "id": "",
+  "clase": "",
+  "atajo": "",
+  "rect": [
+   533,
+   135,
+   578,
+   169
+  ]
+ },
+ {
+  "nivel": 3,
+  "tipo": "Button",
+  "nombre": "Pincel de formato",
+  "id": "",
+  "clase": "",
+  "atajo": "",
+  "rect": [
+   578,
+   135,
+   609,
+   169
+  ]
+ },
+ {
+  "nivel": 3,
+  "tipo": "Separator",
+  "nombre": "",
+  "id": "",
+  "clase": "",
+  "atajo": "",
+  "rect": [
+   609,
+   135,
+   619,
+   169
+  ]
+ },
+ {
+  "nivel": 3,
+  "tipo": "SplitButton",
+  "nombre": "No se puede deshacer",
+  "id": "",
+  "clase": "",
+  "atajo": "",
+  "rect": [
+   619,
+   135,
+   664,
+   169
+  ]
+ },
+ {
+  "nivel": 3,
+  "tipo": "SplitButton",
+  "nombre": "No se puede restaurar",
+  "id": "",
+  "clase": "",
+  "atajo": "",
+  "rect": [
+   664,
+   135,
+   709,
+   169
+  ]
+ },
+ {
+  "nivel": 3,
+  "tipo": "Separator",
+  "nombre": "",
+  "id": "",
+  "clase": "",
+  "atajo": "",
+  "rect": [
+   709,
+   135,
+   719,
+   169
+  ]
+ },
+ {
+  "nivel": 3,
+  "tipo": "Button",
+  "nombre": "Hiperenlace",
+  "id": "",
+  "clase": "",
+  "atajo": "",
+  "rect": [
+   719,
+   135,
+   750,
+   169
+  ]
+ },
+ {
+  "nivel": 3,
+  "tipo": "SplitButton",
+  "nombre": "Tabla",
+  "id": "",
+  "clase": "",
+  "atajo": "",
+  "rect": [
+   750,
+   135,
+   795,
+   169
+  ]
+ },
+ {
+  "nivel": 3,
+  "tipo": "Button",
+  "nombre": "Mostrar funciones de dibujo",
+  "id": "",
+  "clase": "",
+  "atajo": "",
+  "rect": [
+   795,
+   135,
+   826,
+   169
+  ]
+ },
+ {
+  "nivel": 3,
+  "tipo": "Separator",
+  "nombre": "",
+  "id": "",
+  "clase": "",
+  "atajo": "",
+  "rect": [
+   826,
+   135,
+   836,
+   169
+  ]
+ },
+ {
+  "nivel": 3,
+  "tipo": "Button",
+  "nombre": "Buscar y reemplazar",
+  "id": "",
+  "clase": "",
+  "atajo": "",
+  "rect": [
+   836,
+   135,
+   867,
+   169
+  ]
+ },
+ {
+  "nivel": 3,
+  "tipo": "Button",
+  "nombre": "Navegador",
+  "id": "",
+  "clase": "",
+  "atajo": "",
+  "rect": [
+   868,
+   135,
+   899,
+   169
+  ]
+ },
+ {
+  "nivel": 3,
+  "tipo": "Button",
+  "nombre": "Galería",
+  "id": "",
+  "clase": "",
+  "atajo": "",
+  "rect": [
+   899,
+   135,
+   930,
+   169
+  ]
+ },
+ {
+  "nivel": 3,
+  "tipo": "Button",
+  "nombre": "Fuentes de datos",
+  "id": "",
+  "clase": "",
+  "atajo": "",
+  "rect": [
+   930,
+   135,
+   961,
+   169
+  ]
+ },
+ {
+  "nivel": 3,
+  "tipo": "Button",
+  "nombre": "Caracteres no imprimibles",
+  "id": "",
+  "clase": "",
+  "atajo": "",
+  "rect": [
+   961,
+   135,
+   992,
+   169
+  ]
+ },
+ {
+  "nivel": 3,
+  "tipo": "Button",
+  "nombre": "Escala",
+  "id": "",
+  "clase": "",
+  "atajo": "",
+  "rect": [
+   993,
+   135,
+   1024,
+   169
+  ]
+ },
+ {
+  "nivel": 3,
+  "tipo": "Separator",
+  "nombre": "",
+  "id": "",
+  "clase": "",
+  "atajo": "",
+  "rect": [
+   1024,
+   135,
+   1034,
+   169
+  ]
+ },
+ {
+  "nivel": 3,
+  "tipo": "Button",
+  "nombre": "Ayuda de OpenOffice",
+  "id": "",
+  "clase": "",
+  "atajo": "",
+  "rect": [
+   1034,
+   135,
+   1065,
+   169
+  ]
+ },
+ {
+  "nivel": 2,
+  "tipo": "ToolBar",
+  "nombre": "Buscar",
+  "id": "",
+  "clase": "",
+  "atajo": "",
+  "rect": [
+   1088,
+   133,
+   1313,
+   172
+  ]
+ },
+ {
+  "nivel": 3,
+  "tipo": "Custom",
+  "nombre": "Buscar texto",
+  "id": "",
+  "clase": "",
+  "atajo": "",
+  "rect": [
+   1103,
+   138,
+   1228,
+   167
+  ]
+ },
+ {
+  "nivel": 4,
+  "tipo": "ComboBox",
+  "nombre": "Buscar texto",
+  "id": "",
+  "clase": "",
+  "atajo": "",
+  "rect": [
+   1103,
+   138,
+   1228,
+   167
+  ]
+ },
+ {
+  "nivel": 5,
+  "tipo": "Edit",
+  "nombre": "Buscar texto",
+  "id": "",
+  "clase": "",
+  "atajo": "",
+  "rect": [
+   1105,
+   140,
+   1204,
+   164
+  ]
+ },
+ {
+  "nivel": 3,
+  "tipo": "Button",
+  "nombre": "Buscar el siguiente",
+  "id": "",
+  "clase": "",
+  "atajo": "",
+  "rect": [
+   1228,
+   135,
+   1259,
+   169
+  ]
+ },
+ {
+  "nivel": 3,
+  "tipo": "Button",
+  "nombre": "Buscar el anterior",
+  "id": "",
+  "clase": "",
+  "atajo": "",
+  "rect": [
+   1259,
+   135,
+   1290,
+   169
+  ]
+ },
+ {
+  "nivel": 2,
+  "tipo": "ToolBar",
+  "nombre": "Formateo",
+  "id": "",
+  "clase": "",
+  "atajo": "",
+  "rect": [
+   75,
+   171,
+   1134,
+   210
+  ]
+ },
+ {
+  "nivel": 3,
+  "tipo": "Button",
+  "nombre": "Estilos y formateo",
+  "id": "",
+  "clase": "",
+  "atajo": "",
+  "rect": [
+   90,
+   174,
+   121,
+   208
+  ]
+ },
+ {
+  "nivel": 3,
+  "tipo": "Separator",
+  "nombre": "",
+  "id": "",
+  "clase": "",
+  "atajo": "",
+  "rect": [
+   121,
+   174,
+   131,
+   208
+  ]
+ },
+ {
+  "nivel": 3,
+  "tipo": "Custom",
+  "nombre": "Aplicar estilo",
+  "id": "",
+  "clase": "",
+  "atajo": "",
+  "rect": [
+   131,
+   176,
+   302,
+   205
+  ]
+ },
+ {
+  "nivel": 4,
+  "tipo": "ComboBox",
+  "nombre": "Aplicar estilo",
+  "id": "",
+  "clase": "",
+  "atajo": "",
+  "rect": [
+   131,
+   176,
+   302,
+   205
+  ]
+ },
+ {
+  "nivel": 5,
+  "tipo": "Edit",
+  "nombre": "Aplicar estilo",
+  "id": "",
+  "clase": "",
+  "atajo": "",
+  "rect": [
+   134,
+   179,
+   279,
+   203
+  ]
+ },
+ {
+  "nivel": 3,
+  "tipo": "Separator",
+  "nombre": "",
+  "id": "",
+  "clase": "",
+  "atajo": "",
+  "rect": [
+   303,
+   174,
+   313,
+   208
+  ]
+ },
+ {
+  "nivel": 3,
+  "tipo": "Custom",
+  "nombre": "Nombre de fuente",
+  "id": "",
+  "clase": "",
+  "atajo": "",
+  "rect": [
+   313,
+   176,
+   506,
+   205
+  ]
+ },
+ {
+  "nivel": 4,
+  "tipo": "ComboBox",
+  "nombre": "Nombre de fuente",
+  "id": "",
+  "clase": "",
+  "atajo": "",
+  "rect": [
+   313,
+   176,
+   506,
+   205
+  ]
+ },
+ {
+  "nivel": 5,
+  "tipo": "Edit",
+  "nombre": "Nombre de fuente",
+  "id": "",
+  "clase": "",
+  "atajo": "",
+  "rect": [
+   315,
+   179,
+   481,
+   203
+  ]
+ },
+ {
+  "nivel": 3,
+  "tipo": "Separator",
+  "nombre": "",
+  "id": "",
+  "clase": "",
+  "atajo": "",
+  "rect": [
+   505,
+   174,
+   515,
+   208
+  ]
+ },
+ {
+  "nivel": 3,
+  "tipo": "Custom",
+  "nombre": "Tamaño de fuente",
+  "id": "",
+  "clase": "",
+  "atajo": "",
+  "rect": [
+   515,
+   176,
+   593,
+   205
+  ]
+ },
+ {
+  "nivel": 4,
+  "tipo": "ComboBox",
+  "nombre": "Tamaño de fuente",
+  "id": "",
+  "clase": "",
+  "atajo": "",
+  "rect": [
+   515,
+   176,
+   593,
+   205
+  ]
+ },
+ {
+  "nivel": 5,
+  "tipo": "Edit",
+  "nombre": "Tamaño de fuente",
+  "id": "",
+  "clase": "",
+  "atajo": "",
+  "rect": [
+   518,
+   179,
+   569,
+   203
+  ]
+ },
+ {
+  "nivel": 3,
+  "tipo": "Separator",
+  "nombre": "",
+  "id": "",
+  "clase": "",
+  "atajo": "",
+  "rect": [
+   593,
+   174,
+   603,
+   208
+  ]
+ },
+ {
+  "nivel": 3,
+  "tipo": "Button",
+  "nombre": "Negrita",
+  "id": "",
+  "clase": "",
+  "atajo": "",
+  "rect": [
+   603,
+   174,
+   634,
+   208
+  ]
+ },
+ {
+  "nivel": 3,
+  "tipo": "Button",
+  "nombre": "Cursiva",
+  "id": "",
+  "clase": "",
+  "atajo": "",
+  "rect": [
+   634,
+   174,
+   665,
+   208
+  ]
+ },
+ {
+  "nivel": 3,
+  "tipo": "Button",
+  "nombre": "Subrayado",
+  "id": "",
+  "clase": "",
+  "atajo": "",
+  "rect": [
+   665,
+   174,
+   696,
+   208
+  ]
+ },
+ {
+  "nivel": 3,
+  "tipo": "Separator",
+  "nombre": "",
+  "id": "",
+  "clase": "",
+  "atajo": "",
+  "rect": [
+   696,
+   174,
+   706,
+   208
+  ]
+ },
+ {
+  "nivel": 3,
+  "tipo": "Button",
+  "nombre": "Alinear a la izquierda",
+  "id": "",
+  "clase": "",
+  "atajo": "",
+  "rect": [
+   706,
+   174,
+   737,
+   208
+  ]
+ },
+ {
+  "nivel": 3,
+  "tipo": "Button",
+  "nombre": "Centrado",
+  "id": "",
+  "clase": "",
+  "atajo": "",
+  "rect": [
+   738,
+   174,
+   769,
+   208
+  ]
+ },
+ {
+  "nivel": 3,
+  "tipo": "Button",
+  "nombre": "Alinear a la derecha",
+  "id": "",
+  "clase": "",
+  "atajo": "",
+  "rect": [
+   769,
+   174,
+   800,
+   208
+  ]
+ },
+ {
+  "nivel": 3,
+  "tipo": "Button",
+  "nombre": "Justificado",
+  "id": "",
+  "clase": "",
+  "atajo": "",
+  "rect": [
+   800,
+   174,
+   831,
+   208
+  ]
+ },
+ {
+  "nivel": 3,
+  "tipo": "Separator",
+  "nombre": "",
+  "id": "",
+  "clase": "",
+  "atajo": "",
+  "rect": [
+   831,
+   174,
+   841,
+   208
+  ]
+ },
+ {
+  "nivel": 3,
+  "tipo": "Separator",
+  "nombre": "",
+  "id": "",
+  "clase": "",
+  "atajo": "",
+  "rect": [
+   0,
+   0,
+   0,
+   0
+  ]
+ },
+ {
+  "nivel": 3,
+  "tipo": "Separator",
+  "nombre": "",
+  "id": "",
+  "clase": "",
+  "atajo": "",
+  "rect": [
+   0,
+   0,
+   0,
+   0
+  ]
+ },
+ {
+  "nivel": 3,
+  "tipo": "Button",
+  "nombre": "Activar/desactivar numeración",
+  "id": "",
+  "clase": "",
+  "atajo": "",
+  "rect": [
+   841,
+   174,
+   872,
+   208
+  ]
+ },
+ {
+  "nivel": 3,
+  "tipo": "Button",
+  "nombre": "Activar/desactivar viñetas",
+  "id": "",
+  "clase": "",
+  "atajo": "",
+  "rect": [
+   873,
+   174,
+   904,
+   208
+  ]
+ },
+ {
+  "nivel": 3,
+  "tipo": "Button",
+  "nombre": "Reducir sangría",
+  "id": "",
+  "clase": "",
+  "atajo": "",
+  "rect": [
+   904,
+   174,
+   935,
+   208
+  ]
+ },
+ {
+  "nivel": 3,
+  "tipo": "Button",
+  "nombre": "Aumentar sangría",
+  "id": "",
+  "clase": "",
+  "atajo": "",
+  "rect": [
+   935,
+   174,
+   966,
+   208
+  ]
+ },
+ {
+  "nivel": 3,
+  "tipo": "Separator",
+  "nombre": "",
+  "id": "",
+  "clase": "",
+  "atajo": "",
+  "rect": [
+   966,
+   174,
+   976,
+   208
+  ]
+ },
+ {
+  "nivel": 3,
+  "tipo": "SplitButton",
+  "nombre": "Color de fuente",
+  "id": "",
+  "clase": "",
+  "atajo": "",
+  "rect": [
+   976,
+   174,
+   1021,
+   208
+  ]
+ },
+ {
+  "nivel": 3,
+  "tipo": "SplitButton",
+  "nombre": "Fondo de carácter",
+  "id": "",
+  "clase": "",
+  "atajo": "",
+  "rect": [
+   1021,
+   174,
+   1066,
+   208
+  ]
+ },
+ {
+  "nivel": 3,
+  "tipo": "SplitButton",
+  "nombre": "Color de fondo",
+  "id": "",
+  "clase": "",
+  "atajo": "",
+  "rect": [
+   1066,
+   174,
+   1111,
+   208
+  ]
+ },
+ {
+  "nivel": 3,
+  "tipo": "Separator",
+  "nombre": "",
+  "id": "",
+  "clase": "",
+  "atajo": "",
+  "rect": [
+   0,
+   0,
+   0,
+   0
+  ]
+ },
+ {
+  "nivel": 1,
+  "tipo": "Custom",
+  "nombre": "",
+  "id": "",
+  "clase": "",
+  "atajo": "",
+  "rect": [
+   0,
+   0,
+   0,
+   0
+  ]
+ },
+ {
+  "nivel": 1,
+  "tipo": "Custom",
+  "nombre": "",
+  "id": "",
+  "clase": "",
+  "atajo": "",
+  "rect": [
+   0,
+   0,
+   0,
+   0
+  ]
+ },
+ {
+  "nivel": 1,
+  "tipo": "Custom",
+  "nombre": "",
+  "id": "",
+  "clase": "",
+  "atajo": "",
+  "rect": [
+   0,
+   0,
+   0,
+   0
+  ]
+ },
+ {
+  "nivel": 1,
+  "tipo": "StatusBar",
+  "nombre": "",
+  "id": "",
+  "clase": "",
+  "atajo": "",
+  "rect": [
+   75,
+   853,
+   1495,
+   879
+  ]
+ },
+ {
+  "nivel": 2,
+  "tipo": "Text",
+  "nombre": "Número de página",
+  "id": "",
+  "clase": "",
+  "atajo": "",
+  "rect": [
+   83,
+   855,
+   278,
+   878
+  ]
+ },
+ {
+  "nivel": 2,
+  "tipo": "Text",
+  "nombre": "Estilo de página",
+  "id": "",
+  "clase": "",
+  "atajo": "",
+  "rect": [
+   285,
+   855,
+   498,
+   878
+  ]
+ },
+ {
+  "nivel": 2,
+  "tipo": "Text",
+  "nombre": "Estatus de idioma",
+  "id": "",
+  "clase": "",
+  "atajo": "",
+  "rect": [
+   505,
+   855,
+   714,
+   878
+  ]
+ },
+ {
+  "nivel": 2,
+  "tipo": "Text",
+  "nombre": "Modo Insertar",
+  "id": "",
+  "clase": "",
+  "atajo": "",
+  "rect": [
+   721,
+   855,
+   777,
+   878
+  ]
+ },
+ {
+  "nivel": 2,
+  "tipo": "Text",
+  "nombre": "Modo Selección",
+  "id": "",
+  "clase": "",
+  "atajo": "",
+  "rect": [
+   785,
+   855,
+   820,
+   878
+  ]
+ },
+ {
+  "nivel": 2,
+  "tipo": "Text",
+  "nombre": "Documento modificado",
+  "id": "",
+  "clase": "",
+  "atajo": "",
+  "rect": [
+   828,
+   855,
+   841,
+   878
+  ]
+ },
+ {
+  "nivel": 2,
+  "tipo": "Text",
+  "nombre": "Firmas digitales",
+  "id": "",
+  "clase": "",
+  "atajo": "",
+  "rect": [
+   848,
+   855,
+   877,
+   878
+  ]
+ },
+ {
+  "nivel": 2,
+  "tipo": "Text",
+  "nombre": "Tamaño",
+  "id": "",
+  "clase": "",
+  "atajo": "",
+  "rect": [
+   884,
+   855,
+   1159,
+   878
+  ]
+ },
+ {
+  "nivel": 2,
+  "tipo": "Text",
+  "nombre": "",
+  "id": "",
+  "clase": "",
+  "atajo": "",
+  "rect": [
+   1166,
+   855,
+   1254,
+   878
+  ]
+ },
+ {
+  "nivel": 2,
+  "tipo": "Text",
+  "nombre": "",
+  "id": "",
+  "clase": "",
+  "atajo": "",
+  "rect": [
+   1261,
+   855,
+   1432,
+   878
+  ]
+ },
+ {
+  "nivel": 2,
+  "tipo": "Text",
+  "nombre": "Escala",
+  "id": "",
+  "clase": "",
+  "atajo": "",
+  "rect": [
+   1440,
+   855,
+   1488,
+   878
+  ]
+ }
+]

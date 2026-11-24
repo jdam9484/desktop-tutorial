@@ -1,0 +1,632 @@
+[
+ {
+  "nivel": 0,
+  "tipo": "Window",
+  "nombre": "Guia_de_Practica_de_Laboratorio__Ingenieria_Inversa_e_IA_—_UNAMAD.pdf - [Guía de",
+  "id": "",
+  "clase": "SUMATRA_PDF_FRAME",
+  "atajo": "",
+  "rect": [
+   520,
+   0,
+   1400,
+   1140
+  ]
+ },
+ {
+  "nivel": 1,
+  "tipo": "Pane",
+  "nombre": "",
+  "id": "",
+  "clase": "SUMATRA_PDF_CANVAS",
+  "atajo": "",
+  "rect": [
+   529,
+   80,
+   1391,
+   1131
+  ]
+ },
+ {
+  "nivel": 2,
+  "tipo": "ScrollBar",
+  "nombre": "Vertical",
+  "id": "NonClientVerticalScrollBar",
+  "clase": "",
+  "atajo": null,
+  "rect": [
+   1370,
+   80,
+   1391,
+   1131
+  ]
+ },
+ {
+  "nivel": 3,
+  "tipo": "Button",
+  "nombre": "Línea arriba",
+  "id": "UpButton",
+  "clase": "",
+  "atajo": null,
+  "rect": [
+   1370,
+   80,
+   1391,
+   101
+  ]
+ },
+ {
+  "nivel": 3,
+  "tipo": "Thumb",
+  "nombre": "Posición",
+  "id": "ScrollbarThumb",
+  "clase": "",
+  "atajo": null,
+  "rect": [
+   1370,
+   101,
+   1391,
+   303
+  ]
+ },
+ {
+  "nivel": 3,
+  "tipo": "Button",
+  "nombre": "Av Pág",
+  "id": "DownPageButton",
+  "clase": "",
+  "atajo": null,
+  "rect": [
+   1370,
+   303,
+   1391,
+   1110
+  ]
+ },
+ {
+  "nivel": 3,
+  "tipo": "Button",
+  "nombre": "Línea abajo",
+  "id": "DownButton",
+  "clase": "",
+  "atajo": null,
+  "rect": [
+   1370,
+   1110,
+   1391,
+   1131
+  ]
+ },
+ {
+  "nivel": 1,
+  "tipo": "Pane",
+  "nombre": "",
+  "id": "",
+  "clase": "CustomCaption",
+  "atajo": "",
+  "rect": [
+   529,
+   9,
+   1207,
+   46
+  ]
+ },
+ {
+  "nivel": 2,
+  "tipo": "Tab",
+  "nombre": "",
+  "id": "",
+  "clase": "SysTabControl32",
+  "atajo": "",
+  "rect": [
+   589,
+   16,
+   1207,
+   46
+  ]
+ },
+ {
+  "nivel": 3,
+  "tipo": "TabItem",
+  "nombre": "Home",
+  "id": "",
+  "clase": "",
+  "atajo": "",
+  "rect": [
+   591,
+   18,
+   891,
+   48
+  ]
+ },
+ {
+  "nivel": 3,
+  "tipo": "TabItem",
+  "nombre": "Guia_de_Practica_de_Laboratorio__Ingenieria_Inversa_e_IA_—_UNAMAD.pdf",
+  "id": "",
+  "clase": "",
+  "atajo": "",
+  "rect": [
+   891,
+   18,
+   1191,
+   48
+  ]
+ },
+ {
+  "nivel": 2,
+  "tipo": "Button",
+  "nombre": "",
+  "id": "104",
+  "clase": "Button",
+  "atajo": "",
+  "rect": [
+   559,
+   16,
+   589,
+   46
+  ]
+ },
+ {
+  "nivel": 2,
+  "tipo": "Button",
+  "nombre": "",
+  "id": "105",
+  "clase": "Button",
+  "atajo": "",
+  "rect": [
+   529,
+   16,
+   559,
+   46
+  ]
+ },
+ {
+  "nivel": 1,
+  "tipo": "Pane",
+  "nombre": "",
+  "id": "1011",
+  "clase": "ReBarWindow32",
+  "atajo": "",
+  "rect": [
+   529,
+   46,
+   1391,
+   80
+  ]
+ },
+ {
+  "nivel": 2,
+  "tipo": "ToolBar",
+  "nombre": "",
+  "id": "1010",
+  "clase": "ToolbarWindow32",
+  "atajo": "",
+  "rect": [
+   531,
+   48,
+   1391,
+   82
+  ]
+ },
+ {
+  "nivel": 3,
+  "tipo": "Image",
+  "nombre": "",
+  "id": "",
+  "clase": "Static",
+  "atajo": "",
+  "rect": [
+   663,
+   50,
+   711,
+   76
+  ]
+ },
+ {
+  "nivel": 3,
+  "tipo": "Text",
+  "nombre": "Página:",
+  "id": "",
+  "clase": "Static",
+  "atajo": "",
+  "rect": [
+   607,
+   53,
+   662,
+   73
+  ]
+ },
+ {
+  "nivel": 3,
+  "tipo": "Text",
+  "nombre": " / 5",
+  "id": "",
+  "clase": "Static",
+  "atajo": "",
+  "rect": [
+   715,
+   53,
+   737,
+   73
+  ]
+ },
+ {
+  "nivel": 3,
+  "tipo": "Edit",
+  "nombre": " / 5",
+  "id": "",
+  "clase": "Edit",
+  "atajo": "",
+  "rect": [
+   665,
+   53,
+   709,
+   73
+  ]
+ },
+ {
+  "nivel": 3,
+  "tipo": "Image",
+  "nombre": " / 5",
+  "id": "",
+  "clase": "Static",
+  "atajo": "",
+  "rect": [
+   1071,
+   50,
+   1198,
+   76
+  ]
+ },
+ {
+  "nivel": 3,
+  "tipo": "Edit",
+  "nombre": "",
+  "id": "",
+  "clase": "Edit",
+  "atajo": "",
+  "rect": [
+   1073,
+   53,
+   1196,
+   73
+  ]
+ },
+ {
+  "nivel": 3,
+  "tipo": "Text",
+  "nombre": "Buscar:",
+  "id": "",
+  "clase": "Static",
+  "atajo": "",
+  "rect": [
+   1017,
+   53,
+   1071,
+   73
+  ]
+ },
+ {
+  "nivel": 3,
+  "tipo": "Button",
+  "nombre": "Abrir (Ctrl + O)",
+  "id": "",
+  "clase": "",
+  "atajo": "",
+  "rect": [
+   531,
+   48,
+   563,
+   78
+  ]
+ },
+ {
+  "nivel": 3,
+  "tipo": "Button",
+  "nombre": "Imprimir (Ctrl + P)",
+  "id": "",
+  "clase": "",
+  "atajo": "",
+  "rect": [
+   563,
+   48,
+   595,
+   78
+  ]
+ },
+ {
+  "nivel": 3,
+  "tipo": "Separator",
+  "nombre": "",
+  "id": "",
+  "clase": "",
+  "atajo": "",
+  "rect": [
+   595,
+   48,
+   740,
+   78
+  ]
+ },
+ {
+  "nivel": 3,
+  "tipo": "Button",
+  "nombre": "Página anterior (P)",
+  "id": "",
+  "clase": "",
+  "atajo": "",
+  "rect": [
+   740,
+   48,
+   772,
+   78
+  ]
+ },
+ {
+  "nivel": 3,
+  "tipo": "Button",
+  "nombre": "Página siguiente (N)",
+  "id": "",
+  "clase": "",
+  "atajo": "",
+  "rect": [
+   772,
+   48,
+   804,
+   78
+  ]
+ },
+ {
+  "nivel": 3,
+  "tipo": "Separator",
+  "nombre": "",
+  "id": "",
+  "clase": "",
+  "atajo": "",
+  "rect": [
+   804,
+   48,
+   812,
+   78
+  ]
+ },
+ {
+  "nivel": 3,
+  "tipo": "Button",
+  "nombre": "Ajustar al ancho de página y mostrar las páginas de forma continua",
+  "id": "",
+  "clase": "",
+  "atajo": "",
+  "rect": [
+   812,
+   48,
+   844,
+   78
+  ]
+ },
+ {
+  "nivel": 3,
+  "tipo": "Button",
+  "nombre": "Ajustar a una sola página",
+  "id": "",
+  "clase": "",
+  "atajo": "",
+  "rect": [
+   844,
+   48,
+   876,
+   78
+  ]
+ },
+ {
+  "nivel": 3,
+  "tipo": "Button",
+  "nombre": "Girar a la izquierda (Ctrl + Shift + Subtract)",
+  "id": "",
+  "clase": "",
+  "atajo": "Alt+a",
+  "rect": [
+   876,
+   48,
+   908,
+   78
+  ]
+ },
+ {
+  "nivel": 3,
+  "tipo": "Button",
+  "nombre": "Girar a la derecha (Ctrl + Shift + +)",
+  "id": "",
+  "clase": "",
+  "atajo": "Alt+a",
+  "rect": [
+   908,
+   48,
+   940,
+   78
+  ]
+ },
+ {
+  "nivel": 3,
+  "tipo": "Button",
+  "nombre": "Reducir (Ctrl + Subtract)",
+  "id": "",
+  "clase": "",
+  "atajo": "",
+  "rect": [
+   940,
+   48,
+   972,
+   78
+  ]
+ },
+ {
+  "nivel": 3,
+  "tipo": "Button",
+  "nombre": "Ampliar (Ctrl + +)",
+  "id": "",
+  "clase": "",
+  "atajo": "",
+  "rect": [
+   972,
+   48,
+   1004,
+   78
+  ]
+ },
+ {
+  "nivel": 3,
+  "tipo": "Separator",
+  "nombre": "",
+  "id": "",
+  "clase": "",
+  "atajo": "",
+  "rect": [
+   1004,
+   48,
+   1197,
+   78
+  ]
+ },
+ {
+  "nivel": 3,
+  "tipo": "Button",
+  "nombre": "Buscar anterior (Shift + F3)",
+  "id": "",
+  "clase": "",
+  "atajo": "",
+  "rect": [
+   1197,
+   48,
+   1229,
+   78
+  ]
+ },
+ {
+  "nivel": 3,
+  "tipo": "Button",
+  "nombre": "Buscar siguiente (F3)",
+  "id": "",
+  "clase": "",
+  "atajo": "",
+  "rect": [
+   1229,
+   48,
+   1261,
+   78
+  ]
+ },
+ {
+  "nivel": 3,
+  "tipo": "CheckBox",
+  "nombre": "Alternar coincidir mayúsculas/minúsculas",
+  "id": "",
+  "clase": "",
+  "atajo": "",
+  "rect": [
+   1261,
+   48,
+   1293,
+   78
+  ]
+ },
+ {
+  "nivel": 3,
+  "tipo": "Separator",
+  "nombre": "",
+  "id": "",
+  "clase": "",
+  "atajo": "",
+  "rect": [
+   1293,
+   48,
+   1301,
+   78
+  ]
+ },
+ {
+  "nivel": 1,
+  "tipo": "TitleBar",
+  "nombre": "",
+  "id": "",
+  "clase": "",
+  "atajo": null,
+  "rect": [
+   0,
+   0,
+   0,
+   0
+  ]
+ },
+ {
+  "nivel": 2,
+  "tipo": "MenuBar",
+  "nombre": "Sistema",
+  "id": "MenuBar",
+  "clase": "",
+  "atajo": "Alt+Espacio",
+  "rect": [
+   529,
+   9,
+   557,
+   37
+  ]
+ },
+ {
+  "nivel": 3,
+  "tipo": "MenuItem",
+  "nombre": "Sistema",
+  "id": "",
+  "clase": "",
+  "atajo": "Espacio",
+  "rect": [
+   529,
+   9,
+   557,
+   37
+  ]
+ },
+ {
+  "nivel": 2,
+  "tipo": "Button",
+  "nombre": "Minimizar",
+  "id": "",
+  "clase": "",
+  "atajo": null,
+  "rect": [
+   1213,
+   1,
+   1273,
+   38
+  ]
+ },
+ {
+  "nivel": 2,
+  "tipo": "Button",
+  "nombre": "Maximizar",
+  "id": "",
+  "clase": "",
+  "atajo": null,
+  "rect": [
+   1273,
+   1,
+   1332,
+   38
+  ]
+ },
+ {
+  "nivel": 2,
+  "tipo": "Button",
+  "nombre": "Cerrar",
+  "id": "",
+  "clase": "",
+  "atajo": null,
+  "rect": [
+   1332,
+   1,
+   1392,
+   38
+  ]
+ }
+]

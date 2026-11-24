@@ -1,0 +1,214 @@
+[Window] "Sin título 1 - OpenOffice Writer" id= clase=SALFRAME
+  [TitleBar] "" id= clase=
+    [MenuBar] "Sistema" id=MenuBar clase= atajo=Alt+Espacio
+      [MenuItem] "Sistema" id= clase= atajo=Espacio
+    [Button] "Minimizar" id= clase=
+    [Button] "Maximizar" id= clase=
+    [Button] "Cerrar" id= clase=
+  [MenuBar] "" id= clase=
+    [MenuItem] "Archivo" id= clase= atajo=Alt+A
+    [MenuItem] "Editar" id= clase= atajo=Alt+E
+    [MenuItem] "Ver" id= clase= atajo=Alt+V
+    [MenuItem] "Insertar" id= clase= atajo=Alt+I
+    [MenuItem] "Formato" id= clase= atajo=Alt+F
+    [MenuItem] "Tabla" id= clase= atajo=Alt+A
+    [MenuItem] "Herramientas" id= clase= atajo=Alt+H
+    [MenuItem] "Ventana" id= clase= atajo=Alt+N
+    [MenuItem] "Ayuda" id= clase= atajo=Alt+U
+  [Custom] "" id= clase=
+    [Custom] "" id= clase=
+      [Document] "Sin nombre 1 - Documento OpenOffice" id= clase=
+        [Custom] "" id= clase=
+      [Custom] "" id= clase=
+      [Custom] "Horizontal Ruler" id= clase=
+      [Custom] "Vertical Ruler" id= clase=
+      [ScrollBar] "Horizontal scroll bar" id= clase=
+      [Button] "Haga clic en el botón de flecha arriba para ir a la página o al objeto anterior." id= clase=
+      [Button] "Haga clic en el botón de flecha abajo para ir a la siguiente página u objeto." id= clase=
+      [Button] "Navegación" id= clase=
+      [ScrollBar] "Vertical scroll bar" id= clase=
+    [Custom] "" id= clase=
+      [Custom] "Propiedades" id= clase=
+        [Custom] "" id= clase=
+          [CheckBox] "" id= clase=
+          [RadioButton] "" id= clase=
+          [RadioButton] "" id= clase=
+          [RadioButton] "" id= clase=
+          [RadioButton] "" id= clase=
+        [Custom] "" id= clase=
+          [Custom] "Propiedades" id= clase=
+            [ToolBar] "Tool Bar" id= clase=
+              [Button] "" id= clase=
+          [Custom] "" id= clase=
+            [Custom] "" id= clase=
+              [Custom] "" id= clase=
+                [Custom] "Text" id= clase=
+                  [ComboBox] "Fuente" id= clase=
+                    [Edit] "Fuente" id= clase=
+                  [ComboBox] "Tamaño de fuente" id= clase=
+                    [Edit] "Tamaño de fuente" id= clase=
+                  [Custom] "" id= clase=
+                    [ToolBar] "Font Effects" id= clase=
+                      [Button] "" id= clase=
+                      [Button] "" id= clase=
+                      [SplitButton] "" id= clase=
+                      [Button] "" id= clase=
+                      [Button] "" id= clase=
+                  [Custom] "" id= clase=
+                    [ToolBar] "Font Size Adjusting" id= clase=
+                      [Button] "" id= clase=
+                      [Button] "" id= clase=
+                  [Custom] "" id= clase=
+                    [ToolBar] "Font Position" id= clase=
+                      [Button] "" id= clase=
+                      [Button] "" id= clase=
+                  [Custom] "" id= clase=
+                    [ToolBar] "Character Spacing" id= clase=
+                      [SplitButton] "" id= clase=
+                  [Custom] "" id= clase=
+                    [ToolBar] "Tool Bar" id= clase=
+                      [SplitButton] "" id= clase=
+                  [Custom] "" id= clase=
+                    [ToolBar] "Highlight Color" id= clase=
+                      [SplitButton] "" id= clase=
+              [Custom] "Panel: Texto" id= clase=
+                [ToolBar] "Tool Bar" id= clase=
+                  [Button] "" id= clase=
+              [Custom] "" id= clase=
+                [Custom] "Paragraph" id= clase=
+                  [Custom] "" id= clase=
+                    [ToolBar] "Horizontal Alignment" id= clase=
+                      [Button] "Alineado a la izquierda" id= clase=
+                      [Button] "Alineado centrado" id= clase=
+                      [Button] "Alineado a la derecha" id= clase=
+                      [Button] "Alineado justificado" id= clase=
+                  [Custom] "" id= clase=
+                    [ToolBar] "Bullets and Numbering" id= clase=
+                      [SplitButton] "Viñetas" id= clase=
+                      [SplitButton] "Numeración" id= clase=
+                  [Custom] "" id= clase=
+                    [ToolBar] "Paragraph Background Color" id= clase=
+                      [SplitButton] "Color de fondo en párrafo" id= clase=
+                  [Text] "Espaciado:" id= clase=
+                  [Custom] "" id= clase=
+                    [ToolBar] "Spacing" id= clase=
+                      [Button] "Incrementar el espaciado" id= clase=
+                      [Button] "Reducir el espaciado" id= clase=
+                  [Edit] "Espaciado encima del párrafo" id= clase= atajo=Alt+s
+                  [Edit] "Espaciado debajo del párrafo" id= clase= atajo=Alt+s
+                  [Custom] "" id= clase=
+                    [ToolBar] "Line Spacing" id= clase=
+                      [SplitButton] "Interlineado" id= clase=
+                  [Text] "Sangría:" id= clase=
+                  [Custom] "" id= clase=
+                    [ToolBar] "Indent" id= clase=
+                      [Button] "Disminuir sangría" id= clase=
+                      [Button] "Aumentar sangría" id= clase=
+                      [Button] "Cambiar a sangría francesa" id= clase=
+                  [Edit] "Sangría anterior al texto" id= clase= atajo=Alt+S
+                  [Edit] "Sangría posterior al texto" id= clase= atajo=Alt+S
+                  [Edit] "Sangría de primera línea" id= clase= atajo=Alt+S
+                  [Custom] "" id= clase= atajo=Alt+S
+                  [Custom] "" id= clase= atajo=Alt+S
+                  [Custom] "" id= clase= atajo=Alt+S
+                  [Custom] "" id= clase= atajo=Alt+S
+                  [Custom] "" id= clase= atajo=Alt+S
+              [Custom] "Panel: Párrafo" id= clase=
+                [ToolBar] "Tool Bar" id= clase=
+                  [Button] "" id= clase=
+              [Custom] "Panel: Página" id= clase=
+                [ToolBar] "Tool Bar" id= clase=
+                  [Button] "" id= clase=
+          [Custom] "" id= clase=
+  [Custom] "" id= clase=
+    [ToolBar] "Estándar" id= clase=
+      [SplitButton] "Nuevo" id= clase=
+      [SplitButton] "Abrir" id= clase=
+      [Button] "Guardar" id= clase=
+      [Button] "Documento como correo electrónico" id= clase=
+      [Separator] "" id= clase=
+      [Button] "Editar archivo" id= clase=
+      [Separator] "" id= clase=
+      [Button] "Exportar directamente como PDF" id= clase=
+      [Button] "Imprimir archivo directamente (Nitro PDF Creator)" id= clase=
+      [Button] "Vista preliminar" id= clase=
+      [Separator] "" id= clase=
+      [Button] "Ortografía y gramática" id= clase=
+      [Button] "Revisión automática" id= clase=
+      [Separator] "" id= clase=
+      [Button] "Cortar" id= clase=
+      [Button] "Copiar" id= clase=
+      [SplitButton] "Pegar" id= clase=
+      [Button] "Pincel de formato" id= clase=
+      [Separator] "" id= clase=
+      [SplitButton] "No se puede deshacer" id= clase=
+      [SplitButton] "No se puede restaurar" id= clase=
+      [Separator] "" id= clase=
+      [Button] "Hiperenlace" id= clase=
+      [SplitButton] "Tabla" id= clase=
+      [Button] "Mostrar funciones de dibujo" id= clase=
+      [Separator] "" id= clase=
+      [Button] "Buscar y reemplazar" id= clase=
+      [Button] "Navegador" id= clase=
+      [Button] "Galería" id= clase=
+      [Button] "Fuentes de datos" id= clase=
+      [Button] "Caracteres no imprimibles" id= clase=
+      [Button] "Escala" id= clase=
+      [Separator] "" id= clase=
+      [Button] "Ayuda de OpenOffice" id= clase=
+    [ToolBar] "Buscar" id= clase=
+      [Custom] "Buscar texto" id= clase=
+        [ComboBox] "Buscar texto" id= clase=
+          [Edit] "Buscar texto" id= clase=
+      [Button] "Buscar el siguiente" id= clase=
+      [Button] "Buscar el anterior" id= clase=
+    [ToolBar] "Formateo" id= clase=
+      [Button] "Estilos y formateo" id= clase=
+      [Separator] "" id= clase=
+      [Custom] "Aplicar estilo" id= clase=
+        [ComboBox] "Aplicar estilo" id= clase=
+          [Edit] "Aplicar estilo" id= clase=
+      [Separator] "" id= clase=
+      [Custom] "Nombre de fuente" id= clase=
+        [ComboBox] "Nombre de fuente" id= clase=
+          [Edit] "Nombre de fuente" id= clase=
+      [Separator] "" id= clase=
+      [Custom] "Tamaño de fuente" id= clase=
+        [ComboBox] "Tamaño de fuente" id= clase=
+          [Edit] "Tamaño de fuente" id= clase=
+      [Separator] "" id= clase=
+      [Button] "Negrita" id= clase=
+      [Button] "Cursiva" id= clase=
+      [Button] "Subrayado" id= clase=
+      [Separator] "" id= clase=
+      [Button] "Alinear a la izquierda" id= clase=
+      [Button] "Centrado" id= clase=
+      [Button] "Alinear a la derecha" id= clase=
+      [Button] "Justificado" id= clase=
+      [Separator] "" id= clase=
+      [Separator] "" id= clase=
+      [Separator] "" id= clase=
+      [Button] "Activar/desactivar numeración" id= clase=
+      [Button] "Activar/desactivar viñetas" id= clase=
+      [Button] "Reducir sangría" id= clase=
+      [Button] "Aumentar sangría" id= clase=
+      [Separator] "" id= clase=
+      [SplitButton] "Color de fuente" id= clase=
+      [SplitButton] "Fondo de carácter" id= clase=
+      [SplitButton] "Color de fondo" id= clase=
+      [Separator] "" id= clase=
+  [Custom] "" id= clase=
+  [Custom] "" id= clase=
+  [Custom] "" id= clase=
+  [StatusBar] "" id= clase=
+    [Text] "Número de página" id= clase=
+    [Text] "Estilo de página" id= clase=
+    [Text] "Estatus de idioma" id= clase=
+    [Text] "Modo Insertar" id= clase=
+    [Text] "Modo Selección" id= clase=
+    [Text] "Documento modificado" id= clase=
+    [Text] "Firmas digitales" id= clase=
+    [Text] "Tamaño" id= clase=
+    [Text] "" id= clase=
+    [Text] "" id= clase=
+    [Text] "Escala" id= clase=

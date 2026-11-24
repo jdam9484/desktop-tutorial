@@ -1,0 +1,11 @@
+{
+ "titulo": "IrfanView",
+ "clase": "IrfanView",
+ "pid": 19904,
+ "proceso": "i_view64.exe",
+ "arranque_s": 0.31,
+ "rss_mb": 16.8,
+ "privada_mb": 2.3,
+ "nodos_uia": 41,
+ "items_menu": 265
+}

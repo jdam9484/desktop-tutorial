@@ -1,0 +1,404 @@
+{
+ "A_writer_abre": [
+  {
+   "abre": true,
+   "parrafos": [
+    [
+     "Heading 1",
+     "0",
+     "Outline",
+     [
+      [
+       "Titulo",
+       true,
+       false,
+       false,
+       20.0
+      ]
+     ]
+    ],
+    [
+     "Standard",
+     "0",
+     "",
+     [
+      [
+       "Hola ",
+       false,
+       false,
+       false,
+       12.0
+      ],
+      [
+       "negrita",
+       true,
+       false,
+       false,
+       12.0
+      ],
+      [
+       " ",
+       false,
+       false,
+       false,
+       12.0
+      ],
+      [
+       "cursiva",
+       false,
+       true,
+       false,
+       12.0
+      ],
+      [
+       " ",
+       false,
+       false,
+       false,
+       12.0
+      ],
+      [
+       "sub",
+       false,
+       false,
+       true,
+       12.0
+      ],
+      [
+       " ",
+       false,
+       false,
+       false,
+       12.0
+      ],
+      [
+       "grande",
+       false,
+       false,
+       false,
+       18.0
+      ]
+     ]
+    ],
+    [
+     "Standard",
+     "3",
+     "",
+     [
+      [
+       "centro",
+       false,
+       false,
+       false,
+       12.0
+      ]
+     ]
+    ],
+    [
+     "Standard",
+     "0",
+     "68210478939601832401",
+     [
+      [
+       "uno",
+       false,
+       false,
+       false,
+       12.0
+      ]
+     ]
+    ],
+    [
+     "Standard",
+     "0",
+     "68210478939601832401",
+     [
+      [
+       "dos",
+       false,
+       false,
+       false,
+       12.0
+      ]
+     ]
+    ],
+    [
+     "Standard",
+     "0",
+     "87197788236650043471",
+     [
+      [
+       "a",
+       false,
+       false,
+       false,
+       12.0
+      ]
+     ]
+    ],
+    [
+     "Standard",
+     "0",
+     "",
+     [
+      [
+       "fin",
+       false,
+       false,
+       false,
+       12.0
+      ]
+     ]
+    ]
+   ],
+   "archivo": "C:\\Users\\USUARIO\\Documents\\Claude\\tarea-ia\\muestras\\replica\\escritor.odt"
+  },
+  {
+   "abre": true,
+   "parrafos": [
+    [
+     "Heading 1",
+     "0",
+     "Outline",
+     [
+      [
+       "Titulo",
+       true,
+       false,
+       false,
+       20.0
+      ]
+     ]
+    ],
+    [
+     "Standard",
+     "0",
+     "",
+     [
+      [
+       "Hola ",
+       false,
+       false,
+       false,
+       12.0
+      ],
+      [
+       "negrita",
+       true,
+       false,
+       false,
+       12.0
+      ],
+      [
+       " ",
+       false,
+       false,
+       false,
+       12.0
+      ],
+      [
+       "cursiva",
+       false,
+       true,
+       false,
+       12.0
+      ],
+      [
+       " ",
+       false,
+       false,
+       false,
+       12.0
+      ],
+      [
+       "sub",
+       false,
+       false,
+       true,
+       12.0
+      ],
+      [
+       " ",
+       false,
+       false,
+       false,
+       12.0
+      ],
+      [
+       "grande",
+       false,
+       false,
+       false,
+       18.0
+      ]
+     ]
+    ],
+    [
+     "Standard",
+     "3",
+     "",
+     [
+      [
+       "centro",
+       false,
+       false,
+       false,
+       12.0
+      ]
+     ]
+    ],
+    [
+     "List Bullet",
+     "0",
+     "",
+     [
+      [
+       "uno",
+       false,
+       false,
+       false,
+       12.0
+      ]
+     ]
+    ],
+    [
+     "List Bullet",
+     "0",
+     "",
+     [
+      [
+       "dos",
+       false,
+       false,
+       false,
+       12.0
+      ]
+     ]
+    ],
+    [
+     "List Number",
+     "0",
+     "Outline",
+     [
+      [
+       "a",
+       false,
+       false,
+       false,
+       12.0
+      ]
+     ]
+    ],
+    [
+     "Standard",
+     "0",
+     "",
+     [
+      [
+       "fin",
+       false,
+       false,
+       false,
+       12.0
+      ]
+     ]
+    ]
+   ],
+   "archivo": "C:\\Users\\USUARIO\\Documents\\Claude\\tarea-ia\\muestras\\replica\\escritor.docx"
+  }
+ ],
+ "B_paint_abre": {
+  "png": [
+   "37 × 23píxeles"
+  ],
+  "bmp": [
+   "37 × 23píxeles"
+  ],
+  "jpg": [
+   "37 × 23píxeles"
+  ]
+ },
+ "D_irfan_abre": {
+  "bmp": [
+   "Compression = None",
+   "Image dimensions = 375 x 500  Pixels (3:4)"
+  ],
+  "jpg": [
+   "Compression = JPEG, quality: 80, subsampling ON (2x2)",
+   "Image dimensions = 375 x 500  Pixels (3:4)"
+  ],
+  "png": [
+   "Compression = PNG - ZIP",
+   "Image dimensions = 375 x 500  Pixels (3:4)"
+  ],
+  "gif": [
+   "Compression = GIF - LZW, Interlaced",
+   "Image dimensions = 375 x 500  Pixels (3:4)"
+  ],
+  "tif": [
+   "Compression = None",
+   "Image dimensions = 375 x 500  Pixels (3:4)"
+  ],
+  "webp": "TimeoutExpired(['C:\\\\Users\\\\USUARIO\\\\Documents\\\\Claude\\\\tarea-ia\\\\herramientas\\\\irfanview\\\\i_view64.exe', 'C:\\\\Users\\\\USUARIO\\\\Documents\\\\Claude\\\\tarea-ia\\\\muestras\\\\replica\\\\conv.webp', '/info=C:\\\\Users\\\\USUARIO\\\\Documents\\\\Claude\\\\tarea-ia\\\\evidencias\\\\resultados\\\\info_webp.txt', '/killmesoftly'], 20.0)"
+ },
+ "D_fidelidad": {
+  "png": {
+   "psnr": 54.3,
+   "kb_irfan": 372.2,
+   "kb_replica": 374.6
+  },
+  "bmp": {
+   "psnr": 54.3,
+   "kb_irfan": 550.8,
+   "kb_replica": 550.8
+  },
+  "tif": {
+   "psnr": 54.3,
+   "kb_irfan": 549.6,
+   "kb_replica": 549.5
+  },
+  "jpg": {
+   "psnr": 49.4,
+   "kb_irfan": 46.9,
+   "kb_replica": 47.5
+  }
+ },
+ "D_lote40_png_s": {
+  "irfan_proceso_por_archivo": 3.34,
+  "replica": 0.96
+ },
+ "rendimiento": {
+  "A_original": {
+   "arranque_s": 1.53,
+   "privada_mb": 30.7
+  },
+  "A_replica": {
+   "arranque_s": 0.51,
+   "privada_mb": 42.7
+  },
+  "B_original": {
+   "arranque_s": 0.37,
+   "privada_mb": 151.6
+  },
+  "B_replica": {
+   "arranque_s": 0.61,
+   "privada_mb": 49.9
+  },
+  "C_original": {
+   "arranque_s": 0.11,
+   "privada_mb": 20.1
+  },
+  "C_replica": {
+   "arranque_s": 1.01,
+   "privada_mb": 104.0
+  },
+  "D_original": {
+   "arranque_s": 0.11,
+   "privada_mb": 3.0
+  },
+  "D_replica": {
+   "arranque_s": 0.61,
+   "privada_mb": 47.7
+  }
+ }
+}

@@ -1,0 +1,45 @@
+[Window] "Guia_de_Practica_de_Laboratorio__Ingenieria_Inversa_e_IA_—_UNAMAD.pdf - [Guía de" id= clase=SUMATRA_PDF_FRAME
+  [Pane] "" id= clase=SUMATRA_PDF_CANVAS
+    [ScrollBar] "Vertical" id=NonClientVerticalScrollBar clase=
+      [Button] "Línea arriba" id=UpButton clase=
+      [Thumb] "Posición" id=ScrollbarThumb clase=
+      [Button] "Av Pág" id=DownPageButton clase=
+      [Button] "Línea abajo" id=DownButton clase=
+  [Pane] "" id= clase=CustomCaption
+    [Tab] "" id= clase=SysTabControl32
+      [TabItem] "Home" id= clase=
+      [TabItem] "Guia_de_Practica_de_Laboratorio__Ingenieria_Inversa_e_IA_—_UNAMAD.pdf" id= clase=
+    [Button] "" id=104 clase=Button
+    [Button] "" id=105 clase=Button
+  [Pane] "" id=1011 clase=ReBarWindow32
+    [ToolBar] "" id=1010 clase=ToolbarWindow32
+      [Image] "" id= clase=Static
+      [Text] "Página:" id= clase=Static
+      [Text] " / 5" id= clase=Static
+      [Edit] " / 5" id= clase=Edit
+      [Image] " / 5" id= clase=Static
+      [Edit] "" id= clase=Edit
+      [Text] "Buscar:" id= clase=Static
+      [Button] "Abrir (Ctrl + O)" id= clase=
+      [Button] "Imprimir (Ctrl + P)" id= clase=
+      [Separator] "" id= clase=
+      [Button] "Página anterior (P)" id= clase=
+      [Button] "Página siguiente (N)" id= clase=
+      [Separator] "" id= clase=
+      [Button] "Ajustar al ancho de página y mostrar las páginas de forma continua" id= clase=
+      [Button] "Ajustar a una sola página" id= clase=
+      [Button] "Girar a la izquierda (Ctrl + Shift + Subtract)" id= clase= atajo=Alt+a
+      [Button] "Girar a la derecha (Ctrl + Shift + +)" id= clase= atajo=Alt+a
+      [Button] "Reducir (Ctrl + Subtract)" id= clase=
+      [Button] "Ampliar (Ctrl + +)" id= clase=
+      [Separator] "" id= clase=
+      [Button] "Buscar anterior (Shift + F3)" id= clase=
+      [Button] "Buscar siguiente (F3)" id= clase=
+      [CheckBox] "Alternar coincidir mayúsculas/minúsculas" id= clase=
+      [Separator] "" id= clase=
+  [TitleBar] "" id= clase=
+    [MenuBar] "Sistema" id=MenuBar clase= atajo=Alt+Espacio
+      [MenuItem] "Sistema" id= clase= atajo=Espacio
+    [Button] "Minimizar" id= clase=
+    [Button] "Maximizar" id= clase=
+    [Button] "Cerrar" id= clase=

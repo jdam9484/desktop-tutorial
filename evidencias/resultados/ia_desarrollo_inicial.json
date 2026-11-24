@@ -1,0 +1,276 @@
+{
+ "fauna": {
+  "n": 90,
+  "top1": 0.6,
+  "top3": 0.8111111111111111,
+  "ms": 23.50060000026133,
+  "cobertura_umbral": 0.8444444444444444,
+  "precision_umbral": 0.6710526315789473,
+  "por_clase": {
+   "anaconda": 0.8,
+   "cacao": 0.6,
+   "caimán": 0.0,
+   "guacamayo": 0.6,
+   "heliconia": 0.4,
+   "jaguar": 1.0,
+   "lobo de río": 1.0,
+   "mariposa": 0.6,
+   "mono": 0.8,
+   "nenúfar gigante": 1.0,
+   "orquídea": 0.6,
+   "oso hormiguero": 0.4,
+   "palmera": 0.8,
+   "perezoso": 0.6,
+   "ronsoco": 0.4,
+   "tapir": 0.2,
+   "tucán": 0.0,
+   "águila harpía": 1.0
+  },
+  "errores": [
+   [
+    "tucán -> guacamayo",
+    5
+   ],
+   [
+    "caimán -> anaconda",
+    4
+   ],
+   [
+    "ronsoco -> lobo de río",
+    3
+   ],
+   [
+    "tapir -> jaguar",
+    2
+   ],
+   [
+    "anaconda -> castaña",
+    1
+   ],
+   [
+    "cacao -> orquídea",
+    1
+   ],
+   [
+    "cacao -> heliconia",
+    1
+   ],
+   [
+    "caimán -> lobo de río",
+    1
+   ]
+  ]
+ },
+ "bocetos": {
+  "n": 230,
+  "top1": 0.7304347826086957,
+  "top3": 0.8652173913043478,
+  "ms": 22.305199992842972,
+  "cobertura_umbral": 0.7130434782608696,
+  "precision_umbral": 0.8719512195121951,
+  "por_clase": {
+   "casa": 0.9,
+   "árbol": 0.3,
+   "sol": 0.7,
+   "gato": 1.0,
+   "perro": 0.7,
+   "pez": 0.8,
+   "pájaro": 0.7,
+   "flor": 1.0,
+   "carro": 0.7,
+   "barco": 1.0,
+   "avión": 0.7,
+   "bicicleta": 0.8,
+   "cara": 1.0,
+   "estrella": 1.0,
+   "manzana": 0.9,
+   "taza": 0.6,
+   "reloj": 0.4,
+   "llave": 0.7,
+   "montaña": 0.8,
+   "nube": 0.8,
+   "paraguas": 0.4,
+   "lentes": 0.8,
+   "mariposa": 0.1
+  },
+  "errores": [
+   [
+    "reloj -> cara",
+    6
+   ],
+   [
+    "paraguas -> cara",
+    6
+   ],
+   [
+    "mariposa -> cara",
+    5
+   ],
+   [
+    "árbol -> nube",
+    4
+   ],
+   [
+    "sol -> cara",
+    3
+   ],
+   [
+    "taza -> cara",
+    3
+   ],
+   [
+    "mariposa -> flor",
+    3
+   ],
+   [
+    "árbol -> flor",
+    2
+   ]
+  ]
+ },
+ "fondo": {
+  "n": 10,
+  "s_primera": 1.0568056000047363,
+  "s_mediana": 0.24997540001641028
+ },
+ "rag": {
+  "n": 10,
+  "aciertos": 9,
+  "citas_ok": 5,
+  "con_cita": 8,
+  "indexar_s": 5.35486626625061,
+  "fragmentos": 23,
+  "s_mediana": 12.785943388938904,
+  "detalle": [
+   {
+    "q": "¿Cuántas funciones esenciales debe documentar la matriz de trazabilidad?",
+    "r": "[pág. 2] ocho (08) funciones esenciales del programa original.",
+    "ok": true,
+    "cita_ok": true,
+    "s": 14.47537875175476
+   },
+   {
+    "q": "¿Qué módulo de IA pide la opción C?",
+    "r": "[pág. 1] Fila de tabla. Opción: C; Software de Referencia: Visor de Documentos (SumatraPDF / Lector PDF); Enfoque Técnico Principal: Renderizado de páginas, control de zoom, búsqueda de texto indexado y marcadores.; Módulo de IA a Integrar: Sistema RAG (Chat con el PDF) para responder consultas sobre el documento abierto.",
+    "ok": true,
+    "cita_ok": true,
+    "s": 14.432214260101318
+   },
+   {
+    "q": "¿Qué módulo de IA corresponde al conversor multimedia?",
+    "r": "La respuesta es: Clasificación automática de imágenes por contenido (ej. fauna y flora amazónica) al convertir. [pág. 2]",
+    "ok": true,
+    "cita_ok": true,
+    "s": 12.790684223175049
+   },
+   {
+    "q": "¿Cuánto dura la Fase 4?",
+    "r": "La Fase 4 dura 60 minutos. [pág. 4]",
+    "ok": true,
+    "cita_ok": false,
+    "s": 16.640992164611816
+   },
+   {
+    "q": "¿Qué herramienta registra los archivos y DLL que usa el programa?",
+    "r": "Process Monitor (Sysinternals). [pág. 2]",
+    "ok": true,
+    "cita_ok": true,
+    "s": 12.42682433128357
+   },
+   {
+    "q": "¿Qué está prohibido en la práctica según la nota de ética?",
+    "r": "[pág. 3] Está prohibido descompilar binarios con protección comercial o redistribuir activos gráficos propietarios.",
+    "ok": true,
+    "cita_ok": true,
+    "s": 12.781202554702759
+   },
+   {
+    "q": "¿Cuántos puntos vale la rúbrica en total?",
+    "r": "No encuentro ese dato en el documento.",
+    "ok": false,
+    "cita_ok": false,
+    "s": 11.954155445098877
+   },
+   {
+    "q": "¿En cuántas iteraciones se debe usar el LLM?",
+    "r": "Según el CONTEXTO, en tres iteraciones.",
+    "ok": true,
+    "cita_ok": false,
+    "s": 12.53558349609375
+   },
+   {
+    "q": "¿Cuál es el teléfono del docente?",
+    "r": "No encuentro ese dato en el documento.",
+    "ok": true,
+    "cita_ok": null,
+    "s": 11.969139099121094
+   },
+   {
+    "q": "¿Quién ganó el mundial de 2022?",
+    "r": "No encuentro ese dato en el documento.",
+    "ok": true,
+    "cita_ok": null,
+    "s": 15.713894844055176
+   }
+  ]
+ },
+ "corrector": {
+  "corregidos": 14,
+  "total": 16,
+  "s_mediana": 0.3895019292831421,
+  "detalle": [
+   {
+    "s": "Haller fui al mercado ha comprar frutas.",
+    "r": "Fui al mercado a comprar frutas.",
+    "ok": 1,
+    "de": 2
+   },
+   {
+    "s": "Ellos a sido muy amables con nosotros.",
+    "r": "Ellos han sido muy amables con nosotros.",
+    "ok": 1,
+    "de": 1
+   },
+   {
+    "s": "Haiga o no tiempo, ire mañana.",
+    "r": "Haya o no tiempo, iré mañana.",
+    "ok": 2,
+    "de": 2
+   },
+   {
+    "s": "El rio Tambopata esta muy cresido.",
+    "r": "El río Tambopata está muy crecido.",
+    "ok": 3,
+    "de": 3
+   },
+   {
+    "s": "Nose si podre hir a la universidad.",
+    "r": "No sé si podré ir a la universidad.",
+    "ok": 3,
+    "de": 3
+   },
+   {
+    "s": "Los niño juega en el parque.",
+    "r": "Los niños juegan en el parque.",
+    "ok": 1,
+    "de": 1
+   },
+   {
+    "s": "Me gustaria que bengas a la reunion.",
+    "r": "Me gustaría que vinieras a la reunión.",
+    "ok": 2,
+    "de": 3
+   },
+   {
+    "s": "Hubieron muchos accidentes el domingo.",
+    "r": "Hubo muchos accidentes el domingo.",
+    "ok": 1,
+    "de": 1
+   }
+  ]
+ },
+ "autocompletar": {
+  "s_primera": 4.575757026672363,
+  "s_siguientes": 0.21942520141601562
+ }
+}

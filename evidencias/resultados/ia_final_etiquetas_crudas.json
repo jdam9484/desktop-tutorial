@@ -1,0 +1,290 @@
+{
+ "fauna": {
+  "n": 90,
+  "top1": 0.8222222222222222,
+  "top3": 0.9333333333333333,
+  "ms": 27.75249998376239,
+  "cobertura_umbral": 0.9777777777777777,
+  "precision_umbral": 0.8295454545454546,
+  "por_clase": {
+   "anaconda": 0.8,
+   "cacao": 0.8,
+   "caimán": 0.6,
+   "guacamayo": 0.6,
+   "heliconia": 1.0,
+   "jaguar": 1.0,
+   "lobo de río": 0.8,
+   "mariposa": 1.0,
+   "mono": 1.0,
+   "nenúfar gigante": 0.6,
+   "orquídea": 1.0,
+   "oso hormiguero": 0.6,
+   "palmera": 1.0,
+   "perezoso": 0.6,
+   "ronsoco": 0.8,
+   "tapir": 0.8,
+   "tucán": 1.0,
+   "águila harpía": 0.8
+  },
+  "errores": [
+   [
+    "nenúfar gigante -> caimán",
+    2
+   ],
+   [
+    "anaconda -> caimán",
+    1
+   ],
+   [
+    "cacao -> shihuahuaco y árboles",
+    1
+   ],
+   [
+    "caimán -> lobo de río",
+    1
+   ],
+   [
+    "caimán -> rana",
+    1
+   ],
+   [
+    "guacamayo -> otro",
+    1
+   ],
+   [
+    "guacamayo -> castaña",
+    1
+   ],
+   [
+    "lobo de río -> caimán",
+    1
+   ]
+  ]
+ },
+ "bocetos": {
+  "n": 230,
+  "top1": 0.7652173913043478,
+  "top3": 0.8608695652173913,
+  "ms": 27.43695001117885,
+  "cobertura_umbral": 0.8652173913043478,
+  "precision_umbral": 0.8442211055276382,
+  "por_clase": {
+   "casa": 0.7,
+   "árbol": 0.5,
+   "sol": 1.0,
+   "gato": 0.9,
+   "perro": 0.9,
+   "pez": 0.8,
+   "pájaro": 0.8,
+   "flor": 0.8,
+   "carro": 0.7,
+   "barco": 1.0,
+   "avión": 0.8,
+   "bicicleta": 0.6,
+   "cara": 1.0,
+   "estrella": 1.0,
+   "manzana": 1.0,
+   "taza": 0.7,
+   "reloj": 0.4,
+   "llave": 0.5,
+   "montaña": 1.0,
+   "nube": 0.8,
+   "paraguas": 0.5,
+   "lentes": 1.0,
+   "mariposa": 0.2
+  },
+  "errores": [
+   [
+    "reloj -> manzana",
+    5
+   ],
+   [
+    "llave -> lentes",
+    4
+   ],
+   [
+    "mariposa -> manzana",
+    3
+   ],
+   [
+    "casa -> montaña",
+    2
+   ],
+   [
+    "árbol -> nube",
+    2
+   ],
+   [
+    "flor -> nube",
+    2
+   ],
+   [
+    "taza -> casa",
+    2
+   ],
+   [
+    "casa -> paraguas",
+    1
+   ]
+  ]
+ },
+ "fondo": {
+  "n": 10,
+  "s_primera": 1.076521999988472,
+  "s_mediana": 0.2504229999904055
+ },
+ "rag": {
+  "n": 12,
+  "aciertos": 11,
+  "citas_ok": 9,
+  "con_cita": 9,
+  "indexar_s": 9.347699403762817,
+  "fragmentos": 23,
+  "s_mediana": 2.073380470275879,
+  "detalle": [
+   {
+    "q": "¿Qué edición mínima de Python se requiere?",
+    "r": "La edición mínima de Python requerida es la 3.10 o superior. [pág. 2]",
+    "ok": true,
+    "cita_ok": true,
+    "s": 9.053797483444214
+   },
+   {
+    "q": "¿Cuánto tiempo se asigna a la Fase 2?",
+    "r": "Se asigna 30 minutos a la Fase 2: Análisis de Estructuras de Datos y Entrada/Salida [pág. 3].",
+    "ok": true,
+    "cita_ok": true,
+    "s": 4.091023921966553
+   },
+   {
+    "q": "¿Qué enfoque técnico corresponde al editor gráfico?",
+    "r": "El enfoque técnico principal del editor gráfico es la gestión de lienzo (Canvas), coordenadas (x, y), primitivas geométricas y paletas RGB. [pág. 1].",
+    "ok": true,
+    "cita_ok": true,
+    "s": 2.273571014404297
+   },
+   {
+    "q": "¿Qué módulo de IA le toca al procesador de texto?",
+    "r": "El módulo de IA que le toca al procesador de texto es un corrector de estilo semántico, un resumen automático de párrafos o un autocompletado contextual [pág. 1].",
+    "ok": true,
+    "cita_ok": true,
+    "s": 2.5433056354522705
+   },
+   {
+    "q": "¿Qué contiene la sección 6 del informe?",
+    "r": "La sección 6 del informe contiene la Rúbrica de Evaluación (Escala Vigesimal — 20 Puntos) [pág. 4].",
+    "ok": false,
+    "cita_ok": true,
+    "s": 2.0697457790374756
+   },
+   {
+    "q": "¿Dónde se entrega el informe?",
+    "r": "El estudiante deberá presentar en el aula virtual de la UNAMAD un informe técnico en formato PDF junto con el enlace al repositorio GitHub del proyecto [pág. 3].",
+    "ok": true,
+    "cita_ok": true,
+    "s": 2.0820369720458984
+   },
+   {
+    "q": "¿Qué tecnología se usa para acoplar la IA de forma asíncrona?",
+    "r": "La tecnología utilizada para acoplar la IA de forma asíncrona es threading o asyncio [pág. 3].",
+    "ok": true,
+    "cita_ok": true,
+    "s": 2.0770151615142822
+   },
+   {
+    "q": "¿De qué tamaño es la imagen de prueba mínima sugerida?",
+    "r": "La imagen de prueba mínima sugerida es de 10×10 píxeles de un solo color. [pág. 3]",
+    "ok": true,
+    "cita_ok": true,
+    "s": 1.8557801246643066
+   },
+   {
+    "q": "¿Qué editor hexadecimal se menciona?",
+    "r": "El editor hexadecimal mencionado es HxD [pág. 2].",
+    "ok": true,
+    "cita_ok": true,
+    "s": 1.4054903984069824
+   },
+   {
+    "q": "¿Cuál es el precio de la matrícula?",
+    "r": "No encuentro ese dato en el documento.",
+    "ok": true,
+    "cita_ok": null,
+    "s": 1.020453691482544
+   },
+   {
+    "q": "¿Qué nota sacó el estudiante?",
+    "r": "No encuentro ese dato en el documento.",
+    "ok": true,
+    "cita_ok": null,
+    "s": 0.8241961002349854
+   },
+   {
+    "q": "¿Cuántos habitantes tiene Puerto Maldonado?",
+    "r": "No encuentro ese dato en el documento.",
+    "ok": true,
+    "cita_ok": null,
+    "s": 1.2636520862579346
+   }
+  ]
+ },
+ "corrector": {
+  "corregidos": 10,
+  "total": 14,
+  "s_mediana": 0.4208935499191284,
+  "detalle": [
+   {
+    "s": "Nosotros fuimos haber la película.",
+    "r": "Fue a ver la película.",
+    "ok": 1,
+    "de": 1
+   },
+   {
+    "s": "Ahy un arbol muy alto en la plasa.",
+    "r": "Hay un árbol muy alto en la plaza.",
+    "ok": 3,
+    "de": 3
+   },
+   {
+    "s": "El a comido mucho oy.",
+    "r": "Han comido mucho hoy.",
+    "ok": 1,
+    "de": 2
+   },
+   {
+    "s": "La casa de mis abuelo son grandes.",
+    "r": "La casa de mis abuelos es grande.",
+    "ok": 1,
+    "de": 1
+   },
+   {
+    "s": "Dijistes que bendrias temprano.",
+    "r": "Dijisteis que vendríais temprano.",
+    "ok": 0,
+    "de": 2
+   },
+   {
+    "s": "Si yo tendria dinero viajaria.",
+    "r": "Si yo tuviera dinero viajaría.",
+    "ok": 2,
+    "de": 2
+   },
+   {
+    "s": "Mas sin embargo no lo iso.",
+    "r": "Sin embargo, no lo hago.",
+    "ok": 1,
+    "de": 2
+   },
+   {
+    "s": "Hicieron mejor de lo que esperabamos.",
+    "r": "Hicieron mejor de lo que esperábamos.",
+    "ok": 1,
+    "de": 1
+   }
+  ]
+ },
+ "autocompletar": {
+  "s_primera": 4.720574140548706,
+  "s_siguientes": 0.19922959804534912
+ }
+}

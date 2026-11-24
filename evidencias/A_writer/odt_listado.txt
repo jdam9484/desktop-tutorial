@@ -1,0 +1,22 @@
+Archive:  muestras/minimo_writer.odt
+ Length   Method    Size  Cmpr    Date    Time   CRC-32   Name
+--------  ------  ------- ---- ---------- ----- --------  ----
+      39  Stored       39   0% 2026-11-24 17:28 0c32c65e  mimetype
+       0  Defl:N        2   0% 2026-11-24 17:28 00000000  Configurations2/accelerator/current.xml
+       0  Stored        0   0% 2026-11-24 17:28 00000000  Configurations2/images/Bitmaps/
+       0  Stored        0   0% 2026-11-24 17:28 00000000  Configurations2/floater/
+       0  Stored        0   0% 2026-11-24 17:28 00000000  Configurations2/progressbar/
+       0  Stored        0   0% 2026-11-24 17:28 00000000  Configurations2/menubar/
+       0  Stored        0   0% 2026-11-24 17:28 00000000  Configurations2/popupmenu/
+       0  Stored        0   0% 2026-11-24 17:28 00000000  Configurations2/statusbar/
+       0  Stored        0   0% 2026-11-24 17:28 00000000  Configurations2/toolbar/
+       0  Stored        0   0% 2026-11-24 17:28 00000000  Configurations2/toolpanel/
+     943  Stored      943   0% 2026-11-24 17:28 3ec167a2  Thumbnails/thumbnail.png
+    3471  Defl:N      855  75% 2026-11-24 17:28 d9d67834  content.xml
+    8539  Defl:N     1337  84% 2026-11-24 17:28 0bafb0ca  settings.xml
+   10971  Defl:N     1973  82% 2026-11-24 17:28 f3c54b36  styles.xml
+     899  Defl:N      261  71% 2026-11-24 17:28 d268f7b4  manifest.rdf
+     963  Stored      963   0% 2026-11-24 17:28 781502e9  meta.xml
+    1086  Defl:N      290  73% 2026-11-24 17:28 a0d26ab9  META-INF/manifest.xml
+--------          -------  ---                            -------
+   26911             6663  75%                            17 files
