@@ -1,0 +1,17 @@
+PyQt6
+pillow
+pymupdf
+python-docx
+lxml
+numpy
+onnxruntime
+tokenizers
+requests
+# análisis, pruebas e informe
+psutil
+pywin32
+uiautomation
+pytest
+matplotlib
+reportlab
+python-pptx

@@ -1,0 +1,13 @@
+.venv/
+herramientas/
+modelos/
+cache_rag/
+evaluacion/fauna/
+evaluacion/fauna_test/
+__pycache__/
+.pytest_cache/
+lector_config.json
+muestras/.~lock*
+*.tmp
+@AutomationLog.txt
+informe/caratula ejemplo.pdf
